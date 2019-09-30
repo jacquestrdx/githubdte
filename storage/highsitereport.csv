@@ -1,0 +1,2006 @@
+
+Uitsig  HS
+
+Name,Ip,Model,Clients
+TFWB_Uitsig,10.100.63.129,CCR1009-8G-1S,51
+ TFWB-Uitsig-Sector-5-SW-Louisa,10.100.63.135,Rocket M5 Titanium,
+ TFWB-Uitsig-Sec-4-East,10.100.63.134,Rocket M5 Titanium,
+ TFWB-Uitsig-Sec2-W,10.100.63.132,Rocket M5 Titanium,
+ TFWB-Uitsig-Sec-1-N,10.100.63.131,Rocket M5 Titanium,
+ TFWB-Uitsig-Sec-3-S,10.100.63.133,Rocket M5 Titanium,
+TFWB-Uitsig-Sec6-S(45),10.100.63.199,,
+
+Temba Mast
+
+Name,Ip,Model,Clients
+BW-Temba,10.100.47.129,CCR1009-8G-1S,21
+ PowerBeam M5 400,10.100.47.251,0,
+ TFWB-Temba-Sec-4,10.100.47.135,Rocket M5 Titanium,
+ TFWB-Temba-Sec3-Boxfress,10.100.47.134,Rocket M5 Titanium,
+ TFWB-THEMBA-SEC-NE,10.100.47.133,Rocket M5 Titanium,
+ TFWB-Temba-Sec2,10.100.47.132,Rocket M5 Titanium,
+TEMBA-PM,10.250.4.38,0,
+
+Stinkfinger HS
+
+Name,Ip,Model,Clients
+Stinkstevingers PM,10.250.4.86,0,
+
+Sosh HS-002
+
+Name,Ip,Model,Clients
+SOSH-002-PM,10.254.44.7,0,
+
+Sosh HS-007
+
+Name,Ip,Model,Clients
+SOSH-HS-007-PM,10.123.124.50,0,
+
+Sosh HS-006
+
+Name,Ip,Model,Clients
+SOSH-HS-006-PM,10.254.68.9,0,
+Sosh6 - Amandasig-AP,10.100.22.34,0,
+Sosh6 - Amandasig-Station,10.100.22.35,0,
+BW-SOSH006,10.100.47.9,CCR1009-8G-1S,0
+
+Inthundla Lodge
+
+Name,Ip,Model,Clients
+
+Sosh HS-005
+
+Name,Ip,Model,Clients
+ TFWB-SOSH5-SEC-W,10.100.84.130,Rocket M5 Titanium,
+SOSH-005-PM,10.254.56.7,0,
+TFW-Sosh-HS-005,10.123.124.162,CCR1009-8G-1S,
+
+Sosh HS-001
+
+Name,Ip,Model,Clients
+TFWB-Sosh-Hs001,10.100.58.129,RB2011iLS,6
+ TFWB-Soch007-sec1,10.100.58.131,Rocket M5 Titanium,
+SOSH-001-PM,10.254.40.10,0,
+
+Sosh HS-003
+
+Name,Ip,Model,Clients
+SOSH-003-PM,10.254.48.6,0,
+
+Rooiwal HS
+
+Name,Ip,Model,Clients
+
+Sosh HS-008
+
+Name,Ip,Model,Clients
+SOSH-008-PM,10.254.84.7,0,
+
+Kameelfontein HS
+
+Name,Ip,Model,Clients
+BW_Kameeldrif,10.100.30.129,RB2011UiAS,1
+ www.bronbergwisp.co.za/Kameel-East,10.100.30.131,Rocket M5 Titanium,
+Kameel_PM,10.100.30.135,0,
+Moloto - Kammel-AP,10.100.30.10,0,
+Kameeldrif to Roodeplaat AP,10.100.67.10,,
+
+Sosh HS-011
+
+Name,Ip,Model,Clients
+Sosh-HS-011-PM,10.254.108.12,0,
+
+Sosh HS-009
+
+Name,Ip,Model,Clients
+TFW-Sosh-009,10.123.124.153,,
+
+Sosh HS-010
+
+Name,Ip,Model,Clients
+SOSH-010-PM,10.254.96.7,0,
+TFW Soshunguve HS-010-Library Hotspot,129.205.80.23,RB1100AHx2,
+
+Burkea HS
+
+Name,Ip,Model,Clients
+
+Vibro Rosslyn HS
+
+Name,Ip,Model,Clients
+Vibro Roslyn HS,10.100.80.129,RB2011UiAS,4
+ BW-VIB-SEC-NE-CLIENTS,10.100.80.133,Rocket M5 Titanium,
+ BW-VIB-SEC-S,10.100.80.132,Rocket M5 Titanium,
+ BW-VIB-SECT-NW,10.100.80.131,Rocket M5 Titanium,
+V-Roslyn_PM,10.100.80.137,0,
+BW-BH-AMANDA2-VIBRO,10.100.80.11,,
+
+Refilwe HS
+
+Name,Ip,Model,Clients
+TFWB-Rifilwe,10.100.66.129,RB2011UiAS,1
+ Rocket M5 Titanium GPS,10.100.66.131,Rocket M5 Titanium,
+REFILWE-PM,10.250.0.10,0,
+
+Cullinan HS
+
+Name,Ip,Model,Clients
+BW-Cullinan-MK,10.100.98.129,RB2011UiAS,8
+ TFWB-Cullinan-Sec1-N,10.100.98.131,Rocket M5 Titanium,
+CULLINAN-PM,10.250.22.78,0,
+TFWB-Cul-Sec2-E,10.100.98.132,,
+Cullinan - Static 1,10.250.22.75,,
+Cullinan - Static 2,10.250.22.76,,
+Cullinan - PTZ,10.250.22.77,,
+
+Amanda Sig 2
+
+Name,Ip,Model,Clients
+Amanda New PM,10.250.29.18,0,
+
+Amanda Sig 1
+
+Name,Ip,Model,Clients
+Amandasig PPPOE,10.100.22.129,CCR1009-8G-1S,51
+ BW-AMANDA-SEC-NE,10.100.22.133,Rocket M5 Titanium,
+ BW-AMANDA-SEC-SW,10.100.22.132,Rocket M5 Titanium,
+ BW-AMANDA-SEC-NW,10.100.22.131,Rocket M5 Titanium,
+ BW-AMANDA-SEC-SE,10.100.22.134,Rocket M5 Titanium,
+AMANDA_PM,10.100.22.139,0,
+BW-BH-AMANDA2-VIBRO,10.100.80.10,,
+Static Cam,10.100.22.22,,
+
+Wonderboom Nek HS
+
+Name,Ip,Model,Clients
+tfwb-WB-Nek,10.100.46.129,RB2011UiAS,37
+ TFWB-Wonderboomnek-Sec-N,10.100.46.134,Rocket M5 Titanium,
+ TFWB-Wonderboomnek-Sec-S,10.100.46.133,Rocket M5 Titanium,
+ TFWB-Wonderboomnek-Sec-NW,10.100.46.131,Rocket M5 Titanium,
+ TFWB-Wonderboomnek-Sec-NE,10.100.46.132,Rocket M5 Titanium,
+TFWB-Wonderboomnek-Sec-PM,10.100.46.166,0,
+
+Wonderboom HS
+
+Name,Ip,Model,Clients
+Wonderboom HS,10.100.21.129,RB2011UiAS,35
+ WDB-SECTOR-3,10.100.21.210,Rocket M5 Titanium,
+WDB-SECT-NE,10.100.21.136,Rocket M5 Titanium,
+WDB-SECTOR4,10.100.21.134,Rocket M5 Titanium,
+ WDB-SECTOR-2,10.100.21.132,Rocket M5 Titanium,
+ WDB-SECTOR1,10.100.21.131,Rocket M5 Titanium,
+WBD_PM,10.100.21.139,0,
+Castle - WDB-Station,10.100.21.11,0,
+BW-WDB-VOIP-NE,10.100.21.138,,
+
+Magalieskruin HS
+
+Name,Ip,Model,Clients
+TFWB-Magalieskruin NEW,10.100.144.129,CCR1009-7G-1C-1S+,50
+ TFWB-Magalieskruin-Sec-SE,10.100.144.135,Rocket M5,
+ www.bronbergwisp.co.za/Magal-NE,10.100.144.134,Rocket M5 Titanium,
+ TFWB-Magalieskruin-Sec-NNW,10.100.144.133,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/Magal-NNE,10.100.144.132,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/Magali-NW,10.100.144.131,Rocket M5 Titanium,
+MAGALIESKRUIN-PM,10.100.144.139,0,
+Magalieskruin - Static 1,10.250.4.123,,
+
+Montana HS
+
+Name,Ip,Model,Clients
+TFWB_Montana,10.100.59.129,CCR1009-8G-1S,74
+ TFWB-Montana-Devotech,10.100.59.134,PowerBeam M5,
+ TFWB-Montana-Sec-3,10.100.59.133,Rocket M5 Titanium,
+ TFWB-Montana-Sec-1,10.100.59.131,Rocket M5 Titanium,
+ TFWB-Montana-Sec-4,10.100.59.135,Rocket M5 Titanium,
+ TFWB-Montana-Sec-2,10.100.59.132,Rocket M5 Titanium,
+MONTANA-PM,10.100.59.137,0,
+Montana - Static 1,10.250.23.195,,
+Montana - Static 2,10.250.23.196,,
+Montana - PTZ,10.250.23.198,,
+
+Moloto HS
+
+Name,Ip,Model,Clients
+Moloto HS,10.100.29.129,RB2011UiAS,24
+ Mol-Sect-2,10.100.29.132,Rocket M5,
+ UBNT-MOL-SEC-1,10.100.29.131,Rocket M5,
+Moloto_PM,10.100.29.139,0,
+Castle - Moloto-AP,10.100.29.10,0,
+Castle - Moloto-Station,10.100.29.13,0,
+Moloto - Kammel-Station,10.100.30.13,0,
+
+Waverley HS
+
+Name,Ip,Model,Clients
+Waverley - Static 1,10.250.17.139,,
+Waverley - PTZ,10.250.17.140,,
+
+Mame HS-004
+
+Name,Ip,Model,Clients
+MAME-004-PM(SOLAR),10.250.4.109,0,
+
+Mame HS-001
+
+Name,Ip,Model,Clients
+MAME-001-PM,10.254.0.6,0,
+
+Mame HS-002
+
+Name,Ip,Model,Clients
+MAME-002-PM,10.123.124.90,0,
+
+Cable View HS
+
+Name,Ip,Model,Clients
+TFWB-HartiesOrCableView,10.100.74.129,RB2011UiAS,47
+ BW-HARTIES-Sect-SE,10.100.74.134,Rocket M5 Titanium,
+ BW-HARTIES-Sect-W,10.100.74.133,Rocket M5 Titanium,
+ BW-HARTIES-Sect-S,10.100.74.132,Rocket M5 Titanium,
+ BW-HARTIES-Sect-NE,10.100.74.135,Rocket M5 Titanium,
+ BW-HARTIES-Sect-E,10.100.74.131,Rocket M5 Titanium,
+TFWB-MountainView Mikrotik,10.100.142.129,CCR1009-8G-1S,29
+Harties Camera Toughswitch,10.100.74.18,,
+
+Mamelodi CC
+
+Name,Ip,Model,Clients
+MAME CC-PM,10.254.3.2,0,
+
+Ekandastria HS
+
+Name,Ip,Model,Clients
+Ekandastria,10.100.69.129,RB2011UiAS,2
+ TFW-Ekandustria-Sec1-N,10.100.69.130,Rocket M5 Titanium,
+EKANDUSTRIA-PM,10.250.22.37,0,
+Ekandastria - Static 1,10.250.22.43,,
+Ekandastria - Static 2,10.250.22.44,,
+Ekandastria - PTZ,10.250.22.45,,
+
+Rayton HS
+
+Name,Ip,Model,Clients
+BW-Rayton HS,10.100.79.129,RB2011UiAS,12
+ BW-Rayton-Sect-1,10.100.79.130,Rocket M5 Titanium,
+RAYTON-PM,10.250.22.93,0,
+Rayton - Static Main 1,10.250.22.84,,
+
+Hercules East HS
+
+Name,Ip,Model,Clients
+TFWB-Hercules_East,10.100.62.129,RB2011iLS,24
+ TFWB-Herculus-Sec-S,10.100.62.133,Rocket M5 Titanium,
+ TFWB-Herculus-Sec-NE,10.100.62.132,Rocket M5 Titanium,
+ TFWB-Herculus-Sec-NW,10.100.62.131,Rocket M5 Titanium,
+HKL-PM,10.250.4.158,0,
+
+Lotus Gardens HS
+
+Name,Ip,Model,Clients
+TFWB-Lotus,10.100.76.129,CCR1009-8G-1S,5
+ TFWB-Lotus_Garden-Sec4,10.100.76.134,Rocket M5 Titanium,
+ TFWB-Lotus_Garden-Sec3,10.100.76.133,Rocket M5 Titanium,
+ TFWB-Lotus_Garden-Sec2,10.100.76.132,Rocket M5 Titanium,
+ TFWB-Lotus_Garden-Sec1,10.100.76.131,Rocket M5 Titanium,
+LTS_PM,10.250.33.41,0,
+
+Meintjieskop HS
+
+Name,Ip,Model,Clients
+
+Moreleta HS
+
+Name,Ip,Model,Clients
+BW-Moreleta-HS,10.100.44.129,CCR1016-12G,66
+ TFWB-Mor-Sec5,10.100.44.136,Rocket M5 Titanium,
+ TFWB-Mor-Sec4-W,10.100.44.134,Rocket M5 Titanium,
+ TFWB-Mor-Sec3-S,10.100.44.133,Rocket M5 Titanium,
+ TFWB-Mor-Sec1-N,10.100.44.131,Rocket M5 Titanium,
+ TFWB-Moreleta-Synexus-PtP,10.100.44.34,0,
+ TFWB-Mor-Sec2-E,10.100.44.132,Rocket M5 Titanium,
+MORELETA-PM,10.250.22.181,0,
+Moreleta - Static 1,10.250.22.179,,
+Moreleta - PTZ,10.250.22.180,,
+SIAE @ Morelleta to Studio Burnett,10.100.44.42,,
+
+Urologies HS
+
+Name,Ip,Model,Clients
+BW-Urologies HS,10.100.36.129,RB2011UiAS,9
+ URO-SOUTH,10.100.36.134,Rocket M5 Titanium,
+ URO-NORTH,10.100.36.133,Rocket M5 Titanium,
+ URO-WEST,10.100.36.132,Rocket M5,
+ URO-SEC-EAST,10.100.36.131,Rocket M5,
+Urological Hospital Fibre Router,10.100.153.130,,
+Urological Hospital Distribution Fibre Switch,10.100.153.129,,
+
+CBD HS
+
+Name,Ip,Model,Clients
+CBD Mikrotik,10.100.18.129,CCR1036-12G-4S,23
+ CBD-SECT-SW,10.100.18.135,Rocket M5,
+ CBD-SECT-EAST,10.100.18.133,Rocket M5,
+ CBD-SECT-NE,10.100.18.138,Rocket M5 Titanium,
+ CBD-SECT-SE,10.100.18.137,Rocket M5 Titanium,
+ CBD-SECT-W,10.100.18.136,Rocket M5 Titanium,
+ CBD-SECT-SOUTH,10.100.18.134,Rocket M5 Titanium,
+ CBD-SEC-NW,10.100.18.132,Rocket M5 Titanium,
+ CBD-SEC-NW-2,10.100.18.147,Rocket M5 Titanium,
+ CBD-Heights,10.100.37.10,0,
+ TFWB-BH-CBD-PIETER DELPORT,10.100.5.10,0,
+CBD-PM,10.100.18.139,0,
+CBD-PM,10.250.5.154,0,
+Lammers - Cbd-Station,10.100.18.11,0,
+Vibro - CBD-Station,10.100.20.35,0,
+CBD - Groenkloof-Station,10.100.16.13,0,
+
+Chamboard HS
+
+Name,Ip,Model,Clients
+Chamboard,10.100.17.129,CCR1009-8G-1S,62
+ BW-Bridge-Blue,10.100.17.130,NanoBridge M5,
+ BW-SECTOR-BLACK,10.100.17.146,Rocket M5 Titanium,
+ BW-SECTOR-ORANGE,10.100.17.145,Rocket M5 Titanium,
+ BW-SECTOR-RED,10.100.17.137,0,
+ BW-SECTOR-GREEN,10.100.17.135,Rocket M5 Titanium,
+ BW-SECTOR-BLUE,10.100.17.134,Rocket M5 Titanium,
+ BronWISP Moore Stevens Sect Noord,10.100.17.228,Rocket M5,
+ BW-SECTOR-YELLOW,10.100.17.136,Rocket M5,
+CHAM_PM,10.100.17.138,0,
+Lemon Tree,10.100.150.2,CCR1009-8G-1S,1
+Lemontree-PM,10.100.150.6,,
+
+Murrayfield HS
+
+Name,Ip,Model,Clients
+BW-Murrayfield,10.100.81.129,CCR1009-8G-1S,42
+ Soillab PTP,10.100.81.251,0,
+ TFWB-Murrayfield-Sec-3-N,10.100.81.133,Rocket M5 Titanium,
+ TFWB-Murrayfield-Sec-2-SW,10.100.81.132,Rocket M5 Titanium,
+ TFWB-Murrayfield-Sec-1-NW,10.100.81.131,Rocket M5 Titanium,
+MrYfld-PM,10.100.81.19,0,
+WIL2 - Murrayfield-AP,10.100.81.12,0,
+
+Loft Apartments HS
+
+Name,Ip,Model,Clients
+Loft Apartments,10.100.19.129,RB2011UiAS,5
+ Rocket - LT-NORTH,10.100.19.132,Rocket M5,
+ Loft Sector South,10.100.19.131,Rocket M5,
+ CBD-Loft,10.100.19.10,Rocket M5,
+
+Voortrekker HS
+
+Name,Ip,Model,Clients
+
+Vibro Sandvlakte
+
+Name,Ip,Model,Clients
+TFWB_Sandvlakte,10.100.65.129,RB2011iLS,5
+ BW-Sandvlaket-Sec-W,10.100.65.134,Rocket M5 Titanium,
+ BW-Sandvlakte-Sec-O,10.100.65.133,Rocket M5 Titanium,
+ BW-Sandvalkte-Sec-N,10.100.65.132,Rocket M5 Titanium,
+ SandvlakteTower-SandvlakteOffice,10.100.65.131,NanoStation M5,
+SANDVLAKTE_PM,10.100.65.139,0,
+
+Muckleneuk HS
+
+Name,Ip,Model,Clients
+
+Wilgers 4 HS
+
+Name,Ip,Model,Clients
+
+Heights HS
+
+Name,Ip,Model,Clients
+Heights,10.100.37.129,RB2011UiAS,18
+  TFWBronberg-Heights-Sec2,10.100.37.133,Rocket M5 Titanium,
+  TFWBronberg-Heights-Sec1,10.100.37.132,Rocket M5 Titanium,
+Heights - Static 1,10.250.22.123,,
+
+Bronkhorstspruit HS
+
+Name,Ip,Model,Clients
+TFWB-Bronkhorstpruit,10.100.75.129,CCR1009-8G-1S,11
+ TFWB-Bronkhorstspruit-Sec3-W,10.100.75.133,Rocket M5 Titanium,
+ TFWB-VOIP-SEC-S,10.100.75.132,Rocket M5 Titanium,
+ TFWB-Bronkhorstspruit-Sec-S,10.100.75.131,Rocket M5 Titanium,
+BRONK_PM,10.250.22.22,0,
+TFW-Bronkhorstspruit H/S,10.100.56.9,CCR1009-8G-1S,0
+Bronkhorspruit - Static 1,10.250.22.19,,
+Bronkhorspruit - PTZ,10.250.22.21,,
+
+Gift Acres HS
+
+Name,Ip,Model,Clients
+
+Unknown
+
+Name,Ip,Model,Clients
+Google main,www.google.co.za,0,
+ www.wipronet.co.za/qumi2,10.105.20.246,Bullet M5,
+ QuminetAP,10.105.20.245,Rocket M5,
+ PtP - Gigantic Earth Movers,10.105.2.133,Rocket M5,
+ Link na Elnatan,10.105.20.250,Rocket M5,
+ Rigting Klipkop,10.105.20.141,PowerBeam M5,
+MH-KF2,10.105.20.145,PowerBeam M5,
+ Clearaccess Uplink,10.100.122.133,NanoBridge M5,
+Coetzee - Witpoort ,10.105.8.133,,
+
+Lynnwood HS 
+
+Name,Ip,Model,Clients
+
+Wilgers 2 HS
+
+Name,Ip,Model,Clients
+BW Wilgers 2,10.100.33.129,CCR1009-8G-1S,28
+ BW-WIL2-SEC-E,10.100.33.135,Rocket M5 Titanium,
+BW- Wil2-SEC-NE-BO,10.100.33.133,Rocket M5 Titanium,
+ BW-FGL3-TO-WIL2,10.100.33.10,PowerBeam M5,
+ BW-WIL2-SEC-N,10.100.33.132,Rocket M5 Titanium,
+ BW-WIL2-SEC-NE ONDER,10.100.33.134,Rocket M5 Titanium,
+BW-WIL_2-PM,10.100.33.140,0,
+WIL2 - Murrayfield-Station,10.100.81.13,0,
+WIL2 - Grove-AP,10.100.33.34,0,
+Wilgers 2 - Static 1,10.100.33.19,,
+Wilgers 2 - Static 2,10.100.33.20,,
+Wilgers 2 - Static 3,10.100.33.21,,
+
+Wilgers 3 HS
+
+Name,Ip,Model,Clients
+Wilgers 3 Wispsa,10.100.77.129,RB2011UiAS,30
+ WISPSA-WIL-SECTOR-2,10.100.77.132,Rocket M5 Titanium,
+ WISPSA-WIL-SECTOR-1,10.100.77.131,Rocket M5 Titanium,
+ Rocket M5,10.100.77.10,Rocket M5,
+ WISPSA-WIL-SECTOR-5 VOICE,10.100.77.135,Rocket M5,
+ WISPSA-WIL-SECTOR-4,10.100.77.134,Rocket M5,
+ WISPSA-WIL-SECTOR-3,10.100.77.133,Rocket M5,
+Wilgers 3 PM,10.100.77.139,,
+Wilgers 3 Camera Toughswitch,10.100.77.18,,
+Wilgers 3 Static Camera 1,10.100.77.19,,
+Wilgers 3 Static Camera 2,10.100.77.20,,
+
+Wilgers 1 HS
+
+Name,Ip,Model,Clients
+BW-Wilgers-1,10.100.31.129,CCR1009-8G-1S,24
+ BW-WIL1-SEC-N-ONDER,10.100.31.135,Rocket M5 Titanium,
+ BW-WIL1-SEC-N-BO,10.100.31.134,Rocket M5 Titanium,
+ BW-WIL1-SEC-NW,10.100.31.133,Rocket M5 Titanium,
+ BW-WIL1-SEC-NE,10.100.31.136,Rocket M5 Titanium,
+ BW-BH-WIL1-MAGALIES,10.100.91.10,0,
+WIL1-PM,10.100.31.23,0,
+Wilgers 1 - Static 1,10.100.31.19,,
+Wilgers 1 - Static 2,10.100.31.20,,
+Wilgers 1 - Static 3,10.100.31.21,,
+
+Twin City
+
+Name,Ip,Model,Clients
+Twin City,10.100.70.129,RB2011iLS,9
+ BW-Twincity-Sec4-W,10.100.70.134,Rocket M5 Titanium,
+ BW-Twincity-Sec3-S,10.100.70.133,Rocket M5 Titanium,
+ BW-Twincity-Sec2-E,10.100.70.132,Rocket M5 Titanium,
+ BW-Twincity-Sec1-N,10.100.70.131,Rocket M5 Titanium,
+ BW-GROENKLOOF-TO-TWINCITY,10.100.70.10,Rocket M5 Titanium,
+Pieter delport - TwinCity-Station,10.100.5.19,0,
+
+Faerie Glen 4
+
+Name,Ip,Model,Clients
+Faerie Glen 4,10.100.61.129,CCR1036-12G-4S,1
+ FGL4-TO-WIL1,10.100.31.10,0,
+ BW-FGL4-SEC SW 2,10.100.152.140,Rocket M5 Titanium,
+ BW-FGL4-SEC-NE,10.100.152.136,Rocket M5 Titanium,
+ BW-FGL4-SEC-SW,10.100.152.135,Rocket M5 Titanium,
+ BW-FGL4-SEC-W,10.100.152.134,Rocket M5 Titanium,
+ BW-FGL4-SEC-SE,10.100.152.133,Rocket M5 Titanium,
+ BW-FGL4-SEC-N,10.100.152.132,Rocket M5 Titanium,
+ BW-FGL4-SEC-NW,10.100.152.138,Rocket M5 Titanium,
+FGL4-PM,10.123.123.166,0,
+Faerie Glen 4 Camera Toughswitch,10.100.152.18,,
+Faerie Glen 4 Static Camera 1,10.100.152.20,,
+Faerie Glen 4 Static Camera 2,10.100.152.21,,
+Faerie Glen 4 Static Camera 3,10.100.152.22,,
+
+Faerie Glen 2 (Koedoesnek)
+
+Name,Ip,Model,Clients
+bwkoedoesnek,10.100.3.129,CCR1009-8G-1S-1S+,52
+ TFWB-FGL-North,10.100.3.134,Rocket M5 Titanium,
+ TFWB-FGL-South,10.100.3.131,Rocket M5 Titanium,
+Koedoesnek - FGL 3-Station,10.100.64.11,0,
+Koedoesnek  Fibre Tilera,10.99.1.14,CCR1016-12S-1S+,1
+Koedoesnek (FGL2) - Static 1,10.100.3.19,,
+Koedoesnek (FGL2) - Static 2,10.100.3.20,,
+Koedoesnek (FGL2) - Static 3,10.100.3.21,,
+Koedoesnek (FGL2) - Static 4,10.100.3.22,,
+Koedoesnek (FGL2) - Static 5,10.100.3.23,,
+BW-BH-FGL_2-TO-FGL_4,10.100.3.59,,
+
+Laudium HS
+
+Name,Ip,Model,Clients
+Laudium BW,10.100.93.129,CCR1009-8G-1S,19
+ TFWB-Luad-Sec-NW,10.100.93.131,Rocket M5 Titanium,
+ TFWB-Luad-Sec-NE,10.100.93.132,Rocket M5 Titanium,
+ Vibro Econslag HS Titanium,10.100.93.144,0,
+LAUD-PM,10.250.4.231,0,
+
+Faerie Glen 3
+
+Name,Ip,Model,Clients
+BW Faerie Glen 3,10.100.64.129,CCR1009-8G-1S,38
+ BW-FGL3-SEC-NE,10.100.64.135,Rocket M5 Titanium,
+ BW-FGL3-SEC4-E-ONDER,10.100.64.134,Rocket M5 Titanium,
+ BW-FGL3-SEC3-E-BO,10.100.64.133,Rocket M5 Titanium,
+ BW-FGL3-SEC2-W-ONDER,10.100.64.132,Rocket M5 Titanium,
+ BW-FGL3-SEC1-W-BO,10.100.64.131,Rocket M5 Titanium,
+ BW-BH-KOEDOESNEK-TO-FGL3,10.100.64.10,PowerBeam M5,
+ BW-FGL3-SEC-N,10.100.64.136,Rocket M5 Titanium,
+FGL-3_PM,10.100.64.138,0,
+FGL3 - WIL2-Station,10.100.33.11,0,
+Faerie Glen 3 Camera Toughswitch,10.100.64.18,,
+Faerie Glen 3 Static Camera 1,10.100.64.19,,
+Faerie Glen 3 Static Camera 2,10.100.64.20,,
+Faerie Glen 3 Static Camera 3,10.100.64.21,,
+
+Wapadrand HS
+
+Name,Ip,Model,Clients
+Wapadrand,10.100.52.129,RB2011UiAS,19
+ TFWB-Wapadrand-O,10.100.52.132,Rocket M5 Titanium,
+ Wapadrand Power Monitor,10.100.52.138,0,
+ TFWB-Wapadrand-W,10.100.52.133,Rocket M5 Titanium,
+ TFWB-Wapadrand-N,10.100.52.131,Rocket M5 Titanium,
+ Rocket 5AC Prism,10.100.52.10,0,
+Wapadrand Toughswitch Cameras,10.100.52.18,,
+Wapadrand  Static Cam 1,10.100.52.19,,
+Wapadrand  Static Cam 2,10.100.52.20,,
+Wapadrand  Static Cam 3,10.100.52.21,,
+
+Faerie Glen 1
+
+Name,Ip,Model,Clients
+BW_Faerie_Glen_1,10.100.88.129,CCR1036-12G-4S,41
+ BronWisp-Tower-North-2,10.100.88.136,Rocket M5,
+ Bronwisp-Tower-West-Eco,10.100.88.137,Rocket M5,
+ BronWisp-Tower-West-2,10.100.88.132,Rocket M5 Titanium,
+ BW-T-Voip-S1,10.100.88.139,Rocket M5 Titanium,
+ BronWisp-Tower-West-Broardwalk,10.100.88.131,Rocket M5,
+FGL1-PM,10.100.88.254,0,
+BronWisp-Tower-South-10,10.100.88.133,Rocket M5,
+Polaris - FGL5-AP,10.100.9.10,0,
+Faerie Glen 1 Camera Toughswitch,10.100.88.18,,
+Faerie Glen 1 Static Camera 1,10.100.88.19,,
+Faerie Glen 1 Static Camera 2,10.100.88.20,,
+Faerie Glen 1 Static Camera 3,10.100.88.21,,
+
+Skurweplaas HS
+
+Name,Ip,Model,Clients
+
+Klapperkop HS
+
+Name,Ip,Model,Clients
+Klapperkop (Groenkloof) - Static 1,10.250.17.11,,
+
+Farm Inn West HS
+
+Name,Ip,Model,Clients
+BW_Farm Inn_Tower_West_Backup,10.100.72.129,CCR1009-8G-1S-1S+,55
+ FI-WT-N,10.100.72.254,Rocket M5,
+ FI-WT-S,10.100.72.138,Rocket M5,
+ FI-WT-W,10.100.72.139,Rocket M5,
+ BW-Farmin-West-Sect-W,10.100.72.134,Rocket M5 Titanium,
+ BW-Farmin-West-Sect-S,10.100.72.133,Rocket M5 Titanium,
+ BW-Farmin-West-Sect-E,10.100.72.132,Rocket M5 Titanium,
+ BW-Farmin-West-Sect-N,10.100.72.131,Rocket M5 Titanium,
+FI_WT-PM,10.100.72.137,0,
+
+Farm Inn Main HS
+
+Name,Ip,Model,Clients
+
+ATTR HS-002
+
+Name,Ip,Model,Clients
+ATTR-002-PM,10.254.36.5,0,
+
+Lammers 1
+
+Name,Ip,Model,Clients
+Lammers 1 New,10.100.143.129,CCR1009-8G-1S-1S+,2
+ BW-LAM-SEC-SW,10.100.0.136,Rocket M5 Titanium,
+ BW-LAM-WEST,10.100.0.134,Rocket M5 Titanium,
+ BW-LAM_1-Voip-SW,10.100.0.138,Rocket M5,
+ BW-LAM_1-Voip-SE,10.100.0.137,Rocket M5,
+ BW-LAM-NORTH,10.100.0.133,Rocket M5,
+ BW-LAM-SECT-E,10.100.0.132,Rocket M5,
+ BW-LAM-SECT-N,10.100.0.131,Rocket M5,
+ BW-LAMMERS1-AC-SOUTH,10.100.143.141,Rocket M5 Titanium,
+ BW-LAMMERS1-AC-SOUTEAST-UPPER,10.100.143.140,Rocket M5 Titanium,
+ BW-LAMMERS1-AC-SOUTHWEST-UPPER,10.100.143.139,Rocket M5 Titanium,
+LAM1-PM,10.100.143.145,0,
+Lammers1,10.100.0.129,CCR1009-8G-1S,47
+Lammers - Cbd-AP,10.100.18.10,0,
+Lammers 1 - MenloPark-AP,10.100.42.34,0,
+Lammers Vusi huis,10.99.1.50,CCR1016-12S-1S+,5
+Lammers 1 - Static 1,10.100.0.19,,
+Lammers 1 - Static 2,10.100.0.20,,
+Lammers 1 - Static 3,10.100.0.21,,
+Lammers 1 Sectors TS,10.100.0.130,,
+
+Farm Inn East HS
+
+Name,Ip,Model,Clients
+Farminn East NEW ,10.100.104.129,CCR1009-8G-1S,190
+ BW-FI-WT,192.168.30.21,Rocket M5,
+ BW-FI-S-2,10.100.104.150,Rocket M5,
+ BW-FI-S-5,10.100.104.139,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/NE,10.100.104.138,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/E-3,10.100.104.136,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/SW-4,10.100.104.132,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/SE-6,10.100.104.131,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/S-5,10.100.104.135,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/N-1,10.100.104.134,Rocket M5 Titanium,
+ www.bronbergwisp.co.za/W-2,10.100.104.133,Rocket M5 Titanium,
+ BW-FI-S-6,10.100.104.149,Rocket M5,
+ BW-FI-S-4,10.100.104.147,Rocket M5,
+ BW-FI-S-1,10.100.104.148,Rocket M5,
+ BW-FI-S-3,10.100.104.137,Rocket M5,
+ Olympus_Ext-FI_east,10.100.104.35,Rocket M5 Titanium,
+FI_EAST-PM,10.100.104.140,0,
+SIAE to Luberon,10.100.102.26,,
+
+Trophy Medal Botique
+
+Name,Ip,Model,Clients
+Throphy Medal Botique,10.100.32.129,RB2011UiAS,6
+BW-TMB-SECT-4,10.100.32.134,Rocket M5,
+BW-TMB-SECT-3,10.100.32.133,Rocket M5 Titanium,
+ BW-TMB-SECT-2,10.100.32.132,Rocket M5 Titanium,
+ BW-BH-C-TO-TMB,10.100.32.10,Rocket M5 Titanium,
+ BW-TMB-SECT-1,10.100.32.131,Rocket M5 Titanium,
+
+Lammers 3
+
+Name,Ip,Model,Clients
+BW_LAMMERS3,10.100.2.129,CCR1009-8G-1S,94
+ Pavilion Lammers 3 link,10.100.2.34,0,
+ BW_lam3_Sec_E_Bo,10.100.2.133,Rocket M5,
+ BW_lam3_Sec_NE_Onder,10.100.2.132,Rocket M5,
+ BW_lam3_Sec_NE_Bo,10.100.2.131,Rocket M5,
+ BW_lam3_Sec_E_Onder,10.100.2.134,Rocket M5 Titanium,
+ LAM3-SECT-E-45deg,10.100.2.140,Rocket M5 Titanium,
+ BW-LAM3-SEC4-E,10.100.2.135,Rocket M5 Titanium,
+Lammers 3 PM,10.100.2.22,,
+Lammers 3 - Static 1,10.100.2.19,,
+Lammers 3 - Static 2,10.100.2.20,,
+Lammers 3 - Static 3,10.100.2.21,,
+BW_lam3_Sec_E_Onder2,10.100.2.46,,
+
+Lammers 2
+
+Name,Ip,Model,Clients
+lammers2,10.100.1.129,CCR1009-8G-1S-1S+,44
+ BW-LAM2-SEC-SOUTH,10.100.1.133,Rocket M5,
+  BW-LAM2-SEC-SE,10.100.1.135,Rocket M5,
+  BW-LAM2-SEC-WEST,10.100.1.134,Rocket M5,
+ BW-LAM2-SEC-EAST,10.100.1.132,Rocket M5,
+Lammers2 - MK1-AP,10.100.31.34,0,
+Lammers 2 PM,10.100.1.22,,
+Lammers 2 - Static 1,10.100.1.19,,
+Lammers 2 - Static 2,10.100.1.20,,
+Lammers 2 - Static 3,10.100.1.21,,
+
+Lammers 4
+
+Name,Ip,Model,Clients
+Lammers4,10.100.4.129,CCR1009-8G-1S-1S+,73
+ BW-LAM4-SEC-SW-BO,10.100.4.135,Rocket M5 Titanium,
+ BW-LAM4-SECT-SE-BO,10.100.4.134,Rocket M5 Titanium,
+ BW-LAM4-SEC-NE-BO,10.100.4.133,Rocket M5 Titanium,
+ BW-LAM4-SECT-SE-ONDER,10.100.4.132,Rocket M5 Titanium,
+ BW-LAM4-SECT-NE-ONDER,10.100.4.131,Rocket M5 Titanium,
+ BW-LAM4-FP-SE,10.100.4.139,Rocket M5 Titanium,
+ BW-LAM4-WATERLAKE,10.100.96.11,0,
+Kevin Gast P2P,10.100.4.146,PowerBeam M5,
+Lammers 4 - Farmin East-AP,10.100.73.10,0,
+Lammers 4 - Farmin East-Station,10.100.73.11,0,
+Lammers 4 - Waterlake-Station,10.100.96.12,0,
+Lammers 4 - Boardwalk-AP,10.101.5.2,0,
+Lammers 4 Pm,10.100.4.23,n/a,
+Lammers 4 - Static 1,10.100.4.19,,
+Lammers 4 - Static 2,10.100.4.20,,
+Lammers 4 - Static 3,10.100.4.21,,
+
+Carina HS
+
+Name,Ip,Model,Clients
+TFWB_Carina,10.100.40.129,CCR1009-8G-1S-1S+,19
+ TFBW-Carina-SEC-W,10.100.40.134,Rocket M5 Titanium,
+ TFBW-Carina-SEC-S,10.100.40.133,Rocket M5 Titanium,
+ TFBW-Carina-SEC-E,10.100.40.132,Rocket M5 Titanium,
+TFBW-Carina-SEC-N,10.100.40.131,Rocket M5 Titanium,
+ TFWB-Constantia-AC-to-Carina,10.100.40.10,0,
+Carina_PM,10.100.40.135,0,
+Carina to Schanskop,10.105.38.10,,
+
+Vibro Laudium HS
+
+Name,Ip,Model,Clients
+Vibro Laudium HS,10.100.20.129,CCR1009-8G-1S,10
+ vibro-south,10.100.20.131,Rocket M5,
+ BW-BH-LAUDIUM-VIBRO,10.100.20.42,Rocket M5 Titanium,
+Vibro-Laudium_PM,10.100.20.139,0,
+Vibro - CBD-AP,10.100.20.10,0,
+
+Polaris HS
+
+Name,Ip,Model,Clients
+Waterkloof HS Polaris Ave RB2011 (192.168.30.187),10.100.9.129,RB2011UiAS-2HnD,5
+ WKF- WEST,10.100.9.136,Rocket M5,
+ Bronwisp Sector WKF-SE,10.100.9.134,Rocket M5,
+ WKF - EAST,10.100.9.133,Rocket M5,
+Polaris - Centlake-AP,10.100.11.10,0,
+Polaris - Tulip-Station,10.100.15.11,0,
+Polaris - FGL5-Station,10.100.9.11,0,
+
+Fokken Hoog
+
+Name,Ip,Model,Clients
+
+Olympus EXT HS1
+
+Name,Ip,Model,Clients
+MikroTik Olympus Ext.,10.100.24.129,RB2011UiAS,14
+ WISPSA-OLYE-SECTOR3,10.100.24.133,Rocket M5,
+ WISPSA-OLYE-SECTOR2,10.100.24.132,Rocket M5,
+ BH-OLYM-LK2,10.100.24.10,Rocket M5,
+ WISPSA-OLYE-SECTOR1,10.100.24.131,Rocket M5 Titanium,
+ WISPSA-OLYE-SECTOR4,10.100.24.134,Rocket M5 Titanium,
+Olympus Ext PM,10.100.24.139,0,
+
+Oppikoppie HS
+
+Name,Ip,Model,Clients
+
+Muniforum 
+
+Name,Ip,Model,Clients
+Muniforum-PM,10.250.22.108,0,
+Muniforum - Static 1,10.250.22.107,,
+
+Rykor HS
+
+Name,Ip,Model,Clients
+MikroTik Rykor,10.100.12.129,RB2011UiAS,15
+ RYKOR-TO-DONKERHOEK,10.100.12.135,Rocket M5,
+ BW-RYK-SEC-S,10.100.12.134,Rocket M5,
+ BW-RYK-SEC-W,10.100.12.133,Rocket M5,
+ BW-RYK-SEC-E,10.100.12.132,Rocket M5,
+ BW-RYK-SEC-N,10.100.12.131,Rocket M5,
+ Rykor-To-Savanna,10.100.12.137,0,
+RYKOR PM,10.100.12.139,,
+
+Constantia Park HS
+
+Name,Ip,Model,Clients
+Constantia_Park,10.100.49.129,CCR1009-8G-1S,72
+ TFWB-Constantiapark-Sec-4,10.100.49.134,Rocket M5 Titanium,
+ TFWB-Constantiapark-Sec-5,10.100.49.136,Rocket M5 Titanium,
+ TFWB-Constantiapark-Sec-3,10.100.49.133,Rocket M5 Titanium,
+ TFWB-Constantiapark-Sec-2,10.100.49.132,Rocket M5 Titanium,
+ TFWB-Constantiapark-Sec-1,10.100.49.131,Rocket M5 Titanium,
+ TFWB-Constantiapark-Sec-6,10.100.49.138,Rocket M5 Titanium,
+Constantiapark-PM,10.248.8.133,0,
+Laeveld - Constantia-AP,10.100.14.34,0,
+Constantiapark - Static 1,10.250.23.139,,
+Constantiapark - PTZ,10.250.23.140,,
+
+Olympus Main HS
+
+Name,Ip,Model,Clients
+MikroTik Olympus Main,10.100.23.129,RB2011UiAS,20
+ BW-OLYM-OOS,10.100.23.134,Rocket M5,
+ WISPSA-OLYM-SECTOR3,10.100.23.133,Rocket M5,
+ UBNT-WISPSA-OLYM-SECTOR2,10.100.23.132,Rocket M5,
+ WISPSA-OLYM-SECTOR1,10.100.23.131,Rocket M5,
+ FR HS-OLY,10.100.23.10,Rocket M5,
+Olympus Main_PM,10.100.23.138,0,
+OlympusM - French-Station,10.100.23.11,0,
+
+Pretoria Oos Hospitaal
+
+Name,Ip,Model,Clients
+TFWB-Pretoria-East,10.100.78.129,RB2011UiAS,20
+ BW-PTAHSP-WEST,10.100.78.134,Rocket M5 Titanium,
+ BW-PTAHSP-EAST,10.100.78.133,Rocket M5 Titanium,
+ BW-PTAHSP-SOUTH,10.100.78.132,Rocket M5 Titanium,
+ PTA East Sector N,10.100.78.131,Rocket M5 Titanium,
+
+Erasmusrand HS
+
+Name,Ip,Model,Clients
+Erasmusrand,10.100.48.129,CCR1009-8G-1S,54
+ TFWB-Erasmusrand-Sec-2-E,10.100.48.132,Rocket M5 Titanium,
+ TFWB-Sec-1-N,10.100.48.131,Rocket M5 Titanium,
+ TFWB-Sec-4-S,10.100.48.134,Rocket M5 Titanium,
+ TFWB-Erasmusrand-Sec-3-W,10.100.48.133,Rocket M5 Titanium,
+ TFWB-Erasmusrand-Sec5-SW,10.100.48.136,Rocket M5 Titanium,
+ Constantia-Erasmusrand,10.100.48.10,0,
+Erasmusrand-PM,10.250.23.126,0,
+Erasmusrand - Static 1,10.250.23.123,,
+
+French Street HS
+
+Name,Ip,Model,Clients
+MikroTik Freanch,10.100.35.129,RB2011UiAS,31
+ WISPSA-MOR-SECTOR-5,10.100.35.135,Rocket M5,
+ WISPSA-MOR-SECTOR-4,10.100.35.134,Rocket M5,
+ WISPSA-MOR-SECTOR-3,10.100.35.133,Rocket M5,
+ WISPSA-MOR-SECTOR-2,10.100.35.132,Rocket M5,
+ WISPSA-MOR-SECTOR-1,10.100.35.131,Rocket M5,
+FRCH_PM,10.100.35.139,0,
+
+Mooikloof 1
+
+Name,Ip,Model,Clients
+Mooikloof 1,10.100.25.129,RB1200,46
+ UBNT SEC E MK ,10.100.25.133,Rocket M5,
+ UBNT SEC W MK ,10.100.25.131,Rocket M5,
+ UBNT SEC N MK ,10.100.25.134,Rocket M5,
+ UBNT SEC S MK ,10.100.25.132,Rocket M5,
+MK1_PM,10.100.25.139,0,
+Lammers2 - MK1-Station,10.100.31.35,0,
+MK1 - MK2-Station,10.100.26.11,0,
+
+Elardus Park HS
+
+Name,Ip,Model,Clients
+TFWB_ElardusPark,10.100.51.129,CCR1009-8G-1S-1S+,51
+ TFWB-ElardusPark-Sec4,10.100.51.134,Rocket M5 Titanium,
+ TFWB-ElardusPark-Sec3,10.100.51.133,Rocket M5 Titanium,
+ TFWB-ElardusPark-Sec2,10.100.51.132,Rocket M5 Titanium,
+ TFWB-ElardusPark-Sec1,10.100.51.131,Rocket M5 Titanium,
+ TFWB-Castle-Elarduspark-Rocket,10.100.51.10,Rocket M5 Titanium,
+ELdusPrk-PM,10.100.51.23,0,
+ElardusPark -Static Cam 1,10.100.51.19,,
+ElardusPark Toughswitch Cameras,10.100.51.18,,
+
+Lyttelton HS
+
+Name,Ip,Model,Clients
+BW Lyttelton HS,10.100.6.129,CCR1009-8G-1S,38
+ TFWB-Lyttleton-Sec4-W,10.100.6.134,Rocket M5 Titanium,
+ TFWB-Lyttelton-Sec3-S,10.100.6.133,Rocket M5 Titanium,
+ TFWB-Lyttleton-Sec1-N,10.100.6.131,Rocket M5 Titanium,
+ TFWB-Lyttleton-Sec2-E,10.100.6.132,Rocket M5 Titanium,
+ PTP-Lyttleton-Emile Vader,10.100.6.163,0,
+ Gerhard Street Estate @Lytt,10.100.6.34,Rocket M5,
+LYTT-PM,10.250.17.70,0,
+Lyttleton - Aspen-AP,10.100.6.11,0,
+Lyttleton - Vodacom-Station,10.100.50.11,0,
+Lyttleton Static 2,10.250.17.67,,
+
+Zwavelspoort HS
+
+Name,Ip,Model,Clients
+
+Mooikloof 2
+
+Name,Ip,Model,Clients
+Mooikloof 2 HS,10.100.26.129,RB2011UiAS,38
+ MK2 EAST Sector 1,10.100.26.133,Rocket M5,
+ mK2-SEctor north,10.100.26.131,Rocket M5 Titanium,
+ MK2 WEST Sector 2,10.100.26.136,Rocket M5,
+ MK2 South,10.100.26.135,Rocket M5,
+ TFWB-Elarduspark - Mooikloof 2 - AC,10.100.26.34,0,
+MK1 - MK2-AP,10.100.26.10,0,
+
+Bakenkop HS
+
+Name,Ip,Model,Clients
+BAKENKOP-PM,10.250.4.247,0,
+Bakenkop - Static 1,10.250.4.243,,
+Bakenkop - Static 2,10.250.4.244,,
+Bakenkop - PTZ,10.250.4.245,,
+
+Vodacom
+
+Name,Ip,Model,Clients
+Vodacom - Techinc,10.100.50.129,RB2011UiAS,3
+ BW-AV-Sec-N,10.100.50.132,Rocket M5 Titanium,
+ BW-AV-Sec-S,10.100.50.131,Rocket M5 Titanium,
+ TFWB-lyttelton-to-AV,10.100.50.10,0,
+
+Brakfontein HS
+
+Name,Ip,Model,Clients
+BW Brakfontein HS,10.100.83.129,CCR1009-8G-1S,31
+ TFWB-SEC-4-W,10.100.83.134,Rocket M5 Titanium,
+ TFWB-SEC-3-S,10.100.83.133,Rocket M5 Titanium,
+ TFWB-SEC-2-E,10.100.83.132,Rocket M5 Titanium,
+ TFWB-SEC-1-N,10.100.83.131,Rocket M5 Titanium,
+Brakfontein - Wrapsa-Station,10.100.28.11,0,
+
+Wrapsa HS
+
+Name,Ip,Model,Clients
+WRAPSA HS,10.100.28.129,RB2011iLS,2
+Wrapsa-Sector-S,10.100.28.131,Rocket M5,
+ Wrapsa-Sector-N,10.100.28.133,Rocket M5,
+Wrapsa-Sector-E,10.100.28.132,Rocket M5,
+ WRAPSA BACKUP LINK,10.100.28.10,0,
+WRAPSA PM,10.100.28.138,,
+Wrapsa - STG-Station,10.100.27.35,0,
+
+Amberfield HS
+
+Name,Ip,Model,Clients
+TFWB_Amberfield,10.100.57.129,CCR1009-8G-1S,22
+ TFWB-Amberfield_BW-TFW-Sect-W,10.100.57.136,Rocket M5 Titanium,
+ TFWB-Amberfield_BW-TFW-Sect-S,10.100.57.135,Rocket M5 Titanium,
+ TFWB-Amberfield-Sect-E,10.100.57.133,Rocket M5 Titanium,
+ TFWB-Amberfield_BW-TFW-Sect-N,10.100.57.131,Rocket M5 Titanium,
+ TFWB-Amberfield_Sec-W-Louisa Park,10.100.57.134,Rocket M5 Titanium,
+ BW-P2P-Amber-Valley,10.100.57.158,Rocket M5 Titanium,
+AMB-PM,10.250.17.39,0,
+Amberfield TS Cameras,10.250.17.34,,
+Amberfield Static Camera 1,10.250.17.35,,
+Amberfield Static Camera 2,10.250.17.36 ,,
+
+Tulip HS
+
+Name,Ip,Model,Clients
+Tulip HS Mikrotik,10.100.15.129,RB2011iLS,11
+ BW-TULIP-WEST,10.100.15.136,Rocket M5,
+ BW-TULIP-SOUTH,10.100.15.135,Rocket M5,
+ BW-TULIP-EAST,10.100.15.133,Rocket M5,
+ BW-TULIP-NORTH,10.100.15.131,Rocket M5,
+TULIP_PM,10.100.15.138,0,
+Polaris - Tulip-AP,10.100.15.10,0,
+
+Bronkhorstbaai
+
+Name,Ip,Model,Clients
+Bornkhorstbaai HS,10.100.89.129,RB2011UiAS,7
+ BW-BH-BRONKSPRUIT-BRONKBAAI,10.100.89.10,Rocket M5 Titanium,
+ TFWB-BRONKBAAI-SEC-2-SW,10.100.89.132,Rocket M5 Titanium,
+ TFWB-BRONKBAAI-SEC-1-E,10.100.89.131,Rocket M5 Titanium,
+
+Mnandi HS
+
+Name,Ip,Model,Clients
+Mnandi,10.100.54.129,CCR1009-8G-1S,16
+ TFWB-Mnandi BW-TFW-Sect-W,10.100.54.134,Rocket M5 Titanium,
+ TFWB-Mnandi-Sec2,10.100.54.132,Rocket M5 Titanium,
+ TFWB-Mnandi-SEC-W,10.100.54.250,Rocket M5,
+ TFWB-Mnandi-Sec1,10.100.54.131,Rocket M5 Titanium,
+MNANDI_PM,10.100.54.136,0,
+Mnandi Static 1,10.100.54.19,,
+
+St Georges HS
+
+Name,Ip,Model,Clients
+MikroTik St. Gorges,10.100.27.129,RB2011UiAS,24
+ STG-WRAPSA,10.100.27.34,Rocket M5,
+ BW-STGEORGE-SEC-SE,10.100.27.136,Rocket M5 Titanium,
+ BW-STG-SEC-S,10.100.27.134,Rocket M5 Titanium,
+ BW-St George Sec-NW,10.100.27.132,Rocket M5 Titanium,
+ BW-St George Sec-1,10.100.27.131,Rocket M5 Titanium,
+STG_PM,10.100.27.137,0,
+
+Rooihuiskraal HS
+
+Name,Ip,Model,Clients
+BW_Rooihuiskraal,10.100.90.129,CCR1009-8G-1S,5
+ TFWB-Rooihuiskraal-Sect-S,10.100.90.131,Rocket M5 Titanium,
+ TFWB-Rooihuiskraal-Sec-NNE,10.100.90.133,Rocket M5 Titanium,
+ TFWB-Rooihuiskraal-Sec-SW,10.100.90.132,Rocket M5 Titanium,
+ROOIHUISKRAAL-PM,10.250.17.119,0,
+Rooihuiskraal - Static 1,10.250.17.115,,
+Rooihuiskraal - Static 2,10.250.17.116,,
+Rooihuiskraal - PTZ,10.250.17.117,,
+
+Kusile
+
+Name,Ip,Model,Clients
+Kusile,10.100.56.129,CCR1036-8G-2S+,10
+ BW-Kusile-Sec3,10.100.56.133,Rocket M5 Titanium,
+BW-Kusile-Sec1,10.100.56.132,Rocket M5 Titanium,
+ BW-Kusile-Sec2,10.100.56.131,Rocket M5 Titanium,
+Kusile PM,10.100.56.137,0,
+
+Gomes HS
+
+Name,Ip,Model,Clients
+Gomes,10.100.55.129,RB2011iLS,2
+ UBNT-TFWB-Gom-Sect_SE,10.100.55.137,Rocket M5 Titanium,
+ UBNT-TFWB-Gom-Sect_SW,10.100.55.134,Rocket M5 Titanium,
+Gomes_PM,10.100.55.138,0,
+
+Bronbergcastle
+
+Name,Ip,Model,Clients
+ Titanium SE,192.168.31.13,Rocket M5 Titanium,
+ BW-C-P-S3,10.99.7.3,Rocket M5,
+ BW-C-P-S5,10.99.7.4,Rocket M5,
+ BW-C-SECT-W-06,10.99.4.8,Rocket M5,
+ BW-C-SECT-W-05,10.99.4.7,Rocket M5,
+ BW-C-SECT-W-04,10.99.4.6,Rocket M5,
+ BW-C-SECT-W-03,10.99.4.5,Rocket M5,
+ BW-C-SECT-W-01,10.99.4.3,Rocket M5,
+ BW-C-SECT-S-03,10.99.7.7,Rocket M5,
+ BW-C-SECT-S-01,10.99.7.5,Rocket M5,
+ Titan-West-4,192.168.49.120,Rocket M5,
+ BW-C-S-E3,10.99.6.4,Rocket M5 Titanium,
+ BW-C-P-E1,10.99.6.3,Rocket M5,
+ BW-T-Voip-W1,10.100.88.135,Rocket M5,
+ BW-C-SECT-E-04,10.99.6.5,Rocket M5 Titanium,
+ BW-C-SECT-W-02,10.99.4.4,Rocket M5,
+ C-MK-NEW,192.168.30.97,Rocket M5 Titanium,
+Google,8.8.4.4,0,
+ Titan South 1,10.99.7.8,Rocket M5 Titanium,
+TESt,8.8.8.8,0,
+ BronWisp-North-1-STICTLY MIKROTIKS,10.99.3.30,Rocket M5 Titanium,
+ www.herotel.co.za/CSL-N3,10.99.3.13,Rocket M5 Titanium,
+ 45deg sector,10.99.3.12,Rocket M5 Titanium,
+ BW-C-SECT-N-07,10.99.3.10,Rocket M5 Titanium,
+ BW-C-SECT-N-06,10.99.3.9,Rocket M5 Titanium,
+ UBNT - BW-C-SECT-N-05,10.99.3.8,Rocket M5 Titanium,
+ UBNT - BW-C-SECT-N-04,10.99.3.7,Rocket M5 Titanium,
+ UBNT - BW-C-SECT-N-03,10.99.3.6,Rocket M5 Titanium,
+ UBNT - BW-C-SECT-N-02,10.99.3.5,Rocket M5 Titanium,
+ UBNT - BW-C-SECT-N-01,10.99.3.4,Rocket M5 Titanium,
+ BW-C-SECT-N-00,10.99.3.3,Rocket M5 Titanium,
+tier 4,172.26.0.129,CCR1036-12G-4S,0
+Core Neotel Router,10.99.0.117,CCR1072-1G-8S+,1
+BW-Kantoor,10.99.0.74,CCR1009-8G-1S,7
+Main IPIP / PPPOE Concentrator,10.99.0.182,CCR1016-12G,17
+New Castle Sectors Tilera,10.99.3.1,CCR1016-12S-1S+,170
+Castle Top Backhaul Switch,10.99.1.126,CRS125-24G-1S,0
+Core 1,10.99.0.2,CCR1036-12G-4S,0
+PenultimateCore,10.99.0.118,CCR1072-1G-8S+,0
+Core 2,10.99.0.6,CCR1016-12S-1S+,0
+Core3,10.99.0.54,CCR1016-12S-1S+,0
+Castle - Chamboard-AP,10.100.17.10,0,
+Castle - Chamboard-Station,10.100.17.11,0,
+Castle - WDB-AP,10.100.21.10,0,
+Castle - Rykor-Station,10.100.12.11,0,
+Castle - Trophy-Station,10.100.32.11,0,
+Wipronet Merging Router,10.99.10.2,CCR1036-12G-4S,13
+Ultimate_COre Oppiekoppie1,10.99.0.1,CCR1016-12S-1S+,0
+Core5,10.99.10.1,CCR1036-12G-4S,1
+
+Pieter Delport / Meintjieskop
+
+Name,Ip,Model,Clients
+BW-Pieter delport,10.100.5.129,CCR1009-8G-1S,54
+ TFWB-PieterDP-SEC5-NE,10.100.5.136,Rocket M5 Titanium,
+ TFWB-PieterDP-Sec4-SE,10.100.5.134,Rocket M5 Titanium,
+ TFWB-PieterDP-Sec2-NE,10.100.5.132,Rocket M5 Titanium,
+ TFWB-PieterDP-Sec1-NW,10.100.5.131,Rocket M5 Titanium,
+ TFWB-PieterDP-Sec3-S,10.100.5.133,Rocket M5 Titanium,
+ Twin City Prism,10.100.5.18,0,
+MEINTJIESKOP-PM,10.250.4.134,0,
+Pieter Delport - CBD-Station,10.100.5.11,0,
+Meintjieskop - Static 1,10.250.4.131,,
+Meintjieskop - PTZ,10.250.4.132,,
+TFWB-PieterDP-SEC1-N45,10.100.5.248,,
+
+Groenkloof / Klapperkop
+
+Name,Ip,Model,Clients
+TFWB-Groenkloof-Mikrotik2011,10.100.16.129,CCR1009-8G-1S,35
+ TFWB-Groenkloof-Sec1,192.168.81.3,Rocket M5,
+ TFWB-Groenkloof-Sec-NW-2,192.168.81.8,Rocket M5 Titanium,
+ TFWB-Groenkloof-Sec-N-2,192.168.81.7,Rocket M5 Titanium,
+ TFWB-Groenkloof-Sec3,192.168.81.5,Rocket M5 Titanium,
+ TFWB-Groenkloof-Sec-NE,192.168.81.4,Rocket M5,
+ Prism CBD - Groenkloof,10.100.16.10,0,
+GRN-KLF_PM,10.250.17.14,0,
+
+MenloPark / Lynwood
+
+Name,Ip,Model,Clients
+Menlopark,10.100.42.129,CCR1009-8G-1S,87
+ TFWB-P2P-MMM-PRO,10.100.42.215,Rocket M5 Titanium,
+ TFWB-Menlo-Sect-NW,10.100.42.137,Rocket M5 Titanium,
+ TFWB-Menlo-VoipSect-SE,10.100.42.136,Rocket M5,
+ TFWB-Menl-Sect-S,10.100.42.135,Rocket M5 Titanium,
+ TFWB-Menl-Sect-SE,10.100.42.134,Rocket M5 Titanium,
+ TFWB-Menl-Sect-E,10.100.42.133,Rocket M5 Titanium,
+ TFWB-Menl-Sect-NE,10.100.42.132,Rocket M5 Titanium,
+ TFWB-Menl-Sect-N,10.100.42.131,Rocket M5 Titanium,
+LYNNWOOD-PM,10.250.5.126,0,
+Lammers 1 - MenloPark-Station,10.100.42.37,0,
+Lynwood - Static 1,10.250.5.123,,
+Lynwood - PTZ,10.250.5.124,,
+
+Bronbergcastle Server room
+
+Name,Ip,Model,Clients
+
+Sandvlakte
+
+Name,Ip,Model,Clients
+
+Greenstone
+
+Name,Ip,Model,Clients
+Greenstone Block 18,10.102.2.17,RB2011UiAS,2
+Greenstone Block 23,10.102.2.97,RB2011UiAS,3
+Greenstone Block 24,10.100.132.154,RB2011UiAS,3
+Greenstone Block 78,10.10.97.161,RB2011UiAS,5
+Greenstone Block 22 ,10.102.2.81,RB2011UiAS,1
+Greenstone Block 3,10.102.1.33,RB2011UiAS,3
+Greenstone Block 2,10.100.132.132,RB2011UiAS,3
+Greenstone Block 1,10.102.1.1,RB2011UiAS,1
+Greenstone Block 6,10.102.1.81,RB2011UiAS,2
+Greenstone Block 26,10.100.132.156,RB2011UiAS,7
+Greenstone Block 28,10.100.132.158,RB2011UiAS,5
+Greenstone Block 27,10.100.132.157,RB2011UiAS,2
+Greenstone Block 21,10.102.2.65,RB2011UiAS,3
+Greenstone Block 20,10.102.2.49,RB2011UiAS,5
+Greenstone Block 19,10.102.2.33,RB2011UiAS,4
+Greenstone Block 17,10.100.132.147,RB2011UiAS,2
+Greenstone Block 16,10.100.132.146,RB2011UiAS,4
+Greenstone Block 14,10.100.132.144,RB2011UiAS,2
+Greenstone Block 13,10.100.132.143,RB2011UiAS,2
+Greenstone Block 11,10.102.1.161,RB2011UiAS,3
+Greenstone Block 10,10.100.132.140,RB2011UiAS,4
+Greenstone Block 8,10.102.1.113,RB2011UiAS,1
+Greenstone Block 5,10.102.1.65,RB2011UiAS,3
+Greenstone Block 12,10.100.132.142,RB2011UiAS,3
+Greenstone Block 9,10.102.1.129,RB2011UiAS,2
+Greenstone Block 25,10.100.132.155,RB2011UiAS,5
+Greenstone Block 31,10.100.132.161,RB2011UiAS,4
+Greenstone Block 50,10.100.132.197,RB2011UiAS,6
+Greenstone Block 51,10.100.132.198,RB2011UiAS,3
+Greenstone Block 49,10.100.132.196,RB2011UiAS,1
+Greenstone Block 44,10.100.132.174,RB2011UiAS,4
+Greenstone Block 47,10.100.132.177,RB2011UiAS,4
+Greenstone Block 40,10.100.132.170,RB2011UiAS,3
+Greenstone Block 37,10.100.132.167,RB2011UiAS,4
+Greenstone Block 36,10.100.132.166,RB2011UiAS,2
+Greenstone Block 30,10.100.132.160,RB2011UiAS,3
+Greenstone Block 35,10.100.132.165,RB2011UiAS,6
+Greenstone Block 43,10.100.132.173,RB2011UiAS,2
+Greenstone Block 41,10.100.132.171,RB2011UiAS,5
+Greenstone Block 39,10.100.132.169,RB2011UiAS,4
+Greenstone Block 15,10.100.132.145,RB2011UiAS,1
+Greenstone Block 7,10.102.1.97,RB2011UiAS,3
+Greenstone Block 34,10.100.132.164,RB2011UiAS,2
+Greenstone Block 32,10.10.101.65,RB2011UiAS,1
+Greenstone Block 33,10.100.132.163,RB2011UiAS,2
+Greenstone Block 45,10.10.100.145,RB2011UiAS,3
+Greenstone Block 29,10.100.132.159,RB2011UiAS,2
+BW-GreenStonePM,10.100.124.254,0,
+Greenstone Tilera uplink,10.10.100.113,CCR1036-12G-4S,1
+Greenstone CCR Blck51-Teraco,10.100.132.9,CCR1036-8G-2S+,0
+BW-BH-MAXXIS-GREENSTONE,10.100.92.11,,
+GreenStone Planet Switch 1,10.100.132.130,,
+
+Monument Park
+
+Name,Ip,Model,Clients
+BW-Monument Park HS,10.100.94.129,RB2011UiAS,7
+ BW-MonuPark-Sec-W,10.100.94.134,Rocket M5 Titanium,
+ BW-MonuPark-Sec-S,10.100.94.132,Rocket M5 Titanium,
+ BW-MonuPark-Sec-N,10.100.94.131,Rocket M5 Titanium,
+ BW-MonuPark-Sec-E,10.100.94.133,Rocket M5 Titanium,
+MonPark_PM,10.100.94.135,0,
+
+Casa Salice
+
+Name,Ip,Model,Clients
+Casa Salice Block 1,10.100.134.129,RB2011UiAS,2
+Casa_Salice MK,10.100.99.129,CCR1016-12S-1S+,0
+
+Balboa
+
+Name,Ip,Model,Clients
+Balboa Block 8,10.100.137.38,RB2011UiAS,3
+Balboa Block 1,10.10.102.65,RB2011UiAS,3
+BalboaHotspot,10.100.137.254,n/a,0
+Balboa Block 5,10.10.104.145,RB2011UiAS,3
+Balboa Block 9,10.10.104.17,RB2011UiAS,4
+Balboa Block 4,10.10.104.65,RB2011UiAS,2
+Balboa Block 2,10.100.137.14,RB2011UiAS,1
+Balboa Block 3,10.100.137.18,RB2011UiAS,2
+Balboa Block 6,10.100.137.30,RB2011UiAS,2
+Balboa Block 7,10.100.137.34,RB2011UiAS,1
+Balboa Block 10,10.100.137.46,RB2011UiAS,3
+Balboa Block 11,10.100.137.50,RB2011UiAS,1
+Balboa Block 12,10.100.137.54,RB2011UiAS,4
+Balboa Block 13,10.100.137.58,RB2011UiAS,3
+Balboa Block 14,10.10.104.129,RB2011UiAS,7
+Balboa Block 15,10.100.137.66,RB2011UiAS,1
+Balboa Block 16,10.100.137.70,RB2011UiAS,4
+Balboa Block 17,10.100.137.74,RB2011UiAS,2
+Balboa Block 18,10.100.137.78,RB2011UiAS,1
+Balboa Block 19,10.100.137.82,RB2011UiAS,4
+Balboa Block 20,10.100.137.86,RB2011UiAS,3
+Balboa Block 21,10.100.137.90,RB2011UiAS,3
+Balboa Server Room,10.100.137.9,CCR1016-12S-1S+,1
+Balboa Block 36,10.100.137.150,RB2011UiAS,2
+
+Urologies
+
+Name,Ip,Model,Clients
+
+BW-Wilgers
+
+Name,Ip,Model,Clients
+
+Amandasig HS
+
+Name,Ip,Model,Clients
+BW-BH-AMANDA-SAARTJIE,10.100.86.10,,
+
+Baviaanspoort
+
+Name,Ip,Model,Clients
+Baviaans Poort,10.100.85.129,RB2011UiAS,5
+ BW-BAV-SEC-NE,10.100.85.132,Rocket M5 Titanium,
+ BW-BAV-SEC-W,10.100.85.134,Rocket M5 Titanium,
+ BW-BAV-SEC-N,10.100.85.133,Rocket M5 Titanium,
+ BW-BAV-SEC-E,10.100.85.131,Rocket M5 Titanium,
+BAV_PM,10.100.85.24,0,
+
+Sandvlakte
+
+Name,Ip,Model,Clients
+
+StanleyPark
+
+Name,Ip,Model,Clients
+Stanley Park Block 25,10.100.133.129,RB2011UiAS,0
+Stanley Park Block 9,10.100.119.129,RB2011UiAS,2
+Stanley Park Block 13,10.100.118.50,RB2011UiAS,2
+Stanley Park Block 1,10.100.119.1,RB2011UiAS,3
+Stanley Park Block 8,10.100.119.113,RB2011UiAS,1
+Stanley Park Block 10,10.100.119.145,RB2011UiAS,1
+Stanley Park Block 11,10.100.119.161,RB2011UiAS,2
+Stanley Park Block 2,10.100.119.17,RB2011UiAS,3
+Stanley Park Block 12,10.100.119.177,RB2011UiAS,1
+Stanley Park Block 14,10.100.119.209,RB2011UiAS,0
+Stanley Park Block 15,10.100.119.225,RB2011UiAS,0
+Stanley Park Block 16,10.100.119.241,RB2011UiAS,1
+Stanley Park Block 3,10.100.119.33,RB2011UiAS,2
+Stanley Park Block 5,10.100.119.65,RB2011UiAS,1
+Stanley Park Block 6,10.100.119.81,RB2011UiAS,0
+Stanley Park Block 7,10.100.119.97,RB2011UiAS,0
+Stanley Park Block 17,10.100.133.1,RB2011UiAS,1
+Stanley Park Block 24,10.100.133.113,RB2011UiAS,1
+Stanley Park Block 26,10.100.133.145,RB2011UiAS,0
+Stanley Park Block 27,10.100.133.161,RB2011UiAS,0
+Stanley Park Block 18,10.100.133.17,RB2011UiAS,0
+Stanley Park Block 28,10.100.133.177,RB2011UiAS,0
+Stanley Park Block 29,10.100.133.193,RB2011UiAS,0
+Stanley Park Block 31,10.100.118.122,RB2011UiAS,0
+Stanley Park Block 19,10.100.133.33,RB2011UiAS,2
+Stanley Park Block 20,10.100.118.78,RB2011UiAS,0
+Stanley Park Block 21,10.100.133.65,RB2011UiAS,0
+Stanley Park Block 22,10.100.133.81,RB2011UiAS,0
+Stanley Park Block 23,10.100.133.97,RB2011UiAS,1
+Stanley ParkTOP DC MT link to Easyweb,10.10.100.33,RB2011UiAS,1
+Stanley Park Block 4,10.100.118.14,RB2011UiAS,2
+Stanley / Balboa - Power Monitor,10.10.100.6,,
+Stanley Park Main DC Room Top,10.10.100.1,CCR1016-12S-1S+,0
+
+Grove Lane
+
+Name,Ip,Model,Clients
+Grove Lane Block 10,10.100.127.129,RB2011UiAS,2
+The Grove Lane Main Uplink,10.100.126.129,CCR1016-12S-1S+,1
+Grove Lane Block 7,10.100.126.158,RB2011UiAS,0
+Grove Lane Block 17,10.100.126.198,RB2011UiAS,1
+Grove Lane Block 1,10.100.126.225,RB2011UiAS,4
+Grove lane block 2,10.100.127.1,RB2011UiAS,2
+Grove Lane Block 9,10.100.127.113,RB2011UiAS,2
+Grove Lane Block 11,10.100.127.145,RB2011UiAS,3
+Grove Lane Block 12,10.100.127.161,RB2011UiAS,3
+Grove Lane Block 3,10.100.127.17,RB2011UiAS,1
+Grove Lane Block 13,10.100.127.177,RB2011UiAS,2
+Grove Lane Block 14,10.100.127.193,RB2011UiAS,1
+Grove Lane Block 15,10.100.127.209,RB2011UiAS,3
+Grove Lane Block 16,10.100.127.225,RB2011UiAS,0
+Grove Lane Block 4,10.100.127.33,RB2011UiAS,4
+Grove Lane Block 5,10.100.127.49,RB2011UiAS,3
+Grove Laine Block 6,10.100.127.65,RB2011UiAS,4
+Grove Lane Block 8,10.100.127.97,RB2011UiAS,4
+WIL2 - Grove-Station,10.100.33.35,0,
+Grove Lane Fase 2 Main CCR,10.100.126.130,CCR1016-12S-1S+,0
+
+Faerie Glen 5
+
+Name,Ip,Model,Clients
+Faerie Glen 5,10.100.97.129,CCR1009-8G-1S,50
+ BW-FGL5-SEC SE,10.100.97.132,Rocket M5 Titanium,
+BW-FGL5-SCHULE,10.100.97.139,Rocket M5 Titanium,
+ IT Schools INTERNET PTP,10.100.97.137,Rocket M5,
+ BW-FGL5-SEC S,10.100.97.136,Rocket M5 Titanium,
+ BW-FGL5-SEC N,10.100.97.135,Rocket M5 Titanium,
+ BW-FGL5-SEC NE,10.100.97.134,Rocket M5 Titanium,
+ BW-FGL5-SEC NW,10.100.97.133,Rocket M5 Titanium,
+ BW-FGL5-SEC SW,10.100.97.131,Rocket M5 Titanium,
+ BW-BH-FGL1-FGL5,10.100.97.10,PowerBeam M5,
+Faerie Glen 5 Camera Toughswitch,10.100.97.18,,
+Faerie Glen 5 Static Camera 1,10.100.97.19,,
+Faerie Glen 5 Static Camera 2,10.100.97.20,,
+Faerie Glen 5 Static Camera 3,10.100.97.21,,
+
+Roodeplaat / Intundla
+
+Name,Ip,Model,Clients
+Roodeplaat,10.100.67.129,CCR1009-8G-1S,6
+ Dam Side ,10.100.67.145,PowerBeam M5,
+ BW-Roodeplaat-SEC-N,10.100.67.132,Rocket M5 Titanium,
+ BW-Roodeplaat-SEC-E,10.100.67.131,Rocket M5 Titanium,
+ BW-Roodeplaat-SEC-S,10.100.67.133,Rocket M5 Titanium,
+Roodeplaat- PM,10.100.67.138,0,
+Roodeplaat to  Kameeldrif Station,10.100.67.11,,
+
+Harties
+
+Name,Ip,Model,Clients
+Harties Static Camera 1,10.100.74.19,,
+
+Aspin HS
+
+Name,Ip,Model,Clients
+ASPEN,10.100.11.129,RB2011UiAS,3
+ CEN-LAK-S,10.100.11.135,Rocket M5,
+ CEN-LAK-E,10.100.11.133,Rocket M5,
+ CEN-LAK-N,10.100.11.131,Rocket M5,
+CEN-LAK-W,10.100.11.136,Rocket M5,
+Lyttleton - Aspen-Station,10.100.6.10,0,
+Polaris - Centlake-Station,10.100.11.12,0,
+BW-Aspin-PM,10.100.11.138,,
+
+SaartjiesNek
+
+Name,Ip,Model,Clients
+BW-Saartjienek 2011,10.100.86.129,RB2011UiAS,20
+ BW-Saartjiesnek-Sec6,10.100.86.136,Rocket M5 Titanium,
+ BW-Saartjiesnek-Sec3-N,10.100.86.132,Rocket M5 Titanium,
+ BW-Saartjiesnek-Sec1-NE,10.100.86.131,Rocket M5 Titanium,
+ BW-Saartjiesnek-Sec5-N-Low,10.100.86.135,Rocket M5 Titanium,
+ BW-Saartjiesnek-Sec4-SE,10.100.86.134,Rocket M5 Titanium,
+ BW-Saartjiesnek-Sec2-W,10.100.86.133,Rocket M5 Titanium,
+SARTJIESNEK-PM,10.100.86.137,0,
+BW-BH-AMANDA-SAARTJIE,10.100.86.11,,
+Saartjies Nek Camera Toughswitch,10.100.86.18,,
+Saartjies Nek Static Camera 1,10.100.86.19,,
+BW-Saartjienek 2011,10.100.86.36,RB2011UiAS,20
+
+Strubenkop
+
+Name,Ip,Model,Clients
+BW-Strubenkop-HS,10.100.95.129,CCR1036-8G-2S+,38
+ PowerBeam M5 400,192.168.68.4,0,
+ BW-Strubenkop-Sec4-W,10.100.95.134,Rocket M5 Titanium,
+ BW-Strubenkop-Sec3-S,10.100.95.133,Rocket M5 Titanium,
+ BW-Strubenkop-Sec2-E,10.100.95.132,Rocket M5 Titanium,
+ BW-Strubenkop-Sec1-N,10.100.95.131,Rocket M5 Titanium,
+ BW-Carina-Struben,10.100.95.12,0,
+BW-STRBNKOP-PM,10.100.95.135,0,
+struben_waverley,10.105.22.19,,
+
+Watertoring Wipronet 
+
+Name,Ip,Model,Clients
+Watertoring Bronbergwisp Concentrator,10.100.121.129,CCR1009-8G-1S-1S+,117
+www.wipronet.co.za/KF-SWWW,10.100.121.253,PowerBeam M5,
+www.wipronet.co.za/KF-SSE,10.100.121.254,PowerBeam M5,
+(www.wipronet.co.za/KF-SWW),10.100.121.135,PowerBeam M5,
+(www.wipronet.co.za/KF-SEE),10.100.121.138,PowerBeam M5,
+(www.wipronet.co.za/KF-SE),10.100.121.137,PowerBeam M5,
+(www.wipronet.co.za/watertoring),10.100.121.252,Rocket M5,
+(www.wipronet.co.za/KF-SW),10.100.121.139,PowerBeam M5,
+ www.wipronet.co.za/ianw,10.100.121.136,PowerBeam M5,
+ Uplink TVG,10.105.33.131,NanoBridge M5,
+WT-na Rhenosterkop,10.105.23.10,,
+Cambium Watertoring to LGR,10.100.121.132,,
+Uplink to Magalies,10.100.121.241,,
+Cambium Watertoring to Moreleta,10.100.121.237,,
+Cambium Moreleta to Watertoring,10.100.121.238,,
+MDP Sektor,10.100.121.240,,
+Uplink Trap to Watertoring,10.100.121.236,,
+Uplink Watertoring to Trap,10.100.121.235,,
+MikroTik,10.100.121.233,RB951-2n,0
+KittyHawk-WaterToring,10.105.33.11,,
+WaterToring-KittyHawk,10.105.33.10,,
+Kittyhawk ToughSwitch,10.105.33.130,,
+Nano @ KittyHawk,10.105.33.132,,
+VoltageCheck @ KittyHawk,10.105.33.133,,
+Kitty Hawk Sector,10.105.33.134,,
+
+Grootnet Wipronet 
+
+Name,Ip,Model,Clients
+Grootfontein Bronbergwisp Concentrator,10.100.123.129,CCR1009-8G-1S,76
+www.wipronet.co.za/GF-SEE,10.100.123.137,PowerBeam M5,
+www.wipronet.co.za/GF-SW,10.100.123.135,Rocket M5,
+www.wipronet.co.za/GF-E,10.100.123.134,Rocket M5,
+www.wipronet.co.za/GF-NW,10.100.123.131,Rocket M5,
+www.wipronet.co.za/GF-NE,10.100.123.133,Rocket M5,
+ www.wipronet.co.za/GF-SW,10.100.123.136,Rocket M5,
+ To_Salo,10.100.123.252,Rocket M5,
+GrootNet PM,192.168.66.20,,
+
+Plotnet 33 Wipronet 
+
+Name,Ip,Model,Clients
+Plotnet 33 Bronbergwisp Concentrator,10.100.122.129,CCR1009-8G-1S,184
+ Annette Thomas,10.100.123.132,PowerBeam M5,
+www.wipronet.co.za/33-NE,10.100.122.244,Rocket M5,
+ Rigting Tierpoort,10.100.122.243,PowerBeam M5,
+www.wipronet.co.za/plot33-w,10.100.122.249,PowerBeam M5,
+www.wipronet.co.za/plot33-O,10.100.122.254,Rocket M5,
+www.wipronet.co.za/P33-N,10.100.122.252,Rocket M5,
+ Riverside uplink,10.100.122.251,PowerBeam M5,
+www.wipronet.co.za/ngk,10.105.1.136,Rocket M5,
+www.wipronet.co.za/33-NWW,10.100.122.250,PowerBeam M5,
+www.wipronet.co.za/aio,10.100.122.248,Rocket M5,
+Plotnet33_Roodeplaat @Plotnet33,10.105.2.10,Rocket M5,
+(www.wipronet.co.za/Plot33-NNW),10.100.122.247,Rocket M5,
+ P33-SEE,10.100.122.139,0,
+ Rigting Ingaadi,10.100.122.253,0,
+www.wipronet.co.za/uplink_P33_P2,10.105.44.10,0,
+Plotnet-33 Noord,10.100.122.246,Rocket M5 Titanium,
+www.wipronet.co.za/p33,10.100.122.132,Rocket M2 Titanium,
+Sorg SW 24port,10.10.106.6,,
+Kareepark Sfp Switch 24 port,10.10.106.2,,
+Dagbreek Kuberkol,10.105.20.159,,
+SorgSentrum,10.10.106.7,CRS125-24G-1S,
+Quintum @ Sorg,10.10.108.254,,
+SorgsentrumSector,192.168.193.248,,
+AlphaSand PM,10.100.122.164,,
+Plotnet 17,10.105.16.139,,
+
+MHoog Wipronet 
+
+Name,Ip,Model,Clients
+Mhoog Bronbergwisp Concentrator,10.105.20.129,CCR1009-8G-1S-1S+,177
+ Uplink Alfasand,10.100.122.161,PowerBeam M5,
+MH-K1,10.105.20.144,PowerBeam M5,
+MH-sector3,10.105.20.143,Rocket M5 Titanium,
+www.wipronet.co.za/rpta-sw,10.105.20.131,Rocket M5,
+www.wipronet.co.za/asp,10.105.20.140,Bullet M5,
+www.wipronet.co.za/rpta-o,10.105.20.138,Bullet M5,
+www.wipronet.co.za/rpta-sso,10.105.20.139,Rocket M5,
+www.wipronet.co.za/eland-am,10.105.20.142,Bullet M5,
+Red 2 Rayton,10.105.20.132,,
+Witbank to MHoog,10.105.20.133,,
+MHoog to Witbank,10.105.20.242,,
+Ben Goosen to MHoog,10.105.20.239,,
+Faan de Vos,10.105.20.238,,
+
+King's highway Wipronet 
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/KH-SSO,192.168.68.3,PowerBeam M5,
+www.wipronet.co.za/KingS-s,192.168.68.5,0,
+
+Wapadrand Wipronet 
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/WP-SSSW,10.105.35.131,PowerBeam M5,
+www.wipronet.co.za/wapad-n,10.105.35.132,Rocket M5,
+www.wipronet.co.za/equestria,10.105.35.133,PowerBeam M5,
+www.wipronet.co.za/dros,10.105.35.134,PowerBeam M5,
+www.wipronet.co.za/wapad-grove,10.105.35.135,PowerBeam M5,
+www.wipronet.co.za/menlyn,10.105.35.136,PowerBeam M5,
+www.wipronet.co.za/safari,10.105.35.137,PowerBeam M5,
+www.wipronet.co.za/makro,10.105.35.138,PowerBeam M5,
+www.wipronet.co.za/wapad-s,10.105.35.139,Rocket M5,
+www.wipronet.co.za/wbc,10.105.35.140,PowerBeam M5,
+www.wipronet.co.za/WP-S,10.105.35.141,PowerBeam M5,
+www.wipronet.co.za/WP-SSW,10.105.35.142,PowerBeam M5,
+www.wipronet.co.za/bridgec,10.105.35.143,PowerBeam M5,
+Wipronet Wapadrand TS2,10.105.35.144,,
+Wipronet Wapadrand TS1,10.105.35.130,,
+
+Waterlake Farm
+
+Name,Ip,Model,Clients
+WaterlakeFarm,10.100.96.129,RB2011UiAS,35
+www.wipronet.co.za/WL-SE,10.100.96.133,Rocket M5,
+"www.wipronet.co.za/WL-NE",10.100.96.132,Rocket M5,
+ Waterlake NW,10.100.96.131,Rocket M5,
+
+Luberon HS
+
+Name,Ip,Model,Clients
+BW-LUBERON,10.100.102.129,RB2011UiAS,26
+ Luberon SEC W,10.100.102.132,Rocket M5 Titanium,
+ Luberon SEC S,10.100.102.131,Rocket M5 Titanium,
+ PTP-LUBERON-HS,10.100.102.34,0,
+BW-Luberon-Mooikloof-CC AP,10.100.102.42,,
+Luberon-PM,10.100.102.139,,
+
+Unspesified
+
+Name,Ip,Model,Clients
+
+Kusile 2 
+
+Name,Ip,Model,Clients
+BW-Kusile 2,10.100.103.129,RB2011UiAS,3
+ BW-Kusile2-Sec-E,10.100.103.134,Rocket M5 Titanium,
+ BW-Kusile2-Sec-N,10.100.103.131,Rocket M5 Titanium,
+ BW-Kusile2-Sec-W,10.100.103.133,Rocket M5 Titanium,
+ BW-Kusile2-Sec-S,10.100.103.132,Rocket M5 Titanium,
+Kusile 2 PM,10.100.103.137,0,
+
+Laeveld HS
+
+Name,Ip,Model,Clients
+ LV-NORTH,10.100.14.131,Rocket M5,
+ LV-East,10.100.14.133,Rocket M5,
+Laeveld - Constantia-Station,10.100.14.35,0,
+
+Boardwalk Heights
+
+Name,Ip,Model,Clients
+Lammers 4 - Boardwalk-Station,10.101.5.3,0,
+Uplink Block 2,10.101.5.142,PowerBeam M5,
+Boardwalk Block2 MikroTik2011,10.101.5.143,RB2011UiAS,2
+Uplink Block 3,10.101.5.144,PowerBeam M5,
+Boardwalk Block3 MikroTik2011,10.101.5.145,RB2011UiAS,0
+Uplink Block 4,10.101.5.146,PowerBeam M5,
+Boardwalk Hieghts Block4 R2011,10.101.5.147,RB2011UiAS,1
+Uplink Block 5,10.101.5.148,PowerBeam M5,
+Boardwalk Block5 MikroTik2011,10.101.5.149,RB2011UiAS,0
+Uplink Block 6,10.101.5.150,PowerBeam M5,
+Boardwalk Block6,10.101.5.151,RB2011UiAS,1
+Uplink Block 7,10.101.5.152,PowerBeam M5,
+Boardwalk Block 7 MikroTik2011 ,10.101.5.153,RB2011UiAS,1
+Uplink Block 8,10.101.5.154,PowerBeam M5,
+Boardwalk Block 8 unit 64-72,10.101.5.155,RB2011UiAS,1
+Uplink Block 12,10.101.5.162,PowerBeam M5,
+block12 boardwalk heights,10.101.5.163,RB2011UiAS,1
+Uplink Block 10,10.101.5.158,PowerBeam M5,
+Boardwalk Heights Blok 10 Units 82-90,10.101.5.159,RB2011UiAS,2
+Uplink Block 18,10.101.5.174,PowerBeam M5,
+block 18- boardwalk heights mikrotik 2011,10.101.5.175,RB2011UiAS,0
+Uplink Block 21A,10.101.5.180,,
+Boardwalk heights Block 21A,10.101.5.181,RB2011UiAS,1
+Uplink Block 21 B,10.101.5.214,PowerBeam M5,
+MikroTik Block 21 B,10.101.5.215,RB2011UiAS,0
+Block22/  2011 unit 217-225,10.101.5.4,RB2011UiAS,3
+Uplink Block 28,10.101.5.194,PowerBeam M5,
+Boardwalk Block 28,10.101.5.195,RB2011UiAS-2HnD,2
+Uplink Block 29,10.101.5.196,PowerBeam M5,
+BoardwalkBlock29 MikroTik2011,10.101.5.197,RB2011UiAS,1
+Uplink Block 32,10.101.5.202,PowerBeam M5,
+BOardwalk Heights Block 32,10.101.5.203,RB2011UiAS,1
+Block 15 Uplink,10.101.5.168,PowerBeam M5,
+Boardwalk Heights Units 136 - 144,10.101.5.169,RB2011UiAS,0
+
+High Priority Clients
+
+Name,Ip,Model,Clients
+
+Farminn East NEW
+
+Name,Ip,Model,Clients
+
+Maxis
+
+Name,Ip,Model,Clients
+Maxis_HS,10.100.92.129,RB2011UiAS,0
+SA-Outsourcing 1,192.168.66.131,0,
+ BW-Maxis-Sec1,10.100.92.131,Rocket M5 Titanium,
+ BW-BH-MAXXIS-GREENSTONE,10.100.92.10,0,
+Maxis_PM,10.100.92.20,0,
+bronbergwisp/MaxisSec2SW,10.100.92.132,,
+
+Swavelpoort
+
+Name,Ip,Model,Clients
+SwavelPoort,10.100.53.129,RB2011iLS,54
+ OTT Technologies PTP,10.100.53.135,0,
+ BW-Swawelpoort-Sect-W,10.100.53.134,Rocket M5 Titanium,
+ BW-Swawelpoort-Sect-S,10.100.53.133,Rocket M5 Titanium,
+ BW-Swawelpoort-Sect-E,10.100.53.132,Rocket M5 Titanium,
+ BW-Swawelpoort-Sect-N,10.100.53.131,Rocket M5 Titanium,
+
+Derdepoort / Waverly 
+
+Name,Ip,Model,Clients
+Derdepoort,10.100.43.129,RB2011UiAS,25
+BW-Der-Sect-SW,10.100.43.133,Rocket M5 Titanium,
+ BW-Der-Sect-S,10.100.43.132,Rocket M5 Titanium,
+BW-Der-Sect-N,10.100.43.131,Rocket M5 Titanium,
+ BW-BH-WIL2-DERDEPOORT,10.100.43.34,0,
+Derdepoort-PM,10.100.43.138,0,
+
+Amsterdam
+
+Name,Ip,Model,Clients
+Amsterdam Block 1,10.100.107.1,RB2011UiAS,3
+Amsterdam Block 2,10.100.107.17,RB2011UiAS,3
+Amsterdam Block 4,10.100.107.49,RB2011UiAS,4
+Amsterdam Block 93,10.100.112.193,RB2011UiAS,7
+Amsterdam Block 94,10.100.112.209,RB2011UiAS,4
+Amsterdam Block 95,10.100.112.225,RB2011UiAS,4
+Amsterdam Block 96,10.100.112.241,RB2011UiAS,4
+Amsterdam Main CCR,10.100.105.17,CCR1016-12G,2
+ Amsterdam-AP-to-Landrover,10.100.105.11,0,
+Amsterdam Block 30,10.100.108.209,RB2011UiAS,4
+Amsterdam Main CCR,10.100.105.62,CCR1016-12G,2
+
+ATTR HS-001
+
+Name,Ip,Model,Clients
+ATTR-001-PM,10.254.24.5,0,
+
+Babelegi
+
+Name,Ip,Model,Clients
+TFW-Babelegi-PM,10.250.25.20,0,
+
+Hannes House
+
+Name,Ip,Model,Clients
+
+Hoek Wipronet 
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/HK-SWWW,10.105.42.138,PowerBeam M5,
+ www.wipronet.co.za/HK-SW,10.105.42.137,PowerBeam M5,
+(www.wipronet.co.za/HK-SSW),10.105.42.140,PowerBeam M5,
+(www.wipronet.co.za/hoek2),10.105.42.134,Rocket M5 Titanium,
+www.wipronet.co.za/HK-SSSW,10.105.42.139,PowerBeam M5,
+(www.wipronet.co.za/HK-SWW),10.105.42.136,0,
+(www.wipronet.co.za/b2b),10.105.42.133,PowerBeam M5,
+wipronet-wt-hoek,192.168.60.100,0,
+
+La Camarque
+
+Name,Ip,Model,Clients
+La Camarque Estate MK - CCR,10.100.130.1,CCR1016-12S-1S+,12
+La camarque PM,10.100.130.6,,
+
+Janelda Wipronet 
+
+Name,Ip,Model,Clients
+Janelda Boerderye,10.105.7.11,,
+Janelda Sector - Fly inn,10.105.7.131,Rocket M5,
+Janeldda Toughswitch,10.105.7.130,,
+Janelda Sec N,10.105.7.133,PowerBeam M5,
+Janelda Sec NE,10.105.7.132,PowerBeam M5,
+Janelda,10.105.7.129,CCR1009-8G-1S-1S+,24
+
+location1
+
+Name,Ip,Model,Clients
+
+Lombardy Estate
+
+Name,Ip,Model,Clients
+Uplink to FarmInn,10.100.72.228,,
+Lombardy Office Park 2011,10.100.72.253,,
+
+Esteq Wipronet
+
+Name,Ip,Model,Clients
+(www.wipronet.co.za/EST-E),10.105.30.133,Rocket M5 Titanium,
+(www.wipronet.co.za/EST-SE),10.105.30.132,Rocket M5,
+www.wipronet.co.za/EST-NNW,10.105.30.134,Rocket M5,
+Esteq Power Monitor,10.105.30.135,,
+TFWB-Esteq,10.105.30.129,CCR1036-12G-4S,16
+
+Little Eden Wipronet
+
+Name,Ip,Model,Clients
+Bapsfonteint to Little Eden,10.105.29.10,,
+Little  to Bapsfontein,10.105.29.11,,
+Little Eden ToughSwitch,10.105.29.130,,
+Little Eden Sector,10.105.29.135,Rocket M5,
+Little Eden Sec NW,10.105.29.133,Rocket M5,
+Little Eden East,10.105.29.131,Rocket M5,
+Little Eden ToughSwitch ,10.105.29.132,,
+Little Eden NO,10.105.29.134,PowerBeam M5,
+Little Eden,10.105.29.129,RB2011UiAS,19
+ Grootfontein_LittleEden @LittleEden ,10.105.29.19,,
+ Grootfontein_LittleEden @Grootfontein ,10.105.29.18,,
+Little Eden PM,10.105.29.137,,
+
+Burnett HS
+
+Name,Ip,Model,Clients
+Burnett HS,10.100.146.129,CCR1016-12S-1S+,1
+Studios @ Burnett Hotspot Router,10.100.146.18,CCR1016-12S-1S+,0
+Burnett PM,10.100.146.22,hAP ac,0
+SIAE @  Studio Burnett to Morelleta ,10.100.44.43,,
+
+Alexandria Mall
+
+Name,Ip,Model,Clients
+148b7777-278b-498c-92e3-bb78dedcbc0c,10.100.124.14,RB1100AHx2,0
+
+Gerhard Straat
+
+Name,Ip,Model,Clients
+Lyttelton - Gerhard Str-Station,10.100.6.35,0,
+Gerhard Street CRS Phase 1,10.100.6.38,CRS125-24G-1S,4
+Gerhard Street Power Monitor,10.100.128.6,,
+Gerhard Street CRS Phase 1,10.100.128.9,CRS125-24G-1S,4
+Gerhard Str 24 Port Switch Block1,10.100.128.14,,
+Gerhard Str 48 Port  Switch Block2,10.100.128.10,,
+Gerhard Str 24 Port Switch Block 2,10.100.128.18,,
+Gerhard Straat Block 3,10.100.128.138,RB2011UiAS,3
+Gerhard Str Block 3 Planet,10.100.128.22,,
+
+Hebsiba Wipronet 
+
+Name,Ip,Model,Clients
+Hebsiba RB2011,10.105.12.129,RB2011iLS,7
+Hebsiba PM,10.105.12.134,,
+Carab Hep Sec1,10.105.12.132,Rocket M5 Titanium,
+Carab Hep Sec2,10.105.12.131,Rocket M5 Titanium,
+BH-Hebsiba to Rhenostekop,10.105.12.11,,
+
+Rhenosterkop Wipronet 
+
+Name,Ip,Model,Clients
+Renosterkop,10.105.23.129,RB2011UiAS,13
+BH-Rhenostekop to Hebsiba,10.105.12.10,,
+BH-Rhenostekop to WT,10.105.23.11,,
+Rheno TS,10.105.23.130,,
+CARAB REN - HEP,10.105.23.133,PowerBeam M5,
+www.wipronet.co.za/RH-SEE,10.105.23.131,Rocket M5,
+www.wipronet.co.za/leroux,10.105.23.132,PowerBeam M5,
+Rhenosterkop PM,10.105.23.134,,
+Renosterkop Kamera,10.105.23.135,,
+
+Schanskop Wipronet 
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/schans-e,10.105.38.134,,
+www.wipronet.co.za/schans-NE,10.105.38.133,PowerBeam M5,
+www.wipronet.co.za/dish,10.105.38.132,Rocket M5,
+www.wipronet.co.za/SCH-SSSE,10.105.38.131,PowerBeam M5,
+Schanskop to Carina,10.105.38.11,,
+
+Magalies Wipronet 
+
+Name,Ip,Model,Clients
+
+Church Square
+
+Name,Ip,Model,Clients
+CHURCH-PM,10.251.0.2,0,
+TFW Isizwe Bus Project,10.248.4.7,CCR1036-12G-4S,0
+
+Waverly Wipronet 
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/wave-sec1,10.105.22.140,Rocket M5,
+www.wipronet.co.za/WAV-N,10.105.22.139,PowerBeam M5,
+www.wipronet.co.za/WAV-NNNE,10.105.22.138,PowerBeam M5,
+www.wipronet.co.za/WAV-NE,10.105.22.137,PowerBeam M5,
+www.wipronet.co.za/agcom,10.105.22.135,NanoBridge M5,
+www.wipronet.co.za/boom,10.105.22.130,PowerBeam M5,
+waverley_struben,10.105.22.18,,
+Uplink-Wip-Waverley-Morelletta,10.105.22.11,,
+
+Strubenkop Wipronet 
+
+Name,Ip,Model,Clients
+
+Morelleta Wipronet 
+
+Name,Ip,Model,Clients
+"www.wipronet.co.za/MOR-NE",10.100.121.134,Rocket M5,
+www.wipronet.co.za/moreletta-n,10.100.121.249,Rocket M5,
+Uplink-Wip-Morelletta-Waverley,10.105.22.10,,
+
+Teraco
+
+Name,Ip,Model,Clients
+Angeline,169.159.148.9,CCR1072-1G-8S+,1
+Cindy,169.159.149.2,CCR1016-12S-1S+,1
+B'elanna,169.159.149.1,,
+
+Sosh CC
+
+Name,Ip,Model,Clients
+Sosh-(CC),10.123.124.189,CCR1016-12S-1S+,0
+
+LGR Wipronet 
+
+Name,Ip,Model,Clients
+Cambium LGR to Watertoring,10.100.121.133,,
+LGR Cisco Switch,10.10.101.227,,
+LGR Cisco Diginet,10.10.101.253,,
+LGR Content Filter,213.150.201.39,,
+LGR Quintum,10.10.101.249,,
+AC Link - LGR,10.10.101.231,,
+
+Bapsfontein Wipronet
+
+Name,Ip,Model,Clients
+Bapsfontein,10.105.26.129,RB2011UiAS,10
+Bapsfontein Wipronet PM,10.105.26.131,,
+www.wipronet.co.za/bapsfontein,10.105.26.132,,
+www.wipronet.co.za/BF-NW,10.105.26.133,,
+www.wipronet.co.za/baps-E,10.105.26.134,,
+BW-BAPS-2.4-Sec,10.105.26.138,,
+Babs-Sec-S,10.105.26.137,,
+
+Bronkhorspruit Silos Wipronet 
+
+Name,Ip,Model,Clients
+Bronkhorstspruit Concentrator,10.105.11.129,RB2011iLS,11
+www.wipronet.co.za/BHS-S,10.105.11.131,,
+www.wipronet.co.za/russel,10.105.11.132,,
+www.wipronet.co.za/BHS-NEE,10.105.11.133,,
+www.wipronet.co.za/silo2,10.105.11.134,,
+
+Rooihuiskraal Estate
+
+Name,Ip,Model,Clients
+Rooihuiskraal Estate Block 5,10.100.117.129,CRS125-24G-1S,1
+Rooihuiskraal Estate Main CCR,10.100.116.14,CCR1016-12S-1S+,0
+Rooihuiskraal Estate Block 1,10.100.116.134,CRS125-24G-1S,0
+Rooihuiskraal Estate Block 6,10.100.116.154,CRS125-24G-1S,0
+Rooihuiskraal Estate Block 2,10.100.116.138,CRS125-24G-1S,0
+Rooihuiskraal Estate Block 4,10.100.116.146,CRS125-24G-1S,1
+Rooihuiskraal Estate Block 3,10.100.116.142,CRS125-24G-1S,1
+
+Alpha Sand Wipronet
+
+Name,Ip,Model,Clients
+ Alphasand Sec 1,10.100.122.165,PowerBeam M5,
+
+GreenSands Wipronet
+
+Name,Ip,Model,Clients
+Green Sands,10.100.122.138,,
+Green sands 2.4,10.100.122.136,,
+www.wipronet.co.za/vark,10.100.122.134,,
+
+Renosterkop Wipronet
+
+Name,Ip,Model,Clients
+
+LandRover 
+
+Name,Ip,Model,Clients
+
+Mooikloof 3
+
+Name,Ip,Model,Clients
+
+Olympus Wipronet (Danie de Swart)
+
+Name,Ip,Model,Clients
+
+Plotnet 51 (Riaan Tailor) Wipronet
+
+Name,Ip,Model,Clients
+ uplink_plot51 @Plotnet51,10.105.13.10,Rocket M5,
+Plotnet 51,10.105.13.129,RB2011UiAS,26
+Plotnet 51 Tough switch,10.105.13.130,,
+Rocket@ Plotnet 51,10.105.13.11,,
+Plotnet 51 sector,10.105.13.132,,
+vryheid-plotnet7,10.105.13.131,,
+
+Witpoort Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/2.4-oos witpoort,10.105.8.132,Bullet M2,
+ WIT-SEE,10.105.8.131,PowerBeam M5,
+
+Witbank Wipronet
+
+Name,Ip,Model,Clients
+
+Van Wyk Silos
+
+Name,Ip,Model,Clients
+
+Trap Wipronet
+
+Name,Ip,Model,Clients
+
+Salo de Swart (R 21) Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/riet,10.100.123.250,Rocket M5,
+
+King's Highway (Pretor) Wipronet
+
+Name,Ip,Model,Clients
+
+NG Kerk Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/legist,10.105.1.132,PowerBeam M5,
+www.wipronet.co.za/ngk-w,10.105.1.134,NanoBridge M5,
+www.wipronet.co.za/ngk-sw,10.105.1.133,PowerBeam M5,
+Uplink,10.105.1.10,0,
+
+Kitty Hawk Wipronet
+
+Name,Ip,Model,Clients
+
+Kobus de Meyer Wipronet
+
+Name,Ip,Model,Clients
+
+Johan Claasens Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/plotnet51-1,10.105.18.132,,
+
+Faan de Fos Wipronet
+
+Name,Ip,Model,Clients
+
+Ellof Silos Wipronet
+
+Name,Ip,Model,Clients
+
+Edelweis Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/edelweiss-N,10.105.2.138,Rocket M5,
+ Edelweise Uplink,10.105.2.135,Rocket M5,
+Edelweis-Client-TS,10.105.2.137,,
+
+Delmas (Schoeman) Silos Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/silo1,10.105.19.133,,
+,10.105.19.131,,
+www.wipronet.co.za/delmas-W,10.105.19.132,,
+
+Cahi Wipronet
+
+Name,Ip,Model,Clients
+
+Bronkhosrtbaai (Kannemeyer) Wipronet
+
+Name,Ip,Model,Clients
+
+Ben Goosen Wipronet
+
+Name,Ip,Model,Clients
+Ben Goosen Nano 1,10.105.20.240,NanoStation M2,
+Ben Goosen Nano 2,10.105.20.241,NanoStation M2,
+MHoog to Ben Goosen / Faan de Vos,10.105.20.237,,
+
+Burkea HS
+
+Name,Ip,Model,Clients
+
+Lammers 5
+
+Name,Ip,Model,Clients
+
+Zwavelsnest Wipronet
+
+Name,Ip,Model,Clients
+AC Link to Plotnet33,10.105.44.11,,
+Sector,10.105.44.14,,
+
+Lemon Tree Estate
+
+Name,Ip,Model,Clients
+
+Roodeplaat Wipronet
+
+Name,Ip,Model,Clients
+www.wipronet.co.za/j-vd-v,10.105.2.132,PowerBeam M5,

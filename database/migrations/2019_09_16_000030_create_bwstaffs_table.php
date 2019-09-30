@@ -1,0 +1,40 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+
+class CreateBwstaffsTable extends Migration {
+
+	/**
+	 * Run the migrations.
+	 *
+	 * @return void
+	 */
+	public function up()
+	{
+		Schema::create('bwstaffs', function(Blueprint $table)
+		{
+			$table->increments('id');
+			$table->string('name');
+			$table->string('surname');
+			$table->string('cellnum');
+			$table->string('cellnum2');
+			$table->string('email');
+			$table->string('address');
+			$table->timestamps();
+			$table->integer('outagesmail')->nullable();
+		});
+	}
+
+
+	/**
+	 * Reverse the migrations.
+	 *
+	 * @return void
+	 */
+	public function down()
+	{
+		Schema::drop('bwstaffs');
+	}
+
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="130be24a-aca6-4bce-b4c2-59796aea7432" name="10.99.38.111" url="http://10.99.38.111">
+        <fileTransfer host="10.99.38.111" port="22" rootFolder="/var/www/html/dte" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

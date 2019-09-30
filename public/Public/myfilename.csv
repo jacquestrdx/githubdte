@@ -1,0 +1,893 @@
+id,ip,name,devicetype_id,location_id
+3841,10.157.0.11,Oukloof->DMR Oukloof M2 (10.157.0.11) - snowisp-oukloof-walter-dmr-bb,2,85
+3842,10.41.0.180,Snowisp-dist-Pokkraal-RSV-Sec2 (10.41.0.180) 3.5,2,92
+3843,10.41.0.179,Snowisp-dist-Pokkraal-WCR-Sec1 (10.41.0.179) 3.5,2,92
+3844,10.41.0.182,BRE0006-2 PtP M2 (10.41.0.182),2,92
+3845,10.36.0.218,Ribbokkop->Ribtiel Ignite (10.36.0.218) - snowisp-rib-tiel,25,94
+3846,10.36.0.219,Ribtiel->Ribbokkop Ignite (10.36.0.219) - snowisp-rib-tiel,25,95
+3847,192.168.0.50,Ribtiel->Blackheath 17 GHz (0.50),25,95
+3848,10.75.0.138,Simonsberg->Hanskop Starlink (10.75.0.138),25,101
+3849,10.36.50.218,Snowball->NGDC Ignite (10.36.50.218) - snowisp-kwv-snowball,25,103
+3850,192.168.3.3,3.3 - InternalOmni - nic_0717_b L2TP,25,117
+3851,10.42.50.42,Vensterbank->Ashton AirFibre (10.42.50.42) - Snowisp-BB-Venster-Ashton,14,120
+3852,10.71.200.18,Wiesenhof->Zandwyk Siklu 80GHz (10.71.200.18),25,128
+3853,10.41.0.43,snowisp-wies-stel-3.5 (10.41.0.43),2,128
+3854,10.41.0.42,snowisp-wies-3.5 (10.41.0.42),2,128
+3855,10.71.200.18,Zandwyk->Wiesenhof Siklu 80GHz (10.71.200.18),25,133
+3856,10.71.0.179,Smartie->Du Toitskloof AirFibre2X (10.71.0.179) - snowisp-dutoits-smartie-2x,14,142
+3857,10.75.0.18,Warehouse->La Farge 2X (10.75.0.18) - snowisp-farge-wh-bb,14,1010
+3858,10.36.200.50,Paarl POP->Picardie 2X (10.36.200.50) - snowisp,14,1018
+3859,192.168.119.11,MonkeyTown 2.4 Sec UBNT (119.11) - snowisp-monkeytown-2.4,2,1029
+3860,10.36.50.106,Old College->Dorp Straat Ignite (10.36.50.106) - snowisp-college-isizwe,25,1036
+3861,192.168.80.106,Old College->Andringa Other (80.106) - WOZ_AWK_B,25,1036
+3862,10.157.0.12,Oukloof DMR->Oukloof M2 (10.157.0.12) - snowisp-oukloof-walter-dmr-bb,2,1037
+3863,10.36.200.51,Picardie->Paarl POP 2X (10.36.200.51) - snowisp,14,1039
+3864,10.71.0.114,St Tropez->Goudahof Ignite (10.71.0.114) - snowisp-st-gouda,25,1045
+3865,10.75.0.99,Simonsberg->Bottelary2 DragonWave (10.75.0.99),25,101
+3866,10.75.3.7,snowisp-lafarge-tygervalley1 (10.75.3.7) Prism,22,61
+3867,10.71.0.34,Percy Holmes->Glencairn Prism (10.71.0.34) - snowisp-bb-percy-glencairn,22,89
+3868,10.36.0.147,Percy Holmes->Muizenberg Prism (10.36.0.147) - snowisp-muiz-bb-percy,22,89
+3869,192.168.87.56,Kirk Marketing ODU Prism (87.56),22,94
+3870,192.168.87.10,Kirk Marketing PtP Prism (87.10) - snowisp-rib-kirk-ptp,22,94
+3871,192.168.87.5,Ribbokkop dist Blackheath UBNT (87.5) - snowisp-blackheath,22,94
+3872,10.36.15.17,2Oceans Complex PtP Prism (10.36.15.17) - snowisp-ribtiel-2oceans-ap,22,95
+3873,10.70.0.227,Ribtiel->Robobot Prism (10.70.0.227) - snowisp-robobot-ribtiel,22,95
+3874,10.36.15.18,Groenvlei PtP UBNT (10.36.15.18) - snowisp-ribtiel-Brackenfell-NM5,22,95
+3875,10.36.15.27,Liebenberg Logistics PtP Prism (10.36.15.27) - snowisp-ribtiel-lieben-ptp,22,95
+3876,10.36.15.4,Ribtiel Zeven Onder AC (10.36.15.4) - snowisp-ribtiel-zeven-onder,22,95
+3877,192.168.43.5,Simonsberg Stb dist 1 Prism (43.5) - snowisp-stellenbosch,22,101
+3878,192.168.43.249,Simonsberg MidGain Paarl Prism (43.249) - snowisp-sim-flat,22,101
+3879,192.168.43.7,Simonsberg Stb dist 2 Prism (43.7) - snowisp-stellenbosch2,22,101
+3880,10.36.62.253,Distell Horn Prism (10.36.62.253) -  snowisp-distell,22,101
+3881,192.168.43.16,snowisp-simons-stellies3 (43.16) Prism,22,101
+3882,192.168.43.9,Simonsberg Paarl2 Prism (43.9) - snowisp-sim-dist5,22,101
+3883,192.168.43.12,Intratec PtP Prism (43.12) - snowisp-intratec-ptp,22,101
+3884,10.36.62.254,Distell Prism (10.36.62.254) - snowisp-distell,22,101
+3885,192.168.43.17,snowisp-simons-stellies4 (43.17) Prism,22,101
+3886,192.168.36.5,snowisp-simons-74.14deg-4.03tilt (36.5) Prism,22,101
+3887,192.168.43.4,Simonsberg Paarl1 Prism (43.4) - snowisp-sim-dist4,22,101
+3888,10.36.69.4,snowisp-sbhs-sec2 (10.36.69.4) Prism,22,103
+3889,192.168.82.106,82.106 - UVM_MAC,22,117
+3890,192.168.80.90,80.90 - UVM ROC AC,22,117
+3891,192.168.82.80,snowisp-uva-wineryrd-sec (82.80) Prism Horn,22,117
+3892,192.168.80.91,80.91 - Kar Roc AC,22,117
+3893,10.36.59.10,Intellichem PtP PB5AC (10.36.59.10) - snowisp-ptp-intellichem,22,117
+3894,192.168.82.52,82.52 - Ouderberg Farm PB AC,22,117
+3895,192.168.82.106,WOZ_UVM_MAC,22,117
+3896,192.168.33.24,Lebonheur Cottages dist Prism (33.24) - snowisp-wies-lebonheur,22,128
+3897,192.168.33.4,Wiesenhof Klapmuts Prism (33.4) - snowisp-wies-klap,22,128
+3898,10.72.1.8,FAB Hire PtP Prism (10.72.1.8) - snowisp-zand-fabhire-ptp,22,133
+3899,10.72.1.5,Zandwyk Sec 2 Prism (10.72.1.5) - Zandwyk-dist2,22,133
+3900,10.72.1.52,fabhire@snowisp.com (10.72.1.52) PowerBeam AC,22,133
+3901,10.72.1.9,snowisp-ACSec-PtP (10.72.1.9),22,133
+3902,10.36.40.5,Zorgvliet Midgain Prism (10.36.40.5) - snowisp-zorg-ubnt,22,135
+3903,10.36.36.14,snowisp-thedunes-ptp (10.36.36.14) NB5AC,22,137
+3904,10.36.50.67,Roodeberg->Lake Michelle Prism (10.36.50.67) - snowisp-LM,22,137
+3905,10.36.56.4,snowisp-smartie-sec2 (10.36.56.4) Prism AC45,22,142
+3906,10.36.56.3,snowisp-smartie-sec1 (10.36.56.3) Prism AC45,22,142
+3907,10.36.67.3,snowisp-welcomeglen-sec1 (10.36.67.3) Prism,22,1016
+3908,10.36.67.4,snowisp-welcomeglen-sec2 (10.36.67.4) Prism,22,1016
+3909,10.36.30.4,Gbay1 Horn1 Prism (10.36.30.4) - snowisp-gbay1,22,1026
+3910,10.71.0.35,Glencairn 2->Percy Holmes Prism (10.71.0.35) - snowisp-bb-percy-glencairn,22,1027
+3911,192.168.77.4,Matoppi Franschhoek dist Prism (77.4) - snowisp,22,1033
+3912,10.36.70.9,snowisp-picardie-sec4 (10.36.70.9) Prism,22,1039
+3913,10.36.70.4,snowisp-picardie-sec1 (10.36.70.4) Prism,22,1039
+3914,10.36.70.8,snowisp-picardie-sec3 (10.36.70.8) Prism,22,1039
+3915,10.36.70.5,snowisp-picardie-sec2 (10.36.70.5) Prism,22,1039
+3916,192.168.140.6,St Tropez 6 Prism (140.6) - snowisp-sttropaz-helderberg1,22,1045
+3917,192.168.73.22,192.168.73.22 - WOZ_WGV_BEY - PRISM,22,1053
+3918,192.168.74.2,74.2 - WGVHS3 ROC AC,22,1055
+3919,192.168.74.3,74.3 - DAL ROC AC,22,1055
+3920,10.130.2.11,Kriegler PtP Prism (10.130.2.11) - snowisp-witvlakte-kriegerl-ptp,22,1056
+3921,10.36.0.66,Klipheuwel->Koeberg RapidFire (10.36.0.66) - snowisp-klip-koeberg,19,58
+3922,10.36.0.59,Klipheuwel->Bottelary RapidFire (10.36.0.59) - snowisp-bot-klip,19,58
+3923,10.41.0.146,Oukloof->Romansrivier RapidFire (10.41.0.146) - snowisp-bb-oukloof-romans,19,85
+3924,10.36.50.51,Oukloof->Paardeberg RapidFire (10.36.50.51) - snowisp-paarde-oukloof-bb,19,85
+3925,10.41.2.5,Oukloof->Ouplaas RapidFire (10.41.2.5) - snowisp-oukloof--ouplaas,19,85
+3926,10.41.2.10,Ouplaas->Theronsberg RapidFire (10.41.2.10) - snowisp-bb-ouplaas-therons,19,86
+3927,10.41.2.6,Ouplaas->Oukloof RapidFire (10.41.2.6) - snowisp-oukloof--ouplaas,19,86
+3928,10.42.50.3,Paardeberg->Groenberg RapidFire (10.42.50.3) snowisp-groen-paarde,19,87
+3929,10.36.50.50,Paardeberg->Oukloof RapidFire (10.36.50.50) - snowisp-paarde-oukloof-bb,19,87
+3930,10.36.50.34,Paardeberg->Klipheuwel RapidFire (10.36.50.34) - snowisp-klip-paarde,19,87
+3931,10.41.2.35,Pear->Theronsberg RapidFire (10.41.2.35) - snowisp-bb-pear,19,88
+3932,10.122.0.2,Pokkraal->Vensterbank RapidFire (10.122.0.2) - snowisp-vensterbank-bb-pokkraal,19,92
+3933,10.36.0.122,Ribbokkop->Clickatel RapidFire (10.36.0.122) - snowisp-bb-ribbok-click,19,94
+3934,192.168.27.2,Ribbokkop->Blackheath RapidFire (27.2) - snowisp-ribbok-blackheath,19,94
+3935,192.168.71.2,Ribbokkop->Marsubar RapidFire (71.2) - snowisp-rib-bb-mar,19,94
+3936,10.36.0.203,Robobot->Block B RapidFire (10.36.0.203) - snowisp-cap-robobot,19,99
+3937,10.41.0.147,Romansrivier->Oukloof RapidFire (10.41.0.147) - snowisp-bb-oukloof-romans,19,100
+3938,10.71.0.194,Romansrivier->Wolesley RapidFire (10.71.0.194) - snowisp-romans-wolesley-bb,19,100
+3939,192.168.46.2,Simonsberg->Philadelphia RapidFire (46.2) - snowisp-simonsberg-philadelphia,19,101
+3940,10.36.50.131,Uva Mira->Croydon RapidFire (10.36.50.131) - snowisp-croydon-uva-bb,19,117
+3941,10.36.50.131,10.36.50.131 - UVM > Croydon RF,19,117
+3942,10.36.50.130,10.36.50.130 - Croydon > UVM RF,19,117
+3943,10.41.2.19,Van Wyk->Theronsberg RapidFire (10.41.2.19) - snowisp-bb-vanwyk,19,118
+3944,10.71.0.138,Vensterbank->Theronsberg Walter RapidFire (10.71.0.138) - snowisp-venster-therons,19,120
+3945,10.42.50.50,Vensterbank->Langeberg RapidFire (10.42.50.50) - snowisp-venster-bb-langeberg,19,120
+3946,10.122.0.3,Vensterbank->Pokkraal RapidFire (10.122.0.3) - snowisp-vensterbank-bb-pokkraal,19,120
+3947,10.36.50.122,Vensterbank->Robertson POP RapidFire (10.36.50.122) - snowisp-venster-robertsonpop-bb,19,120
+3948,10.122.0.10,Vensterbank->Witvlakte RapidFire (10.122.0.10) - snowisp-vensterbank-bb-witvlakte,19,120
+3949,10.41.2.74,Vensterbank->Montagu RapidFire (10.41.2.74) - snowisp-bb-venster-montagu,19,120
+3950,10.72.0.10,Zandwyk->Matoppi RapidFire (10.72.0.10) - snowisp-zand-mat,19,133
+3951,10.72.0.18,Zandwyk->Du Toitskloof RapidFire (10.72.0.18) - snowisp-bb-dutoit,19,133
+3952,10.70.0.66,Zorgvliet->Bartinney RapidFire (10.70.0.66) - snowisp-zorgvliet-bart,19,135
+3953,192.168.159.253,Zorgvliet->Block D RapidFire (159.253) - snowisp-zorgvliet-rf,19,135
+3954,10.71.0.131,Longlands->Block E RapidFire (10.71.0.131) - snowisp-blockE-long-bb,19,1007
+3955,192.168.6.3,Akkerhof->Block B RapidFire (6.3) - snowisp-blockb-akker-bb,19,1020
+3956,10.72.0.11,Matoppi->Zandwyk RapidFire (10.72.0.11) - snowisp-zand-mat,19,1033
+3957,192.168.46.253,Philidelphia->Simonsberg RapidFire (46.253) - snowisp-simonsberg-philadelphia,19,1038
+3958,10.36.50.123,Robertson POP->Vensterbank RapidFire (10.36.50.123) - snowisp-venster-robertsonpop-bb,19,1040
+3959,192.168.54.108,Golf Club->Hydro RapidFire (54.108) - snowisp-hydro-golf-bb,19,1041
+3960,10.125.0.3,Spier->Spier Relay RapidFire (10.125.0.3) - snowisp-spierRF,19,1043
+3961,10.36.0.139,Spier Relay->Block E RapidFire (10.36.0.139) - snowisp-bb-spier2,19,1044
+3962,10.125.0.2,Spier Relay->Spier RapidFire (10.125.0.2) - snowisp-spierRF,19,1044
+3963,10.36.50.27,St Tropez->Drie Koppen RapidFire (10.36.50.27) - snowisp-driekoppen-sttropaz,19,1045
+3964,10.41.2.11,Theronsberg->Ouplaas RapidFire (10.41.2.11) -  snowisp-bb-ouplaas-therons,19,1047
+3965,10.41.2.34,Theronsberg->Pear RapidFire (10.41.2.34) - snowisp-bb-pear,19,1047
+3966,10.41.2.18,Theronsberg->Van Wyk RapidFire (10.41.2.18) - snowisp-bb-vanwyk,19,1047
+3967,10.71.0.139,Theronsberg Walter->Vensterbank RapidFire (10.71.0.139) - snowisp-venster-therons,19,1048
+3968,10.122.0.11,Witvlakte->Vensterbank RapidFire (10.122.0.11) - snowisp-vensterbank-bb-witvlakte,19,1056
+3969,10.71.0.195,Wolesley->Romansrivier RapidFire (10.71.0.195) - snowisp-romans-wolesley-bb,19,1057
+3970,10.71.0.122,Worcester N1->Galgeberg RapidFire (10.71.0.122) - snowisp-N1-galge-bb,19,131
+3971,192.168.115.19,snowisp-oesnek-camsec2 (115.19),17,80
+3972,192.168.115.6,snowisp-oesnek-camsec3 (115.6),17,80
+3973,192.168.115.13,Snowball->Oesnek F200 (115.13) - snowisp-oesnek-camsec1,17,103
+3974,10.36.70.7,snowisp-picardie-camsec2 (10.36.70.7),17,1039
+3975,10.36.70.6,snowisp-picardie-camsec1 (10.36.70.6),17,1039
+3976,192.168.140.8,snowisp-sttropaz-cam3 (140.8),17,1045
+3977,192.168.140.13,snowisp-sttropez-cam4 (140.13),17,1045
+3978,192.168.140.14,snowisp-sttropez-cam5 (140.14),17,1045
+3979,192.168.140.11,snowisp-sttropaz-cam1 (140.11),17,1045
+3980,192.168.140.12,snowisp-sttropaz-cam2 (140.12),17,1045
+3981,10.75.0.2,Radwin (10.75.0.2),12,81
+3982,10.75.0.43,Oranjefontein->Koebrg2 Radwin (10.75.0.43) - DMR-Oranje.Koeberg,12,83
+3983,192.168.141.202,Simon Rosholt->Knorhoek Office UBNT (141.202),10,26
+3984,192.168.89.25,89.25 - Kaya Complex PB,10,56
+3985,10.36.44.199,10.36.44.199 - Wild Peacock Nano,10,56
+3986,10.36.0.19,Jordan->Zone Sec Ligo (10.36.0.19) - snowisp-jordan-zone-bb,8,51
+3987,10.36.0.83,Manor Mews->Oceanview Ligo (10.36.0.83) - snowisp-bb-ocean-imperial,8,66
+3988,10.75.0.11,Onrus->Hanskop Ligo (10.75.0.11) - snowisp-hans-onrus,8,81
+3989,10.158.0.3,Oukloof->Wiesenhof Ligo (10.158.0.3) - snowisp-wies-oukloof,8,85
+3990,10.70.0.98,Paardeberg->Dirkie Uys Ligo (10.70.0.98) - snowisp-paarde-dirkie,8,87
+3991,10.129.0.2,Pokkraal->Worcester N1 Ligo (10.129.0.2) - snowisp-worcestorm1-pokkraal,8,92
+3992,10.70.0.234,Ribbokkop->Maastricht Ligo (10.70.0.234) - snowisp-bb-rib-maast,8,94
+3993,192.168.103.2,Simonsberg->Old College Ligo (103.2) - snowisp-bb-simonsberg-oukol,8,101
+3994,10.130.0.11,Werda->Witvlakte Ligo (10.130.0.11) - snowisp-bb-witvlakte,8,126
+3995,192.168.33.14,Wiesenhof->Babylons Toren Ligo (33.14) - snowisp-wies-baby,8,128
+3996,10.158.0.2,Wiesenhof->Oukloof Ligo (10.158.0.2) - snowisp-wies-oukloof,8,128
+3997,192.168.33.15,Babylons Toren->Wiesenhof Ligo (33.15),8,128
+3998,10.36.50.235,Welcome Glen->Glencairn Ligo (10.36.50.235) - snowisp-glen2-glenR,8,1016
+3999,10.70.0.179,Fernwood->Manor Mews Ligo (10.70.0.179) - snowisp-manor-fern,8,1025
+4000,192.168.103.253,Old College->Simonsberg Ligo (103.253) - snowisp-bb-simonsberg-oukol,8,1036
+4001,10.36.70.10,Biodelta PtP Ligo (10.36.70.10) - snowisp-biodelta-ptp,8,1039
+4002,10.36.70.11,biodelta@snowisp.com Ligo (10.36.70.11),8,1039
+4003,10.36.50.138,Aleit2 PtP Ligo (10.36.50.138) - snowisp-tropez-aleit2-ptp,8,1045
+4004,10.41.2.42,Theronsberg->Op Die Berg (Bokke) Ligo (10.41.2.42) - snowisp-bb-bokke,8,1047
+4005,10.36.0.235,Touwsrivier->Witvlakte Ligo (10.36.0.235) - snowisp-bb-touwsrivier,8,1049
+4006,10.70.0.147,Varkie->Bottelary Ligo (10.70.0.147) - bots-varkie,8,1050
+4007,10.36.0.234,Witvlakte->Touwsrivier Ligo (10.36.0.234) - snowisp-bb-touwsrivier,8,1056
+4008,10.130.0.10,Witvlakte->Werda Ligo (10.130.0.10) - snowisp-bb-witvlakte,8,1056
+4009,10.36.0.18,Zone Sec->Jordan Ligo (10.36.0.18) - snowisp-jordan-zone-bb,8,1060
+4010,10.36.0.26,Zone Sec->Muizenberg Ligo (10.36.0.26) - snowisp-bb-zone-muizen,8,1060
+4011,10.150.0.3,Zone Sec->Constantia Price Drive Ligo (10.150.0.3) - snowisp-ott-bb-pd,8,1060
+4012,10.129.0.3,Worcester N1->Pokkraal Ligo (10.129.0.3) - snowisp-worcestorm1-pokkraal,8,131
+4013,10.70.0.83,CWDM Trappe->Worcester NNI Ligo (10.70.0.83) - snowisp-nni-trappies-ptp,8,132
+4014,10.70.0.82,Worcester NNI->CWDM Trappe Ligo (10.70.0.82) - snowisp-nni-trappies-ptp,8,132
+4015,10.159.0.3,Worcester NNI->Hawekwa Ligo (10.159.0.3) - snowisp-hawekwa-bb-nn,8,132
+4016,192.168.101.13,Onrus Cisco (101.13),7,81
+4017,192.168.101.14,Kleinbaai Cisco (101.14),7,1031
+4018,192.168.101.9,Vredenburg Cisco (101.9),7,1051
+4019,10.70.0.187,Pokkraal->Worcester NNI Microwave (10.70.0.187),5,92
+4020,10.36.0.107,Ribbokkop->Block B Microwave (10.36.0.107),5,94
+4021,192.168.59.3,Simonsberg->Du Toitskloof Microwave (59.3),5,101
+4022,10.130.0.3,Simonsberg->Matoppi Microwave (10.130.0.3),5,101
+4023,10.71.0.50,Simonsberg->Block D Microwave (10.71.0.50),5,101
+4024,10.71.200.2,Simonsberg->Paarl POP Microwave (10.71.200.2),5,101
+4025,192.168.11.11,192.168.11.11 - UVM > USN G SAIE 17ghz (41/42),5,117
+4026,192.168.11.10,192.168.11.10 - USN G > UVM SAIE 17ghz (41/42),5,117
+4027,10.71.200.11,Wiesenhof->Groenberg Siae17GHz (10.71.200.11),5,128
+4028,10.156.0.2,Wiesenhof->Block B Microwave (10.156.0.2),5,128
+4029,10.71.0.43,Villa Italia->LaFarge Microwave (10.71.0.43),5,1009
+4030,10.71.200.3,Paarl POP->Simonsberg Microwave (10.71.200.3),5,1018
+4031,192.168.11.2,Bottelary 2 WGV SIAE (192.168.11.2),5,1021
+4032,10.71.200.26,Old College->Gustrouw Siae17GHz (10.71.200.26),5,1036
+4033,10.70.0.59,Spier->Spier Relay Microwave (10.70.0.59),5,1043
+4034,10.70.0.58,Spier Relay->Spier Microwave(10.70.0.58),5,1044
+4035,10.70.0.154,Spier Relay->Block E Microwave (10.70.0.154),5,1044
+4036,10.36.0.163,St Tropez->Helderberg Microwave (10.36.0.163),5,1045
+4037,192.168.80.163,80.163 - WGV 17ghz SAIE,5,1055
+4038,192.168.80.161,80.161 - WISH GW,5,1055
+4039,192.168.80.162,80.162 - WOZ 17ghz SAIE,5,1055
+4040,10.70.0.186,Worcester NNI->Pokkraal Microwave (10.70.0.186),5,132
+4041,10.31.11.126,Karibib Power Monitor (10.31.11.126),4,55
+4042,10.157.0.254,Oukloof PM (10.157.0.254),4,85
+4043,10.31.10.70,Power Monitor (10.31.10.70),4,87
+4044,10.31.11.182,Pokkraal Power Monitor (10.31.11.182),4,92
+4045,10.31.10.94,Power Monitor (10.31.10.94),4,99
+4046,192.168.43.8,Simonsberg Power Monitor & WiFi (43.8),4,101
+4047,10.40.0.198,Power Monitor (10.40.0.198),4,118
+4048,10.72.1.254,Power Monitor (10.72.1.254),4,133
+4049,10.31.11.82,Longlands Power Monitor (10.31.11.82),4,1007
+4050,10.31.10.198,Power Monitor (10.31.10.198),4,1038
+4051,10.31.11.150,Spier Relay Power Monitor (10.31.11.150),4,1044
+4052,10.41.1.46,Power Monitor (10.41.1.46),4,1047
+4053,10.31.10.158,Power Monitor (10.31.10.158),4,1049
+4054,10.35.200.12,10.35.200.12 - PVT Controller (Canary) (PPP),4,1054
+4055,10.31.12.50,Power Monitor (10.31.12.50),4,1056
+4056,10.41.0.50,Delheim 3.5 TS1 (10.41.0.50),3,26
+4057,10.36.19.2,Malslang 5.8 TS1 (10.36.19.2),3,65
+4058,10.36.6.2,Manor Mews TS1 (10.36.6.2),3,66
+4059,10.157.0.250,Oukloof 5.8 TS2 (10.157.0.250),3,85
+4060,10.157.0.2,Oukloof TS1 (10.157.0.2),3,85
+4061,10.41.1.162,Paardeberg 3.5 TS1 (10.41.1.162),3,87
+4062,10.36.71.2,Paardeberg 5.8 TS1 (10.36.71.2),3,87
+4063,10.41.1.67,Pear 5.8 TS1 (10.41.1.67),3,88
+4064,10.41.0.178,Pokkraal 3.5 TS (10.41.0.178),3,92
+4065,192.168.87.9,Ribbokkop TS 1 (87.9),3,94
+4066,192.168.87.7,Ribbokkop TS 2 (87.7),3,94
+4067,10.36.15.3,Ribtiel 5.8 TS2 (10.36.15.3),3,95
+4068,10.36.15.2,Ribtiel 5.8 TS1 (10.36.15.2),3,95
+4069,10.41.1.26,Van Wyk 5.8 TS1 (10.41.1.26),3,118
+4070,10.41.1.34,Van Wyk 3.5 TS1 (10.41.1.34),3,118
+4071,10.36.40.2,Zorgvliet TS (10.36.40.2),3,135
+4072,10.36.36.2,Roodeberg 5.8 TS1 (10.36.36.2),3,137
+4073,10.36.36.254,Roodeberg 5.8 TS2 (10.36.36.254),3,137
+4074,10.36.56.2,Smartie TS (10.36.56.2),3,142
+4075,10.36.58.2,Warehouse TS (10.36.58.2),3,1010
+4076,10.36.67.2,Welcome Glen 5.8 TS1 (10.36.67.2),3,1016
+4077,192.168.77.13,Matoppi 5.8 TS2 (77.13),3,1033
+4078,192.168.90.71,Nooitgedacht C TS 2 (90.71),3,1034
+4079,192.168.102.2,Old College TS (102.2),3,1036
+4080,10.41.2.122,Picardie 3.5 TS1 (10.41.2.122),3,1039
+4081,10.36.52.2,Spier Relay TS1 (10.36.52.2),3,1044
+4082,192.168.49.2,St Tropez TS1 (49.2),3,1045
+4083,10.41.0.98,St Tropez 3.5 TS1 (10.41.0.98),3,1045
+4084,192.168.49.3,St Tropez TS3 (49.3),3,1045
+4085,192.168.49.4,St Tropez TS2 (49.4),3,1045
+4086,10.36.61.2,St Tropez TS4 (10.36.61.2),3,1045
+4087,10.41.1.42,Theronsberg 5.8 TS1 (10.41.1.42),3,1047
+4088,10.41.1.50,Theronsberg 3.5 TS1 (10.41.1.50),3,1047
+4089,10.36.16.2,Touwsrivier 5.8 TS1 (10.36.16.2),3,1049
+4090,10.36.16.3,Touwsrivier 3.5 TS1 (10.36.16.3),3,1049
+4091,10.36.21.2,Varkie 5.8 TS1 (10.36.21.2),3,1050
+4092,10.36.21.3,Varkie 5.8 TS2 (10.36.21.3),3,1050
+4093,10.41.1.242,Varkie 3.5 TS1 (10.41.1.242),3,1050
+4094,10.130.2.3,Witvlakte 5.8 TS1 (10.130.2.3),3,1056
+4095,10.41.2.114,Witvlakte 3.5 TS1 (10.41.2.114),3,1056
+4096,10.36.1.2,Zone Sec TS (10.36.1.2),3,1060
+4097,10.42.17.2,Worcester N1 5.8 TS1 (10.42.17.2),3,131
+4098,10.130.1.2,Worcester N1 3.5 TS1 (10.130.1.2),3,131
+4099,192.168.114.2,Worcester NNI 5.8 TS1 (114.2),3,132
+4100,10.42.3.196,Worcester NNI 3.5 TS1 (10.42.3.196),3,132
+4101,10.36.9.7,Absa dist 3 (10.36.9.7) - snowisp-absa-dist3,2,2
+4102,192.168.93.249,Kylemore Horn UBNT (93.249) - snowisp-kylemore-horn,2,7
+4103,10.142.0.3,Bartinney->Jonkershoek UBNT (10.142.0.3) - snowisp-bb-bar-jonk,2,7
+4104,10.41.1.180,Snowisp-Bonnievale-Dist-Sec2 (10.41.1.180) RM3,2,11
+4105,10.36.20.6,Dirkie Uys Dist 4 (10.36.20.6) - snowisp-dirkie-4,2,27
+4106,10.36.5.21,capepine4@snowisp.com UBNT (10.36.5.21),2,50
+4107,10.36.41.4,Pniel Horn UBNT (10.36.41.4) - snowisp-jonkers-pnielhorn,2,50
+4108,192.168.89.100,89.100 - snowisp-kaya-sec2,2,56
+4109,10.36.3.4,snowisp-sec2-so-klipheuwel UBNT (10.36.3.4),2,58
+4110,10.36.3.12,vernon.prins@snowisp.com UBNT (10.36.3.12),2,58
+4111,192.168.126.145,sanlamprivatewealth@snowisp.com UBNT (126.145),2,64
+4112,10.36.19.3,Malslang Dist 1 UBNT (10.36.19.3) - snowisp-malslang-1,2,65
+4113,10.36.6.4,Manor Mews dist 2 (10.36.6.4) - snowisp-mews-dist2,2,66
+4114,10.36.6.8,Phoenix PtP UBNT (10.36.6.8) - snowisp-phoenix-ptp,2,66
+4115,10.120.0.2,Marsubar->Jordan UBNT (10.120.0.2) - Marsubar-Jordan-Link,2,68
+4116,10.36.31.4,Marsubar Plattekloof UBNT (31.4) - snowhero-masubar-plattekloof,2,68
+4117,192.168.166.254,Octo Place 2.4 dist UBNT (166.254) - snowisp-octo-ubnt,2,79
+4118,192.168.166.250,matogencorporatewebdevelopment@snowisp.com UBNT (166.250),2,79
+4119,192.168.115.203,UBNT (115.203) - snowisp-oesnek-1,2,80
+4120,192.168.115.10,Renish PtP UBNT (115.10) - snowisp-renish-ptp,2,80
+4121,192.168.115.251,jfhillebrand.stboffice@snowisp.com UBNT (115.251),2,80
+4122,10.75.0.50,Oranjefontein->Swartbergsvlei UBNT (10.75.0.50) - DMR-Kapok-Swart,2,83
+4123,10.157.0.9,Oukloof Sec 3 (10.157.0.9) - snowisp-oukloof-tulbagh,2,85
+4124,10.157.0.5,Oukloof Sec 2 (10.157.0.5) - snowisp-oukloof,2,85
+4125,10.157.0.4,Sector 2 Gouda Sec 3.5 (10.157.0.4) - snowisp-gouda,2,85
+4126,10.157.0.3,Sector 1 Sharon Sec 3.5 (10.157.0.3) - snowisp-sharon,2,85
+4127,10.157.0.6,Oukloof Sec 1 (10.157.0.6) - snowisp-oukloof1,2,85
+4128,10.157.0.7,Wolwekloof PtP UBNT (10.157.0.7) - snowisp-oukloof-wolwekloof,2,85
+4129,10.157.0.10,snowisp-oukloof-midgain (10.157.0.10),2,85
+4130,10.41.1.19,3.5 Dist1 (10.41.1.19) - snowisp-ouplaas-dist1,2,86
+4131,10.41.1.12,Ouplaas UBNT 2 (10.41.1.12) - snowisp-ouplaas-dist2,2,86
+4132,10.41.1.20,3.5 Dist2 (10.41.1.20) - snowisp-ouplaas-dist2,2,86
+4133,10.41.2.4,Ouplaas RB3011 (10.41.2.4),2,86
+4134,10.41.1.11,Ouplaas UBNT 1 (10.41.1.11) - snowisp-ouplaas-dist1,2,86
+4135,10.41.1.163,Groenberg 3.5 Sec (10.41.1.163) - snowisp-paarde-groen,2,87
+4136,10.41.1.164,Hermon 3.5 Sec (10.41.1.164) - snowisp-paarde-hermon,2,87
+4137,10.36.71.3,snowisp-paardeberg -sec1 (10.36.71.3),2,87
+4138,10.36.71.4,snowisp-paardeberg-sec2 (10.36.71.4),2,87
+4139,10.41.1.165,Paardeberg 5.8 dist (10.41.1.165) - snowisp-fynbos,2,87
+4140,10.36.35.10,snowisp-paarde-alwenasmit-ptp (10.36.35.10) PB,2,87
+4141,10.41.1.71,Pear UBNT 4 (10.41.1.71) - snowisp-pear-dist4,2,88
+4142,10.41.1.70,Pear UBNT 3 (10.41.1.70) - snowisp-pear-dist3,2,88
+4143,10.41.1.83,Pear 3.5 dist 1 (10.41.1.83) - snowisp-pear dist1,2,88
+4144,10.41.1.84,Pear 3.5 dist 2 (10.41.1.84) - snowisp-pear-dist2,2,88
+4145,10.41.1.68,Pear UBNT 1 (10.41.1.68) - snow-isp-pear-dist1,2,88
+4146,10.41.1.69,Pear UBNT 2 (10.41.1.69) - snowisp-pear-dist2,2,88
+4147,10.41.1.85,Pear 3.5 dist 3 (10.41.1.85) - snowisp-pear-dist3,2,88
+4148,10.41.0.181,Snowisp-dist-Pokkraal-WCR-New (10.41.0.181) 3.5,2,92
+4149,192.168.87.4,Ribbokkop dist Stel UBNT (87.4) - snowisp-rib-dist stell,2,94
+4150,192.168.87.14,Ralph Garlick PtP UBNT (87.14) - snowisp-ptp-dish1,2,94
+4151,192.168.87.65,francois.vanthemaat@snowisp.com UBNT (87.65),2,94
+4152,192.168.87.210,ralph.garlick@snowisp.com UBNT (87.210),2,94
+4153,192.168.87.8,Fruit & Veg PtP UBNT (87.8) - snowisp-ribbok-fruit,2,94
+4154,192.168.87.12,Ribbokkop dist FP UBNT (87.12) - snowisp-rib-fp,2,94
+4155,192.168.87.250,snowisp-ribbokkop-helder UBNT (87.250),2,94
+4156,192.168.87.105,barry.vanblerk@snowisp.com UBNT (87.105),2,94
+4157,192.168.87.104,Barry van Blerk PtP UBNT (87.104) - p2p,2,94
+4158,10.36.15.12,Ribtiel CG3 (10.36.15.12) - snowisp-ribtiel-cg3,2,95
+4159,10.36.15.15,Gugu Community Centre PtP UBNT (10.36.15.15) - snowisp-isizwe-ghugu-ptp,2,95
+4160,10.36.15.250,ERC PtP AP (10.36.15.250) - snowisp-ribtiel-ERC,2,95
+4161,10.36.15.119,groenvleiguestfarm@snowisp.com UBNT (10.36.15.119),2,95
+4162,10.36.15.9,Ribtiel Bellville3 45 (10.36.15.9) - snowisp-ribtiel-bellville3,2,95
+4163,10.36.15.8,Ribtiel Bellville2 45 (10.36.15.8) - snowisp-ribtiel-bellville2,2,95
+4164,10.36.15.10,Ribtiel CG1 (10.36.15.10) - snowisp-ribtiel-cg1,2,95
+4165,10.36.15.6,Ribtiel Zeven Bo (10.36.15.6) - snowisp-ribtiel-zeven-bo,2,95
+4166,10.36.15.5,Ribtiel Zeven Middel (10.36.15.5) - snowisp-ribtiel-zeven-middel,2,95
+4167,10.36.15.7,Ribtiel Bellville1 45 (10.36.15.7) - snowisp-ribtiel-bellville1,2,95
+4168,10.36.15.11,Ribtiel CG2 (10.36.15.11) - snowisp-ribtiel-cg2,2,95
+4169,10.36.15.13,Ribtiel Bellville CG1 (10.36.15.13) - snowisp-ribtiel-bellville-cg1,2,95
+4170,10.36.15.14,Ribtiel Bellville CG2 (10.36.15.14) - snowisp-ribtiel-bellville-cg2,2,95
+4171,10.36.13.4,Robobot dist 2 UBNT (10.36.13.4) - snowisp-robobot-sec2,2,99
+4172,10.36.13.3,Robobot dist 1 UBNT (10.36.13.3) - snowisp-robobot-sec1,2,99
+4173,10.70.0.226,Robobot->Ribtiel (10.70.0.226) - snowisp-robobot-ribtiel,2,99
+4174,10.36.13.6,Robobot dist 4 UBNT (10.36.13.6) - snowisp-robobot-sec4,2,99
+4175,10.36.13.5,Robobot dist 3 UBNT (10.36.13.5) - snowisp-robobot-sec3,2,99
+4176,192.168.113.68,Worcester Sec (113.68) - snowisp-romans-1,2,100
+4177,192.168.113.67,Wolesley Sec (113.67) - snowisp-romans-2,2,100
+4178,10.41.1.98,Romansrivier 3.5 dist 1 (10.41.1.98) - snowisp-romans-3.5,2,100
+4179,10.41.1.99,Romansrivier 3.5 dist 2 (10.41.1.99) - snowisp-romans2-3.5,2,100
+4180,192.168.36.10,LaPetiteFerme PtP UBNT (36.10) - snowisp-simons-ptp-laf,2,101
+4181,192.168.25.2,Simonsberg->Hawekwa UBNT (25.2) - HW-SM-BB,2,101
+4182,192.168.43.6,Simonsberg Bot UBNT (43.6) - snowisp-sim-bot,2,101
+4183,192.168.43.3,Simonsberg 5.8 EdgeSwitch (43.3),2,101
+4184,192.168.39.10,Donkerhoek PtP PB (39.10) snowisp-simons-donker-ptp,2,101
+4185,10.41.0.35,snowisp-sim-3.5-paarl (10.41.0.35),2,101
+4186,10.41.0.37,Stellenbosch 3.5 UBNT (10.41.0.37) - snowisp-stell-3.5,2,101
+4187,10.36.62.2,Simonsberg 3.5 ES1 (10.36.62.2),2,101
+4188,10.75.0.58,Swartbergsvlei->Vredenburg UBNT (10.75.0.58) - DMR-Vrede-Swart,2,109
+4189,10.75.0.51,Swartbergsvlei->Oranjefontein UBNT (10.75.0.51) - DMR-Kapok-Swart,2,109
+4190,192.168.82.52,WOZ_UVM_OUD,2,117
+4191,192.168.80.90,WOZ_UVM_KAR_B - 5610-5650,2,117
+4192,192.168.82.219,82.219 - UVM Longifolia PB - STATIC 5150,2,117
+4193,192.168.82.218,82.218 - UVM Longifolia PB - STATIC 5150,2,117
+4194,10.41.1.36,Van Wyk 3.5 dist 2 (10.41.1.36) - Snow-isp-van-wyk-2,2,118
+4195,10.41.1.27,Van Wyk UBNT 1 (10.41.1.27) - snowisp-vanwyk-dist,2,118
+4196,10.41.1.35,Van Wyk 3.5 dist 1 (10.41.1.35) - Snow-isp-van-wyk-1,2,118
+4197,10.41.1.28,Van Wyk UBNT 2 (10.41.1.28) - snowisp-vanwyk-dist2,2,118
+4198,10.122.1.3,snowisp-Robertson UBNT (10.122.1.3),2,120
+4199,10.41.1.226,Vensterbank 3.5 Sec (10.41.1.226) - snowisp-venster,2,120
+4200,10.130.3.5,Werda 3.5 sec1 (10.130.3.5) - snowhero/werda/sec1,2,126
+4201,10.130.3.3,Werda 3.5 & 5.8 ES (10.130.3.3),2,126
+4202,10.130.3.6,Werda 3.5 sec2 (10.130.3.6) - snowhero/werda/sec2,2,126
+4203,10.130.3.8,snowisp/werda/sec2 UBNT (10.130.3.8),2,126
+4204,192.168.33.21,IB Mans PtP UBNT (33.21) - snowisp-ibmans-ptp,2,128
+4205,10.41.0.44,snowisp-wies-klap-3.5 (10.41.0.44),2,128
+4206,10.36.50.5,Snowball Staff Wifi M2 (10.36.50.5),2,128
+4207,192.168.33.3,Wiesenhof Stellenbosch UBNT (33.3) - snowisp-wies-stellenbosch,2,128
+4208,192.168.33.23,Paarl BP PtP (33.23) - snowisp-wies-paarlBP-ptp,2,128
+4209,192.168.33.6,Klapmuts MidGain (33.6) - snowisp-wies-klapflat,2,128
+4210,192.168.33.5,Wiesenhof Paarl UBNT (33.5) - snowisp-wies-Paarl,2,128
+4211,10.36.50.4,Wiesenhof 3.5 ES1 (10.36.50.4),2,128
+4212,10.72.1.15,Profile Feeds UBNT (10.72.1.15),2,133
+4213,10.72.1.6,Zandwyk Sec 3 (10.72.1.6) - Zandwyk-dist3,2,133
+4214,10.72.1.7,Zandwyk Sec 4 (10.72.1.7) - Zandwyk-dist4,2,133
+4215,10.72.1.4,Zandwyk Sec 1 (10.72.1.4) - Zandwyk-dist1,2,133
+4216,10.72.1.10,Morne van Zyl PtP PBM5 (10.72.1.10) - snowisp-PtP-mvanzyl,2,133
+4217,10.36.0.42,Zorgvliet->Jonkershoek UBNT (10.36.0.42) - snowisp-zorg-bb-jonkers,2,135
+4218,10.36.36.11,TheDunes PtP PBM5 (10.36.36.11) - snowisp-roode-thedunes-ptp,2,137
+4219,10.36.36.12,TheDunes Client Relay PBM5 (10.36.36.12),2,137
+4220,10.41.2.107,snowisp-smartie-3.5sec2 (10.41.2.107),2,142
+4221,10.41.2.106,snowisp-smartie-3.5sec1 (10.41.2.106),2,142
+4222,10.36.58.5,snowisp-wh-mweza (10.36.58.5),2,1010
+4223,10.36.58.4,snowisp-wh-pisces-sec (10.36.58.4),2,1010
+4224,10.36.58.3,snowisp-wh-gemini-sec (10.36.58.3),2,1010
+4225,10.36.200.66,Paarl POP 3.5 Sec 1 (10.36.200.66) - snowisp-paarlpop-3.5sec1,2,1018
+4226,10.36.34.5,Dixon dist 3 UBNT (10.36.34.5) - snowisp-dixon-dist3,2,1024
+4227,10.41.0.75,Gustrouw 3.5 dist 2 Jonkershoek (10.41.0.75) - snowisp-gustrow-dist2-3.5,2,1028
+4228,192.168.106.8,Wim Debruyn PtP UBNT (106.8) - snowisp-ptp-debruyn,2,1028
+4229,172.16.0.50,Kleinbaai (172.16.0.50),2,1031
+4230,10.41.1.124,snowisp-langeberg2 (10.41.1.124),2,1032
+4231,10.42.14.2,LNG-0002-3 ptp (10.42.14.2),2,1032
+4232,192.168.90.74,Sec3 (90.74) snowisp-ngdc-sec3,2,1034
+4233,10.75.4.130,Goodwood AP,2,1035
+4234,192.168.102.5,Old College dist 2 UBNT (102.5) - snowisp-col-dist 2,2,1036
+4235,192.168.102.4,Old College dist 3 UBNT (102.4) - snowisp-col-dist3,2,1036
+4236,192.168.102.3,Old College dist 1 UBNT (102.3) - snowisp-col-dist1,2,1036
+4237,10.157.0.30,Mobifin PtP (10.157.0.30) - snowisp-dmroukloof-mobifin-ptp,2,1037
+4238,10.157.0.13,Oukloof DMR 3.5 Sec1 (10.157.0.13) - snowisp-oukloofDMR-sec1,2,1037
+4239,192.168.46.252,Philadelphia dist UBNT (46.252) - snowisp-phill-dist,2,1038
+4240,10.41.2.124,snowisp-picardie-3.5sec2 (10.41.2.124),2,1039
+4241,10.41.2.123,snowisp-picardie-3.5sec1 (10.41.2.123),2,1039
+4242,192.168.54.10,54.10 - AWK SBG BASE,2,1041
+4243,192.168.54.103,54.103 - snowisp-golf-sec5,2,1041
+4244,192.168.54.104,54.104 - snowisp-golf-sec6,2,1041
+4245,192.168.54.101,54.101 - snowisp-golf-sec3,2,1041
+4246,192.168.54.102,54.102 - snowisp-golf-sec4,2,1041
+4247,192.168.54.98,54.98 - SnoWish Tough Switch,2,1041
+4248,192.168.54.99,54.99 - snowisp-golf-sec1,2,1041
+4249,192.168.54.100,54.100 - snowisp-golf-sec2,2,1041
+4250,10.36.52.3,snowisp-hoenderhok-sec1 (10.36.52.3),2,1044
+4251,10.41.0.99,snowisp-st.tropez-3.5-sec1 (10.41.0.99),2,1045
+4252,10.36.61.6,snowisp-stropazNEW-strand2 UBNT (10.36.61.6),2,1045
+4253,10.71.0.74,St Tropez->Gordonsbay2 UBNT (10.71.0.74) - snowisp-st-gb2,2,1045
+4254,10.41.1.51,snowisp-therons-dist1 (10.41.1.51) 3.5,2,1047
+4255,10.71.0.146,Theronsberg->Theronsberg Walter UBNT (10.71.0.146) snowisp-TSB-TW,2,1047
+4256,10.41.1.44,Therons dist 2 (10.41.1.44) - snowisp-therons-dist2,2,1047
+4257,10.41.1.52,snowisp-therons-dist2 (10.41.1.52) 3.5,2,1047
+4258,10.41.1.45,Theronsberg WIT-0036-3 PtP AP (10.41.1.45) - snowisp-therons-WIT-0036-3-ptp,2,1047
+4259,10.41.1.43,Therons dist 1 (10.41.1.43) - snowisp-therons-dist1,2,1047
+4260,10.71.0.147,Theronsberg Walter->Theronsberg UBNT (10.71.0.147) - snowisp-TSB-TW,2,1048
+4261,10.36.16.4,Touwsrivier dist 1 (10.36.16.4) - snowisp-touws-sec1,2,1049
+4262,10.36.16.9,BP Huis PtP (10.36.16.9) - snowisp-BP-huis-ptp,2,1049
+4263,10.36.16.11,RW Rekenaars Client PtP (10.36.16.11) - snowisp-touws-RWclient-ptp,2,1049
+4264,10.36.16.5,Touwsrivier dist 2 (10.36.16.5) - snowisp-touws-sec2,2,1049
+4265,10.36.16.6,snowisp-touws3.5-sec1 (10.36.16.6),2,1049
+4266,10.36.16.8,snowisp-touws3.5-sec2 (10.36.16.8),2,1049
+4267,10.41.1.244,snowisp-varkie-2 (10.41.1.244) 3.5,2,1050
+4268,10.41.1.243,snowisp-varkie-1 (10.41.1.243) 3.5,2,1050
+4269,10.36.21.4,snowisp-varkie-1 UBNT (10.36.21.4),2,1050
+4270,10.36.21.6,snowisp-varkie-3 UBNT (10.36.21.6),2,1050
+4271,10.36.21.9,snowisp-varkie-6 UBNT (10.36.21.9),2,1050
+4272,10.36.21.7,snowisp-varkie-4 UBNT (10.36.21.7),2,1050
+4273,10.36.21.10,HS Owner PtP UBNT (10.36.21.10) - snowisp-varkie-huis,2,1050
+4274,10.36.21.5,snowisp-varkie-2 UBNT (10.36.21.5),2,1050
+4275,10.36.21.8,snowisp-varkie-5 UBNT (10.36.21.8),2,1050
+4276,10.75.0.59,Vredenburg->Swartbergsvlei UBNT (10.75.0.59) - DMR-Vrede-Swart,2,1051
+4277,192.168.63.10,Waldorf UBNT dist Annadale (63.10) - snowisp-wald-anna,2,1052
+4278,192.168.63.6,Waldorf School (63.6),2,1052
+4279,192.168.63.5,Waldorf Relay->Waldorf School UBNT (63.5) - Snowisp-relay-waldorf,2,1052
+4280,192.168.63.3,Waldorf Relay->Block B UBNT (63.3) - snowisp-techno-waldorf,2,1052
+4281,192.168.63.11,Waldorf UBNT dist Arterial (63.11) - snowisp-wald-arterial,2,1052
+4282,192.168.74.51,74.51 - Huis P to  WGVHS3 RocketDish,2,1055
+4283,10.41.2.116,snowhero/witvlakte/sec2 (10.41.2.116) 3.5,2,1056
+4284,10.130.2.4,witvlakte/titanium /sec1 (10.130.2.4),2,1056
+4285,10.41.2.115,snowhero/witvlakte/sec1 (10.41.2.115) 3.5,2,1056
+4286,10.36.1.4,Zone Sec2 UBNT (10.36.1.4) - snowisp-zonesec-dist-sec2,2,1060
+4287,10.36.1.3,Zone Sec1 UBNT (10.36.1.3) - snowisp-zonesec-dist-sec1,2,1060
+4288,10.36.1.5,Zone Sec3 UBNT (10.36.1.5) - snowisp-zonesec-dist-sec3,2,1060
+4289,10.42.17.3,Worcester N1 dist 1 (10.42.17.3) - SNOWISP/N1/SEC1,2,131
+4290,10.42.17.4,Worcester N1 dist 2 (10.42.17.4) - SNOWISP/N1/SEC1,2,131
+4291,10.130.1.4,snowhero/sec2 (10.130.1.4) 3.5,2,131
+4292,10.130.1.3,snowhero/n1/sec1 (10.130.1.3) 3.5,2,131
+4293,10.41.0.115,Worcester NNI 3.5 sec 1 (10.41.0.115) - NeoHero-WM-3.5-Sec1,2,132
+4294,192.168.114.10,SARS PtP UBNT (114.10) - snowisp-NNI-SARS-ptp,2,132
+4295,192.168.114.4,snowisp-nni-dist-1 (114.4),2,132
+4296,192.168.114.6,Worcester NNI dist 2 (114.6) NeoHero-WM-5.8-Sec2,2,132
+4297,10.41.0.116,snowisp-NNI-3.5-2 (10.41.0.116),2,132
+4298,10.71.0.14,Kanonkop 2 RB2011 (10.71.0.14),1,53
+4299,192.168.83.19,83.19 - Bergendal SEC2,1,56
+4300,192.168.89.65,89.65 - DEL-0506 - Delicately Diff HS,1,56
+4301,192.168.89.61,89.61 - Denneoord HS,1,56
+4302,192.168.89.58,WOZ_BLK_SC2,1,56
+4303,192.168.89.43,89.43 - The Ridge Sec2,1,56
+4304,192.168.89.73,89.73 - Arts Barber,1,56
+4305,192.168.89.77,89.77 - Merweda HS,1,56
+4306,192.168.83.20,WOZ_BGD_SEC3,1,56
+4307,192.168.89.85,89.85 - Begendal Local Control,1,56
+4308,192.168.126.251,Maastricht MT 3 (126.251) - snowball_mastricht_sw2,1,64
+4309,10.36.6.13,SpanishFarm MT (10.36.6.13) - snowisp-manormews-MK,1,66
+4310,192.168.71.254,Marsubar RB1100 (71.254),1,68
+4311,192.168.130.254,Muizenberg Cinnebar 5.8 RB2011 (130.254),1,73
+4312,192.168.115.254,Oesnek West Old MT (115.254) - snowisp/snowisp-di-on-n/snowisp-di-on-w,1,80
+4313,10.41.0.82,Oesnek 3.5 CRS1 (10.41.0.82),1,80
+4314,192.168.115.253,Oesenk North MT (115.253) - snowisp-di-on-n (coetzenberg),1,80
+4315,192.168.101.15,Oranjefontein RB3011 (101.15),1,83
+4316,10.158.0.6,Oukloof RB1100 (10.158.0.6),1,85
+4317,10.40.0.150,Ouplaas 3.5 RB2011 (10.40.0.150),1,86
+4318,10.31.10.170,Paardeberg 3.5 RB2011 (10.31.10.170),1,87
+4319,154.119.48.70,Paardeberg 3.5 RB2011 (154.119.48.70),1,87
+4320,10.40.0.162,Pear 3.5 RB1100 (10.40.0.162),1,88
+4321,10.41.2.36,Pear CCR (10.41.2.36),1,88
+4322,10.36.0.148,Percy Holmes RB951 (10.36.0.148),1,89
+4323,154.119.48.12,154.119.48.12 - LOOPBACK,1,89
+4324,10.40.0.98,Pokkraal 3.5 RB2011 (10.40.0.98),1,92
+4325,10.41.0.196,Pokkraal 5.8 RB3011 (10.41.0.196),1,92
+4326,192.168.87.252,Ribbokkop dist 2 MT (87.252) - snowball2,1,94
+4327,10.36.0.108,Ribbokkop RB1100 (10.36.0.108),1,94
+4328,192.168.87.251,Ribbokkop dist 1 MT (87.251) - snowisp-rib1,1,94
+4329,154.119.48.22,154.119.48.22 - Loopback,1,94
+4330,10.36.0.220,Ribtiel CCR (10.36.0.220),1,95
+4331,10.36.0.204,Robobot RB1100 (10.36.0.204),1,99
+4332,10.36.13.2,Robobot CRS (10.36.13.2),1,99
+4333,10.41.0.145,Romansrivier 5.8 RB1100 (10.41.0.145),1,100
+4334,10.40.0.146,Romansrivier 3.5 RB2011 (10.40.0.146),1,100
+4335,154.119.48.15,Simonsberg Routing Board (154.119.48.15),1,101
+4336,192.168.37.253,Simonsberg Klapmuts MT (37.253) - kpadistn,1,101
+4337,192.168.38.254,Simonsberg Paarl MT (38.254) - simonsberg-dist,1,101
+4338,10.40.0.22,Simonsberg 3.5 RB1100 (10.40.0.22),1,101
+4339,192.168.108.2,Simonsberg->Wellington MT (108.2) - snowisp-wellington-temp,1,101
+4340,192.168.36.254,Simonsberg Stb MT (36.254) - kpadistn,1,101
+4341,10.31.12.46,Simonsberg Backhaul Board (10.31.12.46),1,101
+4342,10.36.50.217,Snowball CCR (10.36.50.217),1,103
+4343,10.36.69.2,Snowball_HS CRS (10.36.69.2),1,103
+4344,192.168.101.16,Swartbergsvlei RB3011 (101.16),1,109
+4345,192.168.5.3,SSID : Webersburg_Wine,1,117
+4346,192.168.82.138,82.138 - UVM De Lavia SXT,1,117
+4347,192.168.82.36,WOZ_UVM_R44 - 5785,1,117
+4348,192.168.83.6,83.6 - House 20 Omnitik,1,117
+4349,10.5.50.31,DeZalze_sxt_2,1,117
+4350,192.168.82.1,Uva Mira hEX (82.1),1,117
+4351,192.168.11.12,192.168.11.12 - LINKED - (17ghz Monitoring vlan90),1,117
+4352,192.168.82.112,82.112 - UVM RB4 Groove,1,117
+4353,192.168.82.211,82.211 - InTheVineCM - HS,1,117
+4354,192.168.82.222,WOZ_PKF_WNL,1,117
+4355,192.168.3.6,3.6 - Son SXT,1,117
+4356,192.168.1.5,1.5 -  Cellar_Reception,1,117
+4357,192.168.182.180,HSIP - Nic - Main Up,1,117
+4358,10.5.50.34,DeZalze_sxt_4,1,117
+4359,192.168.2.9,2.8 - UVM Tasting UP SXT,1,117
+4360,10.36.50.129,10.36.50.129 - Croydon CCR,1,117
+4361,10.5.50.29,10.5.50.29 - Cottages TP,1,117
+4362,192.168.82.223,WOZ_PKF_DZ,1,117
+4363,192.168.82.37,WOZ_UVM_EKD,1,117
+4364,10.5.50.3,10.5.50.3 - Guesthouse 1 SXT,1,117
+4365,192.168.82.134,82.134 - Thirsty Scarecrow HS,1,117
+4366,10.5.50.2,10.5.50.2 - Omnitik,1,117
+4367,192.168.82.120,82.120 - Jan Pierewiet,1,117
+4368,10.5.50.2,Weber_Hotspot,1,117
+4369,192.168.82.100,82.100 - UVM Tasting Room HS750,1,117
+4370,192.168.1.7,CELLAR,1,117
+4371,192.168.82.243,82.243 - DeWerf_13up,1,117
+4372,192.168.3.5,3.5 - Father SXT,1,117
+4373,192.168.82.105,82.105 - UVM 433AH RB3 - BBone,1,117
+4374,192.168.83.3,WOZ_DIG_H20,1,117
+4375,192.168.82.101,82.101 - UVM Tower SXT,1,117
+4376,10.36.59.14,10.36.59.14 - IAN-0226 - HAP,1,117
+4377,192.168.11.9,192.168.11.9 - Snowball USN G CCR (17ghz Monitoring vlan90),1,117
+4378,10.5.50.33,DeZalze_sxt_3,1,117
+4379,192.168.82.73,82.73 - Digteby Controller,1,117
+4380,192.168.82.224,82.224 - De Zalze Groove,1,117
+4381,10.36.59.13,10.36.59.13 - IAN-0226 Uplink,1,117
+4382,10.5.50.6,Cottages_9,1,117
+4383,192.168.82.34,82.34 - Neethlingshof Basebox,1,117
+4384,192.168.1.11,1.11 - Hexlite SW,1,117
+4385,192.168.82.112,WOZ_UVM_AMN,1,117
+4386,192.168.82.104,82.104 - UVM 433AH RB2,1,117
+4387,192.168.2.6,2.6 - UVM Tasting - Rob House - SXT,1,117
+4388,192.168.82.102,82.102 - UVM Cottages SXT,1,117
+4389,192.168.82.56,WOZ_VHM_OMNI,1,117
+4390,192.168.82.72,82.72 - Digteby Basebox,1,117
+4391,192.168.5.254,192.168.5.254,1,117
+4392,192.168.1.8,1.8 - Restaurant_ Cellar,1,117
+4393,192.168.3.2,3.2 - PaperTree 750,1,117
+4394,192.168.83.2,WOZ_DIG_SEC1,1,117
+4395,192.168.82.104,WOZ_UVM_TGP,1,117
+4396,192.168.82.90,82.90 - UVM - ZOE - 912,1,117
+4397,10.5.50.4,10.5.50.4 - Guesthouse 2 SXT,1,117
+4398,192.168.82.222,WOZ_PKF_SEC1,1,117
+4399,192.168.182.196,Chab - Mainhouse_Guest H SXT,1,117
+4400,192.168.83.4,83.4 - House 20 Clubhouse DISC,1,117
+4401,192.168.1.9,1.9 - Webersburg_Restaurant - HAP,1,117
+4402,192.168.82.223,WOZ_PKF_BWG,1,117
+4403,192.168.82.217,82.217 - NIC-0159 Highsite Owner,1,117
+4404,192.168.1.4,SSID: RECEPTION,1,117
+4405,192.168.82.121,82.121 - JanP 750,1,117
+4406,192.168.2.4,2.4 - UVM Tasting - Main House SXT,1,117
+4407,192.168.1.2,1.2 - LINKED,1,117
+4408,192.168.82.1,82.1 - Uva Mira Tower - HEX,1,117
+4409,10.36.59.100,10.36.59.100 -Webers_CottagesUp,1,117
+4410,192.168.82.223,82.223 - Longifolia 433 B,1,117
+4411,192.168.83.5,83.5 - House 20 SW750,1,117
+4412,192.168.82.98,82.98 - UVM Cott - Tasting SXT,1,117
+4413,10.5.50.1,10.5.50.11 - AP,1,117
+4414,192.168.82.220,82.220 - Longifolia 750 SW,1,117
+4415,192.168.82.2,82.2 - UVA Mira CRS,1,117
+4416,192.168.3.8,3.8  - Temuko  TP-Link,1,117
+4417,192.168.80.92,80.92 - Karibib Controller,1,117
+4418,192.168.82.90,WOZ_UVM_ZOE_B - 5580,1,117
+4419,192.168.82.157,82.157 - Webersburg Control,1,117
+4420,192.168.82.165,82.165 - Guest SXT,1,117
+4421,192.168.182.214,HSIP - HiddenValley,1,117
+4422,192.168.82.93,82.93 - ZOE - UVM 912 - Link disabled 20170925,1,117
+4423,192.168.83.6,WOZ_DIG_SEC2,1,117
+4424,192.168.82.122,WOZ_JAN_OMN,1,117
+4425,192.168.1.6,1.6 - Cellar_HAP,1,117
+4426,192.168.82.34,WOZ_UVM_NHF,1,117
+4427,192.168.5.3,192.168.5.3 - WineTasting -  WAP,1,117
+4428,10.5.50.1,10.5.50.13 - AP,1,117
+4429,192.168.82.2,Uva Mira CRS (82.2),1,117
+4430,192.168.82.210,82.210 - InTheVineCM Uplink,1,117
+4431,192.168.82.244,82.244 - DeWerf_13_750,1,117
+4432,192.168.82.55,82.55 - VredenheimUplink,1,117
+4433,192.168.1.4,1.4 - RECEPTION_SXT,1,117
+4434,192.168.82.49,WOZ_DIG_OMN,1,117
+4435,192.168.1.9,SSID:  Webersburg_Restaurant,1,117
+4436,192.168.182.249,HSIP - Wemer Logistics,1,117
+4437,192.168.2.7,2.7 - UVM Rob House - Tasting - SXT,1,117
+4438,192.168.82.38,WOZ_UVM_BLA_PTP,1,117
+4439,10.5.50.5,10.5.50.5 - Guesthouse 3 SXT,1,117
+4440,192.168.82.49,82.49 Digteby Omni,1,117
+4441,10.5.50.3,Cottages_7,1,117
+4442,192.168.82.122,82.122 - JanOmni,1,117
+4443,192.168.82.38,82.38 - UVM - Falcon LHG PTP,1,117
+4444,192.168.82.39,82.39 - SBS Base,1,117
+4445,10.5.50.1,10.5.50.1 - LINKED,1,117
+4446,192.168.82.222,82.222 - Longifolia 433 A,1,117
+4447,192.168.82.133,82.133 - Thirsty Scarecrow,1,117
+4448,192.168.82.56,192.168.82.56 - Vredenheim Omni,1,117
+4449,192.168.83.1,83.1 - LINKED,1,117
+4450,192.168.82.138,WOZ_UVM_DLE_PTP,1,117
+4451,10.5.50.30,DeZalze_sxt_1,1,117
+4452,10.5.50.1,10.5.50.15 - AP,1,117
+4453,192.168.82.36,82.36 - QRT - Route44,1,117
+4454,192.168.82.105,WOZ_UVM_KDF,1,117
+4455,192.168.82.57,82.57 - Vredenheim HS,1,117
+4456,192.168.82.142,82.142 - MewerV 951,1,117
+4457,192.168.2.5,2.5 - UVM Main House - Tasting - SXT,1,117
+4458,192.168.82.99,82.99 - UVM Tasting - Cott SXT,1,117
+4459,10.5.50.1,10.5.50.12 - AP,1,117
+4460,192.168.1.6,SSID - Webersburg_Cellar,1,117
+4461,192.168.2.3,2.3 - UVM Cellar UP SXT,1,117
+4462,192.168.1.7,1.7 - CELLAR_2_Restaurant,1,117
+4463,192.168.82.164,82.164 - Chabivin Uplink,1,117
+4464,192.168.82.156,82.156 - Webersburg_Wine_Estate,1,117
+4465,192.168.82.225,82.225 - De Zalze HS,1,117
+4466,192.168.82.141,82.141 - De Lavia - Merwe Viljoen,1,117
+4467,192.168.82.221,WOZ_PKF_OMNI,1,117
+4468,10.5.50.29,De Zalze Omni - Internal - 10.5.50.29,1,117
+4469,192.168.82.37,82.37 - UVM_Eikendal,1,117
+4470,10.5.50.1,10.5.50.10 - AP,1,117
+4471,10.36.50.132,10.36.50.132 - LINKED,1,117
+4472,192.168.83.2,83.2 - Clubhouse MANT,1,117
+4473,10.36.59.101,10.36.59.101 - Webers_Cottages,1,117
+4474,192.168.182.247,HSIP - Goorge Moore - Heathfield 15 DWL,1,117
+4475,192.168.82.103,82.103 - UVM Cott HS750,1,117
+4476,10.5.50.2,10.5.50.2 - Webers_M-ANT,1,117
+4477,192.168.82.221,82.221 - Longifolia Omnitik,1,117
+4478,192.168.73.190,73.190 - Longifolia WGV Groove (Only RB Access Backdoor),1,117
+4479,192.168.82.48,82.48- Digteby4_LHG5,1,117
+4480,192.168.82.223,WOZ_PKF_JTW,1,117
+4481,192.168.82.39,WOZ_UVM_SBS - 5300,1,117
+4482,192.168.83.3,83.3 - Clubhouse House 20 DISC,1,117
+4483,10.5.50.1,10.5.50.14 - AP,1,117
+4484,10.5.50.20,Christo  10.5.50.20,1,117
+4485,192.168.3.7,3.7 - Father AP - SSID TEMUKO,1,117
+4486,10.40.0.154,Van Wyk 3.5 RB 2011 (10.40.0.154),1,118
+4487,10.41.2.20,Van Wyk 5.8 RB2011 (10.41.2.20),1,118
+4488,10.31.12.26,Vensterbank Hotspot (10.31.12.26),1,120
+4489,154.119.48.78,Vensterbank 5.8 RB1100 (154.119.48.78),1,120
+4490,10.40.0.194,Vensterbank 3.5 RB2011 (10.40.0.194),1,120
+4491,192.168.76.254,Welgevonden->Bottelary MT (76.254) - snowisp-bot1,1,123
+4492,10.31.11.26,Welgevonden dist MT (10.31.11.26) - snowisp-welgevonden-5.8/wgwest/Welgevonden/www.snowisp.com,1,123
+4493,192.168.43.254,Wellington->Simonsberg MT (43.254) - snowisp-wellington-temp,1,124
+4494,192.168.108.254,"Wellington MT dist (108.254) - snowisp, snowisp-well-dist2",1,124
+4495,10.130.0.14,Werda 3.5 & 5.8 RB1100 (10.130.0.14),1,126
+4496,192.168.34.253,Wiesenhof Klapmuts MT (34.253) - snowisp-wshf-klap / kpadistn,1,128
+4497,10.156.0.6,Wiesenhof CCR (10.156.0.6),1,128
+4498,192.168.35.254,Wiesenhof Paarl MT (35.254) - simonsberg-dist,1,128
+4499,10.40.0.26,Wiesenhof 3.5 RB2011 (10.40.0.26),1,128
+4500,192.168.33.2,Wiesenhof 5.8 CRS (33.2),1,128
+4501,154.119.48.36,Zandwyk 5.8 RB1100 (154.119.48.36),1,133
+4502,10.72.1.2,Zandwyk 5.8 CRS (10.72.1.2),1,133
+4503,154.119.48.45,Zorgvliet CCR (154.119.48.45),1,135
+4504,10.36.40.3,Zorgvliet dist MT (10.36.40.3) - snowball_banhoek1,1,135
+4505,10.36.36.5,Roodeberg Sec 3 MT (10.36.36.5) - TI_Noordhoek_3,1,137
+4506,10.36.36.8,Roodeberg Sec 6 MT (10.36.36.8) - TI_Noordhoek_6,1,137
+4507,10.36.36.4,Roodeberg Sec 2 MT (10.36.36.4) - TI_Noordhoek_2,1,137
+4508,10.36.36.6,Roodeberg Sec 4 MT (10.36.36.6) - TI_Noordhoek_4,1,137
+4509,10.36.36.10,Roodeberg Sec 7 MT (10.36.36.10) - TI_Noordhoek_7,1,137
+4510,10.36.36.3,Roodeberg Sec 1 MT (10.36.36.3) - TI_Noordhoek_1,1,137
+4511,10.36.36.9,TI_Noordhoek_2 (10.36.36.9) - Roodeberg Sec 5 MT,1,137
+4512,10.36.50.68,Roodeberg RB1100 (10.36.50.68),1,137
+4513,10.36.36.13,TheDunes RB951 (10.36.36.13),1,137
+4514,10.0.2.12,Lake Michelle RB (10.0.2.12),1,138
+4515,10.71.0.180,Smartie RB3011 (10.71.0.180),1,142
+4516,10.71.0.44,Villa Italia CCR (10.71.0.44),1,1009
+4517,10.75.0.20,Warehouse CCR (10.75.0.20),1,1010
+4518,10.36.42.5,Sec 3 MT (10.36.42.5) - Trend Interconnect3,1,1012
+4519,10.36.42.4,Sec 2 MT (10.36.42.4) - Trend Interconnect2,1,1012
+4520,10.71.0.100,Wingate RB (10.71.0.100),1,1012
+4521,10.36.42.3,Sec 1 MT (10.36.42.3) - Trend Interconnect,1,1012
+4522,10.36.50.236,Welcome Glen hEX (10.36.50.236),1,1016
+4523,10.71.200.4,Paarl POP CCR (10.71.200.4),1,1018
+4524,10.40.0.234,Paarl LAC (10.40.0.234),1,1018
+4525,192.168.52.30,52.30 - Bosman C 433L,1,1022
+4526,10.35.5.28,Digteby Loopback (10.35.5.28),1,1023
+4527,10.36.65.7,Jonkershoek 2 CRS (10.36.65.7),1,1030
+4528,192.168.103.254,Old College CCR (103.254),1,1036
+4529,10.157.0.14,Oukloof DMR CRS (10.157.0.14),1,1037
+4530,192.168.46.254,Philadelphia hEX (46.254),1,1038
+4531,10.40.0.238,Picardie 3.5 RB2011 (10.40.0.238),1,1039
+4532,10.36.70.2,Picardie CRS1 (10.36.70.2),1,1039
+4533,10.36.200.52,Picardie CCR 10.36.200.52,1,1039
+4534,10.31.12.38,Picardie PM & WiFi (10.31.12.38),1,1039
+4535,10.36.50.124,Robertson POP CCR Snow LAC (10.36.50.124),1,1040
+4536,192.168.54.230,54.230 - LINKED,1,1041
+4537,192.168.54.14,54.14 - SBOS Golf Controller,1,1041
+4538,192.168.54.135,WOZ_HDZ_SEC - 5500,1,1041
+4539,192.168.54.65,54.65 - Tower Br,1,1041
+4540,192.168.54.229,54.229 -  SBG Backdoor HDZ,1,1041
+4541,192.168.54.97,54.97 - LINKED SnoWish,1,1041
+4542,192.168.54.135,54.135 - HDZ Sector,1,1041
+4543,192.168.54.13,54.13 - SBG AWK BASE,1,1041
+4544,10.31.10.30,Load Balancer 2 (10.31.10.30),1,1042
+4545,10.200.0.1,Border (10.200.0.1),1,1042
+4546,192.168.2.1,Load Balancer (2.1),1,1042
+4547,10.31.11.50,Roof Top LAC 2 (10.31.11.50),1,1042
+4548,10.31.11.70,Spier IT room (10.31.11.70),1,1043
+4549,10.125.0.6,Spier Banquit (10.125.0.6),1,1043
+4550,10.70.0.156,Spier Relay RB1100 (10.70.0.156),1,1044
+4551,192.168.140.9,St Tropez Gbay MT (140.9)  - snowisp-sttropez-dist1,1,1045
+4552,192.168.172.253,St Tropez MT 2 (172.253) - snowisp-sttropez-dist2,1,1045
+4553,10.41.0.100,snowisp-st.tropez-3.5-sec2 (10.41.0.100),1,1045
+4554,192.168.140.5,Top Floor RB2011 (140.5),1,1045
+4555,10.40.0.54,St Tropez 3.5 RB2011 (10.40.0.54),1,1045
+4556,192.168.140.7,5Th Floor RB2011 (140.7),1,1045
+4557,192.168.55.254,St Tropez RB1100 (55.254),1,1045
+4558,192.168.172.250,St Tropez MT 3 (172.250) - snowisp-dist3,1,1045
+4559,154.119.51.254,Teraco Core CCR 1072 (154.119.51.254),1,1046
+4560,154.119.50.254,Teraco FTTH CCR 1016 (154.119.50.254),1,1046
+4561,154.119.50.198,Teraco Switch (154.119.50.198),1,1046
+4562,154.119.50.246,Teraco FTTB CCR 1016 (154.119.50.246),1,1046
+4563,10.41.2.12,Theronsberg RB3011 (10.41.2.12),1,1047
+4564,10.40.0.158,Theronsberg 3.5 RB1100 (10.40.0.158),1,1047
+4565,10.71.0.148,Theronsberg Walter RB3011 (10.71.0.148),1,1048
+4566,10.36.0.236,Touwsrivier 3.5 & 5.8 RB2011 (10.36.0.236),1,1049
+4567,10.70.0.148,Varkie 5.8 RB1100 (10.70.0.148),1,1050
+4568,10.40.0.206,Varkie 3.5 RB2011 (10.40.0.206),1,1050
+4569,192.168.63.4,Waldorf Relay Mikrotik (63.4),1,1052
+4570,10.5.50.28,10.5.50.28,1,1053
+4571,192.168.73.9,73.9 - WGVHS1_SEC2 - 5220,1,1053
+4572,192.168.73.14,73.14 - WGVHS1_PPK,1,1053
+4573,10.5.50.252,WOZ_NGD_OMI,1,1053
+4574,192.168.73.45,73.45 - Kambro 27 SW - EMM + SCO,1,1053
+4575,192.168.74.38,74.38 - HEX SW,1,1053
+4576,192.168.73.62,73.62 - Welt_Controller_951,1,1053
+4577,192.168.73.12,73.12 - WGVHS1 QRT - 5660+,1,1053
+4578,192.168.74.35,WOZ_NGVD_SEC2,1,1053
+4579,192.168.74.40,74.40 - NGVD B SXT,1,1053
+4580,192.168.73.17,73.17 - WGVHS1_HORN6,1,1053
+4581,192.168.74.36,WOZ_NGVD_SEC3,1,1053
+4582,192.168.73.19,73.19 - WGVHS1_HORN8,1,1053
+4583,192.168.73.46,73.46 - Kaya Happy Rest LHG,1,1053
+4584,192.168.73.2,73.2 - HS1 Wild Peacock CRS,1,1053
+4585,192.168.73.8,WOZ_WGV_SEC1,1,1053
+4586,192.168.73.44,73.44 - Kambro 27 Uplink,1,1053
+4587,10.5.50.5,SW_5,1,1053
+4588,192.168.73.48,73.48 - Prinspark_BaseB,1,1053
+4589,192.168.74.35,74.35 - NGVD SEC2,1,1053
+4590,192.168.73.11,WOZ_WGV_SEC4,1,1053
+4591,192.168.74.41,74.41 - SW_7_2011,1,1053
+4592,192.168.73.47,73.47 - Kaya Happy Rest HS,1,1053
+4593,192.168.73.9,WOZ_WGV_SEC2,1,1053
+4594,10.5.50.8,SW_8,1,1053
+4595,192.168.74.34,74.34 - NGVD SEC1,1,1053
+4596,10.5.50.20,10.5.50.20,1,1053
+4597,192.168.73.16,73.16  - WGVHS1_HORN5,1,1053
+4598,10.5.50.4,SW_4,1,1053
+4599,192.168.73.58,WOZ_WILD_NGVD_B,1,1053
+4600,192.168.74.39,74.39 - NGVD A SXT,1,1053
+4601,10.5.50.21,Block_D_SXT,1,1053
+4602,192.168.73.61,73.61 - Welt_Uplink_Basebox,1,1053
+4603,192.168.74.34,WOZ_NGVD_SEC1,1,1053
+4604,192.168.73.18,73.18 - WGVHS1_HORN7,1,1053
+4605,192.168.73.12,WOZ_WGV_QR2,1,1053
+4606,192.168.73.20,73.20 - WGVHS1_HORN9,1,1053
+4607,192.168.73.14,WOZ_WGV_PPK_B,1,1053
+4608,192.168.74.36,83.36 - NGVD SEC3,1,1053
+4609,10.5.50.253,50.253 - NGVD HS,1,1053
+4610,192.168.73.60,73.60 - NGVD CCR,1,1053
+4611,192.168.73.1,73.1 - LINKED - HS1 - SFP1,1,1053
+4612,192.168.73.10,WOZ_WGV_SEC3,1,1053
+4613,192.168.73.11,73.11 - WGV Horn 4,1,1053
+4614,192.168.73.58,73.58 - WGV NGVD Base,1,1053
+4615,192.168.80.164,80.164 - WGV HS3 Control,1,1053
+4616,192.168.74.37,WOZ_NGVD_SEC4,1,1053
+4617,192.168.73.1,73.1 - LINKED - HS1 - SFP1,1,1053
+4618,192.168.73.10,73.10 - WGVHS1_SEC3 - 5280,1,1053
+4619,192.168.73.4,73.4 - WGVHS1 to MAIN SXT AC - CANARY,1,1053
+4620,192.168.73.3,73.3 - MAIN to WGVHS1 SXT AC - 5540 (Backdoor ONLY) - CANARY,1,1053
+4621,192.168.73.49,73.49 - Prinspark_HS,1,1053
+4622,192.168.73.55,73.55 - Squirrel Close HS,1,1053
+4623,192.168.74.33,74.33 - LINKED,1,1053
+4624,10.5.50.3,SW_3,1,1053
+4625,10.5.50.6,SW_6,1,1053
+4626,10.5.50.252,50.252 - NGVD Omnitik,1,1053
+4627,192.168.73.54,73.54 - Squirrel Close UP,1,1053
+4628,192.168.73.59,73.59 - NGVD B Basebox,1,1053
+4629,10.5.50.254,50.254 - NGVD A Groove - INTERNAL,1,1053
+4630,192.168.73.8,73.8 - WGVHS1_SEC1 - 5600,1,1053
+4631,192.168.74.37,74.37 - NGVD SEC4,1,1053
+4632,10.5.50.26,Block_A_BlockD_SXT,1,1053
+4633,192.168.74.68,74.68 - Babin Sec1 Left,1,1054
+4634,10.5.50.2,10.5.50.2 - WISH #StoneSqr1,1,1054
+4635,192.168.94.120,94.120 - Amazink Basebox - GEAR WAS OFF ON CONVERT,1,1054
+4636,192.168.73.189,73.189 - Stellenhurst HS,1,1054
+4637,192.168.73.190,73.190 - PKF Longfolia (Only RB Access Backdoor),1,1054
+4638,192.168.74.84,WOZ_BAB_TWR_B - 5350,1,1054
+4639,192.168.80.164,80.164 - WGV HS3 Control,1,1054
+4640,192.168.74.94,74.94 - WGV LOW OMNI,1,1054
+4641,192.168.73.129,73.129 - LINKED - WGVHS2_Br,1,1054
+4642,192.168.194.186,194.186 - Pajaro St - Fabian,1,1054
+4643,192.168.94.121,WISH HS Br,1,1054
+4644,192.168.74.65,74.65 - LOCAL,1,1054
+4645,192.168.74.68,WOZ_BAB_SEC1,1,1054
+4646,192.168.2.1,2.1 - Tenants on the Farm,1,1054
+4647,192.168.73.186,73.186 - Shiraz SXT,1,1054
+4648,192.168.73.169,73.169 - Babin PTH Base,1,1054
+4649,192.168.73.178,73.178 - Stone Sqr HS,1,1054
+4650,192.168.74.89,74.89 - Babin Repeater B 750,1,1054
+4651,192.168.73.136,WOZ_PTH_DEV,1,1054
+4652,192.168.73.177,73.177 - Stone Sqr UP,1,1054
+4653,192.168.73.137,73.137 = WGVHS2 QRT,1,1054
+4654,192.168.3.1,3.1 - Owners TP and PC,1,1054
+4655,192.168.73.136,WOZ_PKF_WGV_B,1,1054
+4656,192.168.52.1,192.168.52.1 - Dalsig Highsite Control,1,1054
+4657,192.168.74.92,74.92 - Babin_Sourfig DISC,1,1054
+4658,192.168.73.137,WOZ_PTH_SEC - 5150 (CUSTOM CHANNEL),1,1054
+4659,192.168.74.69,WOZ_BAB_SEC2,1,1054
+4660,192.168.52.11,192.168.52.11 - Dalsig - PRG Base,1,1054
+4661,10.5.50.3,10.5.50.3 - WISH #StoneSqr2,1,1054
+4662,192.168.73.164,73.164- PearlsP UP,1,1054
+4663,192.168.73.182,73.182 - Chablis UP,1,1054
+4664,192.168.74.87,WOZ_BAB_RPT_B,1,1054
+4665,192.168.74.85,74.85 - Babin Repeater A Disc2 IN,1,1054
+4666,192.168.73.180,73.180 - New Rest Uplink,1,1054
+4667,192.168.52.200,Station WDS - Backdoor,1,1054
+4668,192.168.52.200,192.168.52.200 - Backdoor - LINKED,1,1054
+4669,192.168.94.125,94.125 - Amazink WAP3,1,1054
+4670,192.168.74.69,74.69 - Babin Sec2 Right,1,1054
+4671,192.168.73.137,73.137 - LINKED,1,1054
+4672,192.168.73.130,73.130 - WGVHS2 Controller,1,1054
+4673,192.168.73.183,73.183 - Chablis HS,1,1054
+4674,192.168.73.165,73.165 - Pearls Place HS,1,1054
+4675,192.168.94.123,94.123 - Amazink WAP1,1,1054
+4676,192.168.94.121,94.121 - Amazink PVT HS,1,1054
+4677,192.168.74.93,74.93 - Sourfig_Babin,1,1054
+4678,192.168.94.124,94.124 - Amazink WAP2,1,1054
+4679,192.168.74.88,74.88 - Babin Repeater B Disc4 IN,1,1054
+4680,192.168.74.86,74.86 - Babin Repeater A 750 UP (Canary),1,1054
+4681,192.168.74.90,WOZ_BAB_OMNA,1,1054
+4682,192.168.73.181,73.181 - New Rest HS,1,1054
+4683,192.168.73.136,WOZ_UCM_UVM,1,1054
+4684,192.168.73.179,WOZ_UCM_SQR,1,1054
+4685,192.168.73.187,73.187 - Shiraz HS,1,1054
+4686,192.168.94.122,WISH HS Br,1,1054
+4687,192.168.73.185,73.185 - Emerald Court HS,1,1054
+4688,192.168.73.184,73.184 - Emerald Court UP,1,1054
+4689,192.168.74.84,74.84 - Babin Tower A Disc1,1,1054
+4690,192.168.94.122,94.122 - Amazink WISH HS,1,1054
+4691,192.168.73.132,73.132 - WGVHS2 to WGVHS3 SXT AC,1,1054
+4692,192.168.73.131,73.131 - WGVHS3 to WGVHS2 SXT AC - 5180,1,1054
+4693,192.168.195.59,195.59 - Rhodes North 14,1,1054
+4694,192.168.73.188,73.188 - Stellenhurst Uplink,1,1054
+4695,192.168.74.94,WOZ_WGV_LOW,1,1054
+4696,192.168.74.91,WOZ_BAB_OMNB,1,1054
+4697,192.168.52.11,WOZ_PRG_B,1,1054
+4698,192.168.73.168,73.168 - PTH Babin Base,1,1054
+4699,192.168.73.170,73.170 - Babin Farm Control,1,1054
+4700,192.168.73.136,73.136 - WGVHS2 RB1,1,1054
+4701,192.168.73.179,73.179 - Stone Sqr Omnitik,1,1054
+4702,192.168.74.87,74.87 - Babin Repeater B Disc3 OUT,1,1054
+4703,192.168.74.91,74.91 - Babin Omnitik B,1,1054
+4704,192.168.74.90,74.90 - Babin Omnitik A,1,1054
+4705,192.168.73.132,73.132 - WGVHS2 to WGVHS3 SXT AC,1,1055
+4706,192.168.74.25,74.25 - LINKED - WP,1,1055
+4707,192.168.73.1,73.1 - LINKED - HS1 - SFP1,1,1055
+4708,192.168.74.1,74.1 - LINKED - WGV_DAL_Br,1,1055
+4709,192.168.73.2,73.2 - HS1 - WIld Peacock CRS,1,1055
+4710,192.168.74.52,74.52 - Mon Desir Groove,1,1055
+4711,192.168.73.2,73.2 - HS1 - WIld Peacock CRS,1,1055
+4712,192.168.74.50,74.50 - WGVHS3 to Huis P RocketDish,1,1055
+4713,192.168.74.50,WOZ_WGV_HP_B,1,1055
+4714,192.168.73.131,73.131 - WGVHS3 to WGVHS2 SXT AC,1,1055
+4715,192.168.74.26,74.26 - Wild Peacock Client RB750,1,1055
+4716,192.168.73.130,73.130 - WGVHS2 Controller,1,1055
+4717,192.168.73.129,73.129 - LINKED - WGVHS2_Br,1,1055
+4718,192.168.74.4,74.4 - DAL Controller,1,1055
+4719,192.168.74.53,74.53 - Mon Desir HS,1,1055
+4720,192.168.83.33,83.33 - LINKED,1,1055
+4721,192.168.74.49,74.49 - LINKED - Huis Prion,1,1055
+4722,192.168.80.164,80.164 - WGV HS3 Control - CCR,1,1055
+4723,10.122.0.14,Witvlakte 3.5 & 5.8 RB1100 (10.122.0.14),1,1056
+4724,10.36.0.20,Zone Sec RB1100 (10.36.0.20),1,1060
+4725,192.168.73.62,73.62 - Welt_Controller_951,1,123
+4726,192.168.73.61,73.61 - Welt_Uplink_BaseBox,1,123
+4727,192.168.73.11,73.11 - WGV Horn 4,1,123
+4728,192.168.73.11,WOZ_WGV_SEC4,1,123
+4729,10.71.0.196,Wolesley POP (10.71.0.196),1,1057
+4730,10.71.0.121,Worcester N1 3.5 & 5.8 RB1100 (10.71.0.121),1,131
+4731,10.40.0.62,Worcester NNI 3.5 RB1100 (10.40.0.62),1,132
+4732,10.31.10.98,Worcester NNI CCR (10.31.10.98),1,132

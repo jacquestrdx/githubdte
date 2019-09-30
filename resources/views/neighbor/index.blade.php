@@ -1,0 +1,60 @@
+@extends('layouts.app')
+
+@section('title', 'DTE / Neighbors')
+
+@section('content')
+
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0">
+
+                <div class="panel panel-default">
+
+                    <div class="panel-heading">All Ip Neighbors
+
+                    </div>
+
+                    <div class="panel-body">
+                        <div class="dataTable_wrapper col-md-12 col-md-offset-0">
+                            <table class="table table-striped table-bordered table-hover dataTable no-footer" id="neighbor-datatable" role="grid" aria-describedby="dataTables-example_info">
+                            </table>
+                        </div>
+                    </div>
+                    @push('scripts')
+                        <script>
+                            $(document).ready(function() {
+
+                                $.ajax({
+                                    url: "/neighbor/ajax/all",                  //the script to call to get data
+                                    data: "",                        //you can insert url arguments here to pass to api.php
+                                                                     //for example "id=5&parent=6"
+                                    dataType: 'json',                //data format
+                                    success: function (dataSet)          //on receive of reply
+                                    {
+                                        $('#neighbor-datatable').DataTable( {
+                                            colReorder: true,
+                                            dom: 'Blfrtip',
+                                            buttons: [
+                                                'copy', 'csv', 'excel', 'pdf', 'print','colvis'
+                                            ],
+                                            data: dataSet,
+                                            columns: [
+                                                { title: "Id" },
+                                                { title: "IP" },
+                                                { title: "Mac" },
+                                                { title: "Interface" },
+                                                { title: "Identity" },
+                                                { title: "Platform" },
+                                                { title: "Device" },
+                                                { title: "Verified" }
+                                            ],
+                                            "pageLength": 50
+                                        } );
+                                    }
+                                });
+                            } );
+                        </script>
+                    @endpush
+                </div>
+            </div>
+        </div>
+@endsection

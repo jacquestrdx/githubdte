@@ -1,0 +1,8 @@
+a:8:{s:7:"attribs";a:4:{s:5:"xmlns";s:36:"http://pear.php.net/dtd/rest.package";s:9:"xmlns:xsi";s:41:"http://www.w3.org/2001/XMLSchema-instance";s:11:"xmlns:xlink";s:28:"http://www.w3.org/1999/xlink";s:18:"xsi:schemaLocation";s:80:"http://pear.php.net/dtd/rest.package    http://pear.php.net/dtd/rest.package.xsd";}s:1:"n";s:24:"Spreadsheet_Excel_Writer";s:1:"c";s:12:"pear.php.net";s:2:"ca";a:2:{s:7:"attribs";a:1:{s:10:"xlink:href";s:20:"/rest/c/File+Formats";}s:8:"_content";s:12:"File Formats";}s:1:"l";s:4:"LGPL";s:1:"s";s:41:"Package for generating Excel spreadsheets";s:1:"d";s:499:"Spreadsheet_Excel_Writer was born as a porting of the Spreadsheet::WriteExcel Perl module to PHP.
+  It allows writing of Excel spreadsheets without the need for COM objects.
+  It supports formulas, images (BMP) and all kinds of formatting for text and cells.
+  It currently supports the BIFF5 format (Excel 5.0), so functionality appeared in the latest Excel versions is not yet available.
+
+Install latest development version with Composer:
+
+composer require pear/spreadsheet_excel_writer:dev-master";s:1:"r";a:1:{s:7:"attribs";a:1:{s:10:"xlink:href";s:32:"/rest/r/spreadsheet_excel_writer";}}}

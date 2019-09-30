@@ -1,0 +1,309 @@
+##PINGS
+*/3 * * * * /usr/bin/php /var/www/html/dte/artisan StartHistoricalPingJob
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 1
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 2
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 3
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 4
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 5
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 6
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 7
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 8
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 9
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 10
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 11
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 12
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 13
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 14
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 15
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 16
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 17
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 18
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 19
+*/3 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalPingWorker 20
+
+#VIPCLIENTPINGS
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingJob
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 1
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 2
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 3
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 4
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 5
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 6
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 7
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 8
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 9
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 10
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 11
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 12
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 13
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 14
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 15
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 16
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 17
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 18
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 19
+*/10 * * * * sleep 15s;/usr/bin/php /var/www/html/dte/artisan StartHistoricalClientPingWorker 20
+
+#VIPCLIENT
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan StartClientPingJob
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 1
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 2
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 3
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 4
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 5
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 6
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 7
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 8
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 9
+*/5 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartClientPingWorker 10
+
+#UPDOWNPINGS
+*/1 * * * * /usr/bin/php /var/www/html/dte/artisan StartPingJob
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 1
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 2
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 3
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 4
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 5
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 6
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 7
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 8
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 9
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 10
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 11
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 12
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 13
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 14
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 15
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 16
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 17
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 18
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 19
+*/1 * * * * sleep 1s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 20
+##
+#UPDOWNPINGS
+* * * * * sleep 30s; /usr/bin/php /var/www/html/dte/artisan StartPingJob
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 1
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 2
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 3
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 4
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 5
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 6
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 7
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 8
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 9
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 10
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 11
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 12
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 13
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 14
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 15
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 16
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 17
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 18
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 19
+* * * * * sleep 31s; /usr/bin/php /var/www/html/dte/artisan StartPingWorker 20
+#
+#
+* * * * * /usr/bin/php /var/www/html/dte/artisan getLocationStatusCheck
+* * * * * sleep 30s;/usr/bin/php /var/www/html/dte/artisan getLocationStatusCheck
+0 * * * * /usr/bin/php /var/www/html/dte/artisan storeDailystats
+#
+#
+#*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls
+#Backhauls
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls 0
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls 1
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls 2
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls 3
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls 4
+*/10 * * * * /usr/bin/php /var/www/html/dte/artisan checkBackhauls 5
+
+*/15 * * * * /usr/bin/php /var/www/html/dte/artisan fixBackhauls
+*/20 */2 * * * /usr/bin/php /var/www/html/dte/artisan checkAllPolling
+*/20 * * * * /usr/bin/php /var/www/html/dte/artisan PollCustomOIDs
+#
+#
+#
+#Spesific SNMP Jobs
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 0
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 1
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 2
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 3
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 4
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 5
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 6
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 7
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 8
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 9
+0 */4 * * * /usr/bin/php /var/www/html/dte/artisan getIPNeighbors 10
+#
+0 */6 * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikIPs
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollSpesificDeviceType 11
+0 */2 * * * /usr/bin/php /var/www/html/dte/artisan PollSpesificDeviceType 10
+0 */2 * * * /usr/bin/php /var/www/html/dte/artisan checkInterfaceThreshholds
+*/15 * * * * /usr/bin/php /var/www/html/dte/artisan checkAllActivePPPOE
+#all except above listed
+#*/10 * * * * /usr/bin/php /var/www/html/dte/artisan getSips
+0 */2 * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikRoutes
+0 */2 * * * /usr/bin/php /var/www/html/dte/artisan Update_all_snmp
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan findFaults
+#
+#pollinterfaces
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 0
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 1
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 2
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 3
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 4
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 5
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 6
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 7
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 8
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 9
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 10
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 11
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 12
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 13
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 14
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 15
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 16
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 17
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 18
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 19
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan GraphAllMikrotikInterfaces 20
+
+#getPppoeCount
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 0
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 1
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 2
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 3
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 4
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 5
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 6
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 7
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 8
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 9
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 10
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 11
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 12
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 13
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 14
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 15
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 16
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 17
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 18
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 19
+*/30 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikPPPOECount 20
+#getVoltages
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan getAllMikrotikVoltage
+0 */2 * * * /usr/bin/php /var/www/html/dte/artisan verifyNeighbors
+
+#checkinterface changes
+*/5 * * * * /usr/bin/php /var/www/html/dte/artisan checkPortLinks
+
+#storeInterfaces
+0 * * * * /usr/bin/php /var/www/html/dte/artisan StoreAllDInterfaces 0
+0 * * * * /usr/bin/php /var/www/html/dte/artisan StoreAllDInterfaces 1
+0 * * * * /usr/bin/php /var/www/html/dte/artisan StoreAllDInterfaces 2
+0 * * * * /usr/bin/php /var/www/html/dte/artisan StoreAllDInterfaces 3
+0 * * * * /usr/bin/php /var/www/html/dte/artisan StoreAllDInterfaces 4
+0 * * * * /usr/bin/php /var/www/html/dte/artisan StoreAllDInterfaces 5
+
+#ubnt sector
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 0
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 1
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 2
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 3
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 4
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 5
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 6
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 7
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 8
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 9
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollUBNTSectors 10
+
+#PollLigowaves
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollLigowaves 0
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollLigowaves 1
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollLigowaves 2
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollLigowaves 3
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollLigowaves 4
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollLigowaves 5
+
+#PollAirfibre
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollAirfibres 0
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollAirfibres 1
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollAirfibres 2
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollAirfibres 3
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollAirfibres 4
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollAirfibres 5
+
+
+#Cambium sector
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollCambiumSectors 0
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollCambiumSectors 1
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollCambiumSectors 2
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollCambiumSectors 3
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollCambiumSectors 4
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollCambiumSectors 5
+
+#mikrotiksectors
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 0
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 1
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 2
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 3
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 4
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 5
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 6
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 7
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 8
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 9
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan PollMikrotikSectors 10
+#pollmikrotiks
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 0
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 1
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 2
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 3
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 4
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 5
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 6
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 7
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 8
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 9
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan ApiPollMikrotiks 10
+
+##CREATE REPORTS
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan createMonthICMPSLAReport
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan createWeekICMPSLAReport
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan createDayICMPSLAReport
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan create7daysICMPSLAReport
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan create30daysICMPSLAReport
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan create24hICMPSLAReport
+1 0 * * 5 /usr/bin/php /var/www/html/dte/artisan createFizWeeklyReport
+1 0 * * 5 /usr/bin/php /var/www/html/dte/artisan createFizMonthlyReport
+#
+0 */1 * * * /usr/bin/php /var/www/html/dte/artisan getAllPPPoeVendors
+#system integrity maintanance
+30 */2 * * * /usr/bin/pkill -f php
+* */1 * * * rm /var/mail/root
+* */1 * * * rm /var/mail/unknown
+* * * * * /usr/bin/php /var/www/html/dte/artisan schedule:run
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan ScheduledSoftwareUpdate
+30 23 * * * /usr/bin/php /var/www/html/dte/artisan ResetDownsToday
+30 1 * * * /usr/bin/php /var/www/html/dte/artisan checkBackups
+30 1 * * * /usr/bin/php /var/www/html/dte/artisan ResetFaults
+
+#BACKUPS
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 0
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 1
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 2
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 3
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 4
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 5
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 6
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 7
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 8
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 9
+0 23 * * * /usr/bin/php /var/www/html/dte/artisan backupMikrotiks 10
+
+15 */2 * * * /usr/bin/php /var/www/html/dte/artisan addHistoricalEntry
+

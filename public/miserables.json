@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {"id": "Castle", "group": 1},
+    {"id": "Teraco", "group": 1},
+    {"id": "CBD", "group": 1},
+    {"id": "Chamboard", "group": 1}
+  ],
+  "links": [
+    {"source": "Castle", "target": "Teraco", "value": 1},
+    {"source": "Castle", "target": "CBD", "value": 8},
+    {"source": "CBD", "target": "Chamboard", "value": 10},
+    {"source": "Chamboard", "target": "CBD", "value": 1}
+  ]
+}
