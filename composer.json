@@ -11,7 +11,7 @@
         "orangehill/iseed": "2.2",
         "crodas/influx-php": "^0.9",
         "snmp-persist/snmp-persist": "^0.9.3",
-        "phpmailer/phpmailer": "^5.2",
+        "phpmailer/phpmailer": "^6.1",
         "maknz/slack": "^1.7",
         "consoletvs/charts": "6.*"
 },
